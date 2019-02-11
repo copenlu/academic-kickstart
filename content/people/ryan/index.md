@@ -44,7 +44,7 @@ link = "mailto:ryan.cotterell@gmail.com"  # For a direct email link, use "mailto
 [[social]]
 icon = "twitter"
 icon_pack = "fab"
-link = "https://twitter.com/_shrdlu_"
+link = "https://twitter.com/ryandcotterell"
 
 [[social]]
 icon = "google-scholar"

@@ -44,7 +44,7 @@ link = "mailto:hartmann@di.ku.dk"  # For a direct email link, use "mailto:test@e
 [[social]]
 icon = "google-scholar"
 icon_pack = "ai"
-link = "https://scholar.google.co.uk/citations?f-NzaE8AAAAJ"
+link = "https://scholar.google.dk/citations?user=f-NzaE8AAAAJ"
 
 [[social]]
 icon = "github"

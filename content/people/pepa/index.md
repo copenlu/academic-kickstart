@@ -39,12 +39,17 @@ tags = ["Members"]
 [[social]]
 icon = "envelope"
 icon_pack = "fas"
-link = "mailto:pepa.k.gencheva@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+link = "mailto:pepa@di.ku.dk.com"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
 icon = "twitter"
 icon_pack = "fab"
 link = "https://twitter.com/atanasovapepa"
+
+[[social]]
+icon = "linkedin"
+icon_pack = "fab"
+link = "https://www.linkedin.com/in/pepa-atanasova-65a2b417b"
 
 [[social]]
 icon = "google-scholar"
@@ -54,7 +59,7 @@ link = "https://scholar.google.co.uk/citations?user=CLOC3rEAAAAJ"
 [[social]]
 icon = "github"
 icon_pack = "fab"
-link = "https://github.com/pgencheva"
+link = "https://github.com/apepa"
 
 
 # Optional external URL for project (replaces project detail page).

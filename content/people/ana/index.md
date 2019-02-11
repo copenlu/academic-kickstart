@@ -39,7 +39,7 @@ tags = ["Affiliated"]
 [[social]]
 icon = "envelope"
 icon_pack = "fas"
-link = "mailto:yova@di.ku.dk"  # For a direct email link, use "mailto:test@example.org".
+link = "mailto:ana@di.ku.dk"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
 icon = "twitter"
@@ -54,7 +54,7 @@ link = "https://www.linkedin.com/in/ana-valeria-gonzalez-a89114103/"
 [[social]]
 icon = "google-scholar"
 icon_pack = "ai"
-link = "https://scholar.google.co.uk/citations?Br-un2SIroAAAAJ"
+link = "https://scholar.google.com/citations?user=un2SIroAAAAJ"
 
 [[social]]
 icon = "github"

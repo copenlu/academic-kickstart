@@ -54,7 +54,7 @@ link = "https://www.linkedin.com/in/yova-kementchedjhieva/"
 [[social]]
 icon = "google-scholar"
 icon_pack = "ai"
-link = "https://scholar.google.co.uk/citations?Br-FqfIAAAAJ"
+link = "https://scholar.google.co.uk/citations?user=Br-FqfIAAAAJ&hl=bg"
 
 [[social]]
 icon = "github"
