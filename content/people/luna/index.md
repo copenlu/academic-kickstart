@@ -41,6 +41,10 @@ icon = "envelope"
 icon_pack = "fas"
 link = "mailto:luna.debruyne@ugent.be"  # For a direct email link, use "mailto:test@example.org".
 
+[[social]]
+icon = "linkedin"
+icon_pack = "fab"
+link = "https://www.linkedin.com/in/luna-de-bruyne-2b4152144/"
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://example.org"
