@@ -6,7 +6,7 @@ title = "Yova Kementchedjhieva"
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "This is Yova. She's a member of the CoAStaL NLP group and co-supervised by Isabelle."
+bio = "Yova researches low-resource and cross-lingual learning. She's a member of the CoAStaL NLP group and co-advised by Isabelle."
 
 # External website link
 external_link = "https://yovakem.github.io/"
@@ -54,7 +54,7 @@ link = "https://www.linkedin.com/in/yova-kementchedjhieva/"
 [[social]]
 icon = "google-scholar"
 icon_pack = "ai"
-link = "https://scholar.google.co.uk/citations?user=Br-FqfIAAAAJ&hl=bg"
+link = "https://scholar.google.co.uk/citations?user=Br-FqfIAAAAJ"
 
 [[social]]
 icon = "github"
@@ -69,7 +69,6 @@ external_link = "http://example.org"
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by Toa Heftiba on Unsplash"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

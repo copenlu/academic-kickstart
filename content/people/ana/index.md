@@ -6,7 +6,7 @@ title = "Ana Valeria González"
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "This is Ana. She's a member of the CoAStaL NLP group and co-supervised by Isabelle."
+bio = "Ana's main research interest is question answering, with a particular focus on the customer support domain. She's a member of the CoAStaL NLP group and co-advised by Isabelle."
 
 # External website link
 external_link = "https://anavaleriagonzalez.github.io/"
