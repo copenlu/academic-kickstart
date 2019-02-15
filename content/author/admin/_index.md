@@ -1,12 +1,12 @@
 +++
 # Display name
-name = "CopeNLU"
+# name = "CopeNLU"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Natural Language Understanding Research Group"
+# role = "Natural Language Understanding Research Group"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -48,7 +48,7 @@ interests = ["Natural Language Understanding", "Learning with Limited Labelled D
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/IAugenstein"
+  link = "https://twitter.com/CopeNLU"
 
 [[social]]
   icon = "github"
