@@ -1,11 +1,11 @@
 +++
-title = "28 Marie Skłodowska-Curie PhD Fellowships Available"
-date = 2019-02-10  # Schedule page publish date.
+title = "35 Marie Skłodowska-Curie PhD Fellowships Available"
+date = 2019-02-15  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-02-10
+time_start = 2019-02-15
 time_end = 2019-05-01
 # all_day = true
 
@@ -14,7 +14,7 @@ authors = []
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = "28 Marie Skłodowska-Curie PhD fellowships are available at the University of Copenhagen Faculty of Science via the TALENT program. The fellowship offers applicants employment as PhD fellows for a period of three years on a research topic of the fellow's choice. The current call is open from 15 February to 1 April 2019 for a start date in autumn 2019."
+abstract_short = "35 Marie Skłodowska-Curie PhD fellowships are available at the University of Copenhagen Faculty of Science via the TALENT program. The fellowship offers applicants employment as PhD fellows for a period of three years on a research topic of the fellow's choice. The current call is open from 15 February to 1 April 2019 for a start date in autumn 2019."
 # abstract_short = "28 Marie Skłodowska-Curie PhD fellowships available at the University of Copenhagen Faculty of Science"
 
 # Name of event and optional event URL.
@@ -66,8 +66,8 @@ math = false
   focal_point = "Right"
 +++
 
-28 Marie Skłodowska-Curie PhD fellowships are available at the University of Copenhagen Faculty of Science via the TALENT program. The fellowship offers applicants employment as PhD fellows for a period of three years on a research topic of the fellow's choice. The current call is open from 15 February to 1 April 2019 for a start date in Autumn 2019. Candidates are required to have completed a Master's degree at the time of application, to not have resided in Denmark in the past 12 months, and to have a recent English language certificate.
+35 Marie Skłodowska-Curie PhD fellowships are available at the University of Copenhagen Faculty of Science via the TALENT program. The fellowship offers applicants employment as PhD fellows for a period of three years on a research topic of the fellow's choice. The current call is open from 15 February to 1 April 2019 for a start date in Autumn 2019. Candidates are required to have completed a Master's degree at the time of application, to not have resided in Denmark in the past 12 months, and to have a recent English language certificate.
 
-Read more about the fellowship on the <a href="https://talent.ku.dk/">program website</a>, and more about reasons to join us in our <a href="post/why-ucph/">recent blog post</a>. Before applying, please get in touch to informally discuss possible topics. Note that eligibility criteria are enforced strictly, so if you are in doubt about whether you are eligible, please also enquire about this beforehand.
+Read more about the fellowship on the <a href="https://talent.ku.dk/">program website</a>, and more about reasons to join us in our <a href="post/why-ucph/">recent blog post</a>. Before applying, please get in touch to informally discuss possible topics. Note that eligibility criteria are enforced strictly, so if you are in doubt about whether you are eligible, please also enquire about this beforehand. When you're ready, you can <a href="https://employment.ku.dk/phd/?show=148844%20">apply here</a>.
 
 The current call is the second invitation for proposals. Even though TALENT is a <a href="https://talent.ku.dk/calls-and-deadlines/1st-call-for-proposals/">very competitive program</a>, CopeNLU's <a href="https://scholar.google.co.uk/citations?user=CLOC3rEAAAAJ">Pepa Atanasova</a> holds one such fellowship, so we are in a good position to advise on application procedures.
