@@ -72,7 +72,7 @@ math = false
 <a href="/authors/johannes-bjerva/">Johannes Bjerva</a>, <a href="/authors/yova-kementchedjhieva/">Yova Kementchedjhieva</a>, <a href="/authors/ryan-cotterell/">Ryan Cotterell</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>.
 
 <a href="/publication/2019_naacl_hoyle/">Combining Disparate Sentiment Lexica with a Multi-View Variational Autoencoder</a>.
-<a href="/authors/alexander-hoyle/">Alexander Hoyle</a>, <a href="/authors/lawrence-wolf-sonkin/">Lawrence Wolf-Sonkin</a>, <a href="/authors/ryan-cotterell/">Ryan Cotterell</a>, <a href="/authors/hanna-wallach/">Hanna Wallach</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>.
+<a href="/authors/alexander-hoyle/">Alexander Hoyle</a>, <a href="/authors/lawrence-wolf-sonkin/">Lawrence Wolf-Sonkin</a>, <a href="/authors/hanna-wallach/">Hanna Wallach</a>, <a href="/authors/ryan-cotterell/">Ryan Cotterell</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>.
 
 <a href="/publication/2019_naacl_hartmann/">Issue Framing in Online Discussion Fora</a>.
 <a href="/authors/mareike-hartmann/">Mareike Hartmann</a>, <a href="/authors/tallulah-jansen/">Tallulah Jansen</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>, <a href="/authors/anders-søgaard/">Anders Søgaard</a>.
