@@ -14,7 +14,7 @@ authors = []
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = "A postdoc position on question answering is available in the CopeNLU group, partly funded by a Megagon Labs faculty resarch award. The position is restricted two years initially, after which a contract renewal is possible given funding availability. The current call is open until 16 April, and the preferred start date is 16 May or soon afterwards."
+abstract_short = "A postdoc position on question answering is available in the CopeNLU group, partly funded by a Megagon Labs faculty resarch award. The position is restricted to two years initially, after which a contract renewal is possible given funding availability. The current call is open until 16 April, and the preferred start date is 16 May or soon afterwards."
 # abstract_short = "A postdoc position on question answering is available in the CopeNLU group. The postdoc position is offered in the context of a Megagon Labs faculty award for the project 'Subjective Question Answering'"
 
 # Name of event and optional event URL.
@@ -66,7 +66,7 @@ math = false
   focal_point = "Right"
 +++
 
-A postdoc position on question answering is available in the CopeNLU group at the <a href="https://di.ku.dk/english/about/">Department of Computer Science, University of Copenhagen. The postdoc position is partly funded by a <a href="http://www.megagon.ai">Megagon Labs</a> faculty research award for the project `Subjective Question Answering´. The position is restricted two years initially, after which a contract renewal is possible given funding availability. The current call is open until 16 April, and the preferred project start date is 16 May or soon afterwards.
+A postdoc position on question answering is available in the CopeNLU group at the <a href="https://di.ku.dk/english/about/">Department of Computer Science, University of Copenhagen. The postdoc position is partly funded by a <a href="http://www.megagon.ai">Megagon Labs</a> faculty research award for the project `Subjective Question Answering´. The position is restricted to two years initially, after which a contract renewal is possible given funding availability. The current call is open until 16 April, and the preferred project start date is 16 May or soon afterwards.
 
 Read more about reasons to join us in our <a href="post/why-ucph/">recent blog post</a>. Before applying, you are very welcome get in touch to informally discuss further details about the position. We particularly welcome applications from researchers of underrepresented groups in NLP.
 
