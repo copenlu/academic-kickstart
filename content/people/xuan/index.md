@@ -1,19 +1,18 @@
 +++
 # Display name
-title = "NN PhD Student"
-draft = true
+title = "Zhong Xuan"
 
 # Role/position
-role = "PhD Student"
+role = "Research Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "This is a new PhD student, joining in Spring 2019."
+bio = "Zhong Xuan is a student at Yale-NUS College, Singapore, and is visiting CopeNLU in Summer 2019 to work on relation extraction and knowledge base population."
 
 # External website link
-# external_link = "http://isabelleaugenstein.github.io/"
+external_link = "."
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-18T17:07:01
+date = 2019-01-15T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -37,6 +36,20 @@ tags = ["Members"]
 #
 #   Full list: https://jpswalsh.github.io/academicons/
 
+[[social]]
+icon = "envelope"
+icon_pack = "fas"
+link = "mailto:zhongxuan@u.yale-nus.edu.sg"  # For a direct email link, use "mailto:test@example.org".
+
+[[social]]
+icon = "twitter"
+icon_pack = "fab"
+link = "https://twitter.com/zhongxuank"
+
+[[social]]
+icon = "linkedin"
+icon_pack = "fab"
+link = "https://sg.linkedin.com/in/zhongxuan95"
 
 
 # Optional external URL for project (replaces project detail page).
