@@ -1,5 +1,5 @@
 +++
-title = "Combining Disparate Sentiment Lexica with a Multi-View Variational Autoencoder"
+title = "Combining Sentiment Lexica with a Multi-View Variational Autoencoder"
 date = 2019-02-22T00:00:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "In Proceedings of the *2019 Conference of the North American Chap
 publication_short = "In *NAACL*"
 
 # Abstract and optional shortened version.
-abstract = "When assigning quantitative labels to a dataset, different methodologies may rely on different scales. One such example is sentiment lexica, which can use binary, categorical, or continuous scales to quantify word polarity. Of high interest is thus the ability to unify these scores to both achieve maximal coverage over words and account for potential imprecision, while retaining score interpretability. We introduce a generative model of sentiment to combine these scores into a common latent representation. We realise this model with a novel multi-view VAE, which encodes and decodes conditioned on the data source. To evaluate the expressivity of this metric against others, we induce heuristic sentence-level annotators with these lexica. While existing weakly-supervised methods improve coverage by defining features for each lexicon, our latent representation is low-dimensional and easily interpretable. In a downstream weak labelling setup, our model outperforms individual lexica as well as straightforward combinations thereof across several tasks."
+abstract = "When assigning quantitative labels to a dataset, different methodologies may rely on different scales. In particular, when assigning polarities to words in a sentiment lexicon, annotators may use binary, categorical, or continuous labels. Naturally, it is of interest to unify these labels from disparate scales to both achieve maximal coverage over words and to create a single, more robust sentiment lexicon while retaining scale coherence. We introduce a generative model of sentiment lexica to combine disparate scales into a common latent representation. We realize this model with a novel multi-view variational autoencoder (VAE), called SentiVAE. We evaluate our approach via a downstream text classification task involving nine English-Language sentiment analysis datasets; our representation outperforms six individual sentiment lexica, as well as a straightforward combination thereof."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -49,7 +49,7 @@ projects = ["limited-data"]
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://arxiv.org/abs/1904.02839"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
