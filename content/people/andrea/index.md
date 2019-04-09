@@ -1,22 +1,23 @@
 +++
 # Display name
-title = "Giannis Bekoulis"
+title = "Andrea Lekkas"
+draft = true
 
 # Role/position
-role = "PhD Intern"
+role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Giannis is a PhD Student at Ghent University, and is visiting CopeNLU in Spring 2019 to work on joint information extraction."
+bio = "Andrea's main research interests are multilingual learning, with a particular focus on authoring support tools. He is a PhD student at the University of Southern Denmark and co-advised by Isabelle."
 
 # External website link
-external_link = "https://bekou.github.io/"
+external_link = "https://www.linkedin.com/in/andrealekkas/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-17T17:07:01
+date = 2018-01-17T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Affiliated"]
 
 # Social/Academic Networking
 #
@@ -37,24 +38,9 @@ tags = ["Members"]
 #   Full list: https://jpswalsh.github.io/academicons/
 
 [[social]]
-icon = "envelope"
-icon_pack = "fas"
-link = "mailto:giannis.bekoulis@ugent.be"  # For a direct email link, use "mailto:test@example.org".
-
-[[social]]
-icon = "twitter"
+icon = "linkedin"
 icon_pack = "fab"
-link = "https://twitter.com/g_bekou"
-
-[[social]]
-icon = "google-scholar"
-icon_pack = "ai"
-link = "https://scholar.google.com/citations?user=-IipBzIAAAAJ"
-
-[[social]]
-icon = "github"
-icon_pack = "fab"
-link = "https://github.com/bekou"
+link = "https://www.linkedin.com/in/andrealekkas/"
 
 
 # Optional external URL for project (replaces project detail page).
@@ -64,7 +50,7 @@ external_link = "http://example.org"
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  # caption = "Photo by Toa Heftiba on Unsplash"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
