@@ -1,13 +1,13 @@
 +++
 # Display name
 title = "Andrea Lekkas"
-draft = true
+draft = false
 
 # Role/position
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Andrea's main research interests are multilingual learning, with a particular focus on authoring support tools. He is a PhD student at the University of Southern Denmark and co-advised by Isabelle."
+bio = "Andrea's main research interests are multilingual learning, with a particular focus on translation-aware word prediction. He is a PhD student at the University of Southern Denmark and co-advised by Isabelle."
 
 # External website link
 external_link = "https://www.linkedin.com/in/andrealekkas/"
@@ -38,10 +38,19 @@ tags = ["Affiliated"]
 #   Full list: https://jpswalsh.github.io/academicons/
 
 [[social]]
+icon = "twitter"
+icon_pack = "fab"
+link = "https://twitter.com/AndreaLekkas"
+
+[[social]]
 icon = "linkedin"
 icon_pack = "fab"
 link = "https://www.linkedin.com/in/andrealekkas/"
 
+[[social]]
+icon = "github"
+icon_pack = "fab"
+link = "https://github.com/AndreaLK3"
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://example.org"
