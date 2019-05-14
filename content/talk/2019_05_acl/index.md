@@ -1,12 +1,12 @@
 +++
-title = "3 Papers Accepted to NAACL 2019"
-date = 2019-02-22  # Schedule page publish date.
+title = "2 Papers Accepted to ACL 2019"
+date = 2019-05-14  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-02-22
-time_end = 2019-05-22
+time_start = 2019-05-14
+time_end = 2019-08-14
 # all_day = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -14,15 +14,15 @@ authors = []
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = "3 papers by CopeNLU authors are accepted to appear at NAACL 2019. Topics span from population of typological knowledge bases and weak supervision from disparate lexica to frame detection in online fora."
+abstract_short = "2 papers by CopeNLU authors are accepted to appear at ACL 2019, on discovering probabilistic implications in typological knowledge bases as well as gendered language"
 # abstract_short = "28 Marie Skłodowska-Curie PhD fellowships available at the University of Copenhagen Faculty of Science"
 
 # Name of event and optional event URL.
-event = "Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019)"
-event_url = "http://naacl2019.org"
+event = "Annual Meeting of the Association for Computational Linguistics (ACL 2019)"
+event_url = "http://acl2019.org"
 
 # Location of event.
-location = "Minneapolis, MN, USA"
+location = "Florence, Italy"
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -66,13 +66,10 @@ math = false
   focal_point = "Right"
 +++
 
-3 papers by CopeNLU authors are accepted to appear at NAACL 2019. Topics span from population of typological knowledge bases and weak supervision from disparate lexica to frame detection in online fora.
+2 papers by CopeNLU authors are accepted to appear at ACL 2019. One paper is on uncovering probabilistic implications in typological knowledge bases, following up from our <a href="/publication/2019_naacl_bjerva/">NAACL 2019 paper on generative linguistic typology</a>; whereas the other one is on unsupervised discovery of gendered language, utilising the <a href="/publication/2019_naacl_hoyle/">multi-view autoencoder introduced in our NAACL 219 paper</a>.
 
-<a href="/publication/2019_naacl_bjerva/">A Probabilistic Generative Model of Linguistic Typology</a>.
+<a href="/publication/2019_acl_bjerva/">Uncovering Probabilistic Implications in Typological Knowledge Bases</a>.
 <a href="/authors/johannes-bjerva/">Johannes Bjerva</a>, <a href="/authors/yova-kementchedjhieva/">Yova Kementchedjhieva</a>, <a href="/authors/ryan-cotterell/">Ryan Cotterell</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>.
 
-<a href="/publication/2019_naacl_hoyle/">Combining Disparate Sentiment Lexica with a Multi-View Variational Autoencoder</a>.
-<a href="/authors/alexander-hoyle/">Alexander Hoyle</a>, <a href="/authors/lawrence-wolf-sonkin/">Lawrence Wolf-Sonkin</a>, <a href="/authors/hanna-wallach/">Hanna Wallach</a>, <a href="/authors/ryan-cotterell/">Ryan Cotterell</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>.
-
-<a href="/publication/2019_naacl_hartmann/">Issue Framing in Online Discussion Fora</a>.
-<a href="/authors/mareike-hartmann/">Mareike Hartmann</a>, <a href="/authors/tallulah-jansen/">Tallulah Jansen</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>, <a href="/authors/anders-søgaard/">Anders Søgaard</a>.
+<a href="/publication/2019_acl_hoyle/">Unsupervised Discovery of Gendered Language through Latent-Variable Modeling</a>.
+<a href="/authors/alexander-hoyle/">Alexander Hoyle</a>, <a href="/authors/lawrence-wolf-sonkin/">Lawrence Wolf-Sonkin</a>, <a href="/authors/hanna-wallach/">Hanna Wallach</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>, <a href="/authors/ryan-cotterell/">Ryan Cotterell</a>.
