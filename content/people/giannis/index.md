@@ -6,7 +6,7 @@ title = "Giannis Bekoulis"
 role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Giannis is a PhD Student at Ghent University, and is visiting CopeNLU in Spring 2019 to work on joint information extraction."
+bio = "Giannis is a PhD Student at Ghent University, and was visiting CopeNLU in Spring 2019 to work on joint information extraction."
 
 # External website link
 external_link = "https://bekou.github.io/"
@@ -16,7 +16,7 @@ date = 2019-01-17T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #
