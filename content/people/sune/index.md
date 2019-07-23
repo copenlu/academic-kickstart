@@ -12,7 +12,7 @@ bio = "Now a data scientist at Hypefactors"
 external_link = "https://dk.linkedin.com/in/sune-debel-756893a8"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-01-20T17:09:01
+date = 2017-01-16T17:09:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -12,7 +12,7 @@ bio = "Giannis is a PhD Student at Ghent University, and was visiting CopeNLU in
 external_link = "https://bekou.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-17T17:07:01
+date = 2017-01-17T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -6,17 +6,17 @@ title = "Zhong Xuan"
 role = "Research Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Zhong Xuan is a student at Yale-NUS College, Singapore, and is visiting CopeNLU in Summer 2019 to work on relation extraction and knowledge base population."
+bio = "Zhong Xuan is a student at Yale-NUS College, Singapore, and was visiting CopeNLU in Summer 2019 to work on relation extraction and knowledge base population."
 
 # External website link
 external_link = "."
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-15T17:07:01
+date = 2017-01-19T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

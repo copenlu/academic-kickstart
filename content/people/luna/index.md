@@ -6,17 +6,17 @@ title = "Luna De Bruyne"
 role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Luna is a PhD Student at Ghent University, and is visiting CopeNLU in Spring 2019 to work on emotion detection."
+bio = "Luna is a PhD Student at Ghent University, and was visiting CopeNLU in Spring 2019 to work on emotion detection."
 
 # External website link
 external_link = "https://research.flw.ugent.be/en/luna.debruyne"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-16T17:07:01
+date = 2017-01-18T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #
