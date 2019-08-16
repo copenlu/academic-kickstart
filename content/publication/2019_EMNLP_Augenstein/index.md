@@ -1,10 +1,10 @@
 +++
-title = "Multi-Task Learning of Pairwise Sequence Classification Tasks over      Disparate Label Spaces"
-date = 2018-07-01T00:00:00
+title = "MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims"
+date = 2019-08-14T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Isabelle Augenstein", "Sebastian Ruder", "Anders Søgaard"]
+authors = ["Isabelle Augenstein", "Christina Lioma", "Dongsheng Wang", "Lucas Chaves Lima", "Casper Hansen", "Christian Hansen", "Jakob Grue Simonsen"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["Isabelle Augenstein", "Sebastian Ruder", "Anders Søgaard"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the *2018 Conference of the North American Chapter of the      Association for Computational Linguistics: Human Language Technologies*, Volume 1 (Long Papers)."
-publication_short = "In *NAACL*"
+publication = "In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+publication_short = "In *EMNLP*"
 
 # Abstract and optional shortened version.
-abstract = "We combine multi-task learning and semisupervised learning by inducing a joint embedding space between disparate label spaces and learning transfer functions between label embeddings, enabling us to jointly leverage unlabelled data and auxiliary, annotated datasets. We evaluate our approach on a variety of sequence classification tasks with disparate label spaces. We outperform strong single and multi-task baselines and achieve a new stateof-the-art for topic-based sentiment analysis."
-abstract_short = "We combine multi-task learning and semisupervised learning by inducing a joint embedding space between disparate label spaces and learning transfer functions between label embeddings, enabling us to jointly leverage unlabelled data and auxiliary, annotated datasets."
+abstract = "We contribute the largest publicly available dataset of naturally occurring factual claims for the purpose of automatic claim verification. It is collected from 38 English fact checking websites, paired with textual sources and rich metadata, and labelled for veracity by human expert journalists. We present an in-depth analysis of the dataset, highlighting characteristics and challenges. Further, we present results for automatic veracity prediction, both with established baselines and with a novel method for joint ranking of evidence pages and predicting veracity that outperforms all baselines. Significant performance increases are achieved by encoding evidence, and by modelling metadata."
+abstract_short = "We contribute the largest publicly available dataset of naturally occurring factual claims for the purpose of automatic claim verification."
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["fact-checking", "limited-data"]
+projects = ["fact-checking"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,12 +49,12 @@ projects = ["fact-checking", "limited-data"]
 tags = []
 
 # Links (optional).
-url_pdf = "http://aclweb.org/anthology/N18-1172"
+url_pdf = ""
 url_preprint = ""
-url_code = "https://github.com/coastalcph/mtl-disparate"
+url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = "https://www.slideshare.net/isabelleaugenstein/multitask-learning-of-pairwise-sequence-classification-tasks-over-disparate-label-spaces"
+url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
@@ -75,7 +75,7 @@ math = false
 preview_only = true
 
   # Caption (optional)
-  caption = "Semi-supervised MTL with Label Transfer Network (LTN)"
+  caption = "An example of a claim instance. Entities are obtained via entity linking. Article and outlink texts, evidence search snippets and pages are not shown."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
