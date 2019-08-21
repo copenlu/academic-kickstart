@@ -1,10 +1,10 @@
 +++
-title = "Uncovering Probabilistic Implications in Typological Knowledge Bases"
-date = 2019-05-14T00:00:00
+title = "Transductive Auxiliary Task Self-Training for Neural Multi-Task Models"
+date = 2019-08-11T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Johannes Bjerva", "Yova Kementchedjhieva", "Ryan Cotterell", "Isabelle Augenstein"]
+authors = ["Johannes Bjerva", "Katharina Kann", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Johannes Bjerva", "Yova Kementchedjhieva", "Ryan Cotterell", "Isabel
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the *Annual Meeting of the Association for Computational Linguistics*."
-publication_short = "In *ACL*"
+publication = "CoRR, abs/1908.06136"
+publication_short = "In *CoRR*"
 
 # Abstract and optional shortened version.
-abstract = "The study of linguistic typology is rooted in the implications we find between linguistic features, such as the fact that languages with object-verb word ordering tend to have postpositions. Uncovering such implications typically amounts to time-consuming manual processing by trained and experienced linguists, which potentially leaves key linguistic universals unexplored. In this paper, we present a computational model which successfully identifies known universals, including Greenberg universals, but also uncovers new ones, worthy of further linguistic investigation. Our approach outperforms baselines previously used for this problem, as well as a strong baseline from knowledge base population."
+abstract = "Multi-task learning and self-training are two common ways to improve a machine learning model's performance in settings with limited training data. Drawing heavily on ideas from those two approaches, we suggest transductive auxiliary task self-training: training a multi-task model on (i) a combination of main and auxiliary task training data, and (ii) test instances with auxiliary task labels which a single-task version of the model has previously generated. We perform extensive experiments on 86 combinations of languages and tasks. Our results are that, on average, transductive auxiliary task self-training improves absolute accuracy by up to 9.56% over the pure multi-task model for dependency relation tagging and by up to 13.03% for semantic tagging."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["multilingual-learning", "knowledge-bases"]
+projects = ["limited-data"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["multilingual-learning", "knowledge-bases"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://aclweb.org/anthology/papers/P/P19/P19-1382/"
+url_pdf = "https://arxiv.org/abs/1908.06136"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -75,11 +75,11 @@ math = false
 preview_only = true
 
   # Caption (optional)
-  caption = "Visualisation of a section of our induced graphical model"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Center"
 +++
 
 

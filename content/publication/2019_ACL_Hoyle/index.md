@@ -49,7 +49,7 @@ projects = ["limited-data"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1906.04760"
+url_pdf = "https://aclweb.org/anthology/papers/P/P19/P19-1167/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

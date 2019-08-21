@@ -1,7 +1,7 @@
 +++
 # Display name
 title = "NN PhD Student"
-draft = false
+draft = true
 
 # Role/position
 role = "PhD Student"
