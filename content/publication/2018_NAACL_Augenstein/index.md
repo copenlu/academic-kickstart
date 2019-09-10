@@ -55,7 +55,7 @@ url_code = "https://github.com/coastalcph/mtl-disparate"
 url_dataset = ""
 url_project = ""
 url_slides = "https://www.slideshare.net/isabelleaugenstein/multitask-learning-of-pairwise-sequence-classification-tasks-over-disparate-label-spaces"
-url_video = ""
+url_video = "http://vimeo.com/277671362"
 url_poster = ""
 url_source = ""
 

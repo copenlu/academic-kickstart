@@ -56,7 +56,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "https://www.aclweb.org/anthology/attachments/D18-1543.Poster.pdf"
 url_source = ""
 
 # Custom links (optional).

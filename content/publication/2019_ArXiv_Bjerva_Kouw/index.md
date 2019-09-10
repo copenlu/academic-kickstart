@@ -1,10 +1,10 @@
 +++
-title = "Unsupervised Discovery of Gendered Language through Latent-Variable Modeling"
-date = 2019-05-14T00:00:00
+title = "Back to the Future -- Sequential Alignment of Text Representations"
+date = 2019-08-12T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Alexander Hoyle", "Lawrence Wolf-Sonkin", "Hanna Wallach", "Isabelle Augenstein", "Ryan Cotterell"]
+authors = ["Johannes Bjerva", "Wouter Kouw", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Alexander Hoyle", "Lawrence Wolf-Sonkin", "Hanna Wallach", "Isabelle
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the *Annual Meeting of the Association for Computational Linguistics*."
-publication_short = "In *ACL*"
+publication = "CoRR, abs/1909.03464"
+publication_short = "In *CoRR*"
 
 # Abstract and optional shortened version.
-abstract = "Studying to what degree the language we use is gender-specific has long been an area of interest in socio-linguistics. Studies have explored, for instance, the speech of male and female characters in film, or gendered language used when describing male versus female politicians. In this paper, we aim not to merely analyze this phenomenon qualitatively, but instead to quantify the degree to which language used to describe men and women is different, and moreover, different in a positive or negative way. We propose a novel generative latent-variable model, to be trained on a large corpus, that jointly represents adjective (or verb) choice with its sentiment given the natural gender of the head (or dependent) noun. We find that there are significant differences between how male and female nouns are described, which are in line with common gender stereotypes: Positive adjectives used to describe women are more likely to be related to a person's body than adjectives describing men."
+abstract = "Language evolves over time in many ways relevant to natural language processing tasks. For example, recent occurrences of tokens 'BERT' and 'ELMO' in publications refer to neural network architectures rather than persons. This type of temporal signal is typically overlooked, but is important if one aims to deploy a machine learning model over an extended period of time. In particular, language evolution causes data drift between time-steps in sequential decision-making tasks. Examples of such tasks include prediction of paper acceptance for yearly conferences (regular intervals) or author stance prediction for rumours on Twitter (irregular intervals). Inspired by successes in computer vision, we tackle data drift by sequentially aligning learned representations. We evaluate on three challenging tasks varying in terms of time-scales, linguistic units, and domains. These tasks show our method outperforming several strong baselines, including using all available data. We argue that, due to its low computational expense, sequential alignment is a practical solution to dealing with language evolution."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -49,12 +49,12 @@ projects = ["limited-data"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://aclweb.org/anthology/papers/P/P19/P19-1167/"
+url_pdf = "https://arxiv.org/abs/1909.03464"
 url_preprint = ""
-url_code = "https://www.aclweb.org/anthology/attachments/P19-1167.Software.zip"
+url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = "http://alexanderhoyle.com/assets/pdf/Gendered-Words.pdf"
+url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
@@ -75,11 +75,11 @@ math = false
 preview_only = true
 
   # Caption (optional)
-  caption = "Top-11 words in topics {MSC, FEM} x {POS, NEG} with our joint model of topic and sentiment"
+  caption = "Example of subspace alignment procedure"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Center"
 +++
 
 

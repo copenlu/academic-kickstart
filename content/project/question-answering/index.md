@@ -6,7 +6,7 @@ title = "Question Answering"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Answer questions automatically, including in conversational settings"
+summary = "Answering questions automatically, including in conversational settings"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

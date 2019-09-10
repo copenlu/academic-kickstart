@@ -51,7 +51,7 @@ tags = []
 # Links (optional).
 url_pdf = "http://aclweb.org/anthology/N18-1083"
 url_preprint = ""
-url_code = ""
+url_code = "https://www.aclweb.org/anthology/attachments/N18-1083.Software.zip"
 url_dataset = ""
 url_project = ""
 url_slides = ""

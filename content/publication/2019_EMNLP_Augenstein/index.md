@@ -22,7 +22,7 @@ publication = "In Proceedings of the 2019 Conference on Empirical Methods in Nat
 publication_short = "In *EMNLP*"
 
 # Abstract and optional shortened version.
-abstract = "We contribute the largest publicly available dataset of naturally occurring factual claims for the purpose of automatic claim verification. It is collected from 38 English fact checking websites, paired with textual sources and rich metadata, and labelled for veracity by human expert journalists. We present an in-depth analysis of the dataset, highlighting characteristics and challenges. Further, we present results for automatic veracity prediction, both with established baselines and with a novel method for joint ranking of evidence pages and predicting veracity that outperforms all baselines. Significant performance increases are achieved by encoding evidence, and by modelling metadata."
+abstract = "We contribute the largest publicly available dataset of naturally occurring factual claims for the purpose of automatic claim verification. It is collected from 26 fact checking websites in English, paired with textual sources and rich metadata, and labelled for veracity by human expert journalists. We present an in-depth analysis of the dataset, highlighting characteristics and challenges. Further, we present results for automatic veracity prediction, both with established baselines and with a novel method for joint ranking of evidence pages and predicting veracity that outperforms all baselines. Significant performance increases are achieved by encoding evidence, and by modelling metadata. Our best-performing model achieves a Macro F1 of 49.2%, showing that this is a challenging testbed for claim veracity prediction."
 abstract_short = "We contribute the largest publicly available dataset of naturally occurring factual claims for the purpose of automatic claim verification."
 
 # Is this a featured publication? (true/false)
@@ -49,10 +49,10 @@ projects = ["fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://arxiv.org/abs/1909.03242"
 url_preprint = ""
 url_code = ""
-url_dataset = ""
+url_dataset = "https://competitions.codalab.org/competitions/21163"
 url_project = ""
 url_slides = ""
 url_video = ""
