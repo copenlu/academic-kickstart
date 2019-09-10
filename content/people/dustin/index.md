@@ -1,19 +1,19 @@
 +++
 # Display name
-title = "NN PhD Student"
-draft = true
+title = "Dustin Wright"
+draft = false
 
 # Role/position
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "This is a new PhD student, joining in Autumn 2019."
+bio = "Dustin's research interests include fact checking and knowledge base population, with a focus on scientific texts."
 
-# External website link
-# external_link = "http://isabelleaugenstein.github.io/"
+# External website link#
+external_link = "https://scholar.google.com/citations?authuser=1&user=OGk5UnYAAAAJ"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-13T17:07:01
+date = 2019-01-14T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -36,6 +36,31 @@ tags = ["Members"]
 #   cv, google-scholar, arxiv, orcid, researchgate, mendeley
 #
 #   Full list: https://jpswalsh.github.io/academicons/
+
+[[social]]
+icon = "envelope"
+icon_pack = "fas"
+link = "mailto:dw@di.ku.dk"  # For a direct email link, use "mailto:test@example.org".
+
+[[social]]
+icon = "twitter"
+icon_pack = "fab"
+link = "https://twitter.com/dustin_wright37"
+
+[[social]]
+icon = "linkedin"
+icon_pack = "fab"
+link = "https://www.linkedin.com/in/dwright37/"
+
+[[social]]
+icon = "google-scholar"
+icon_pack = "ai"
+link = "https://scholar.google.com/citations?authuser=1&user=OGk5UnYAAAAJ"
+
+[[social]]
+icon = "github"
+icon_pack = "fab"
+link = "https://github.com/dwright37"
 
 
 

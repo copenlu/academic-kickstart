@@ -1,7 +1,7 @@
 +++
 # Display name
 title = "NN PhD Student"
-draft = false
+draft = true
 
 # Role/position
 role = "PhD Student"
@@ -13,7 +13,7 @@ bio = "This is a new PhD student, joining in Autumn 2019."
 # external_link = "http://isabelleaugenstein.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-14T17:07:01
+date = 2019-01-13T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
