@@ -49,7 +49,7 @@ projects = ["knowledge-bases", "question-answering", "multilingual-learning", "l
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1707.03264"
+url_pdf = "https://arxiv.org/abs/1908.05111"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
