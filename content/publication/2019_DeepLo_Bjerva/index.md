@@ -15,11 +15,11 @@ authors = ["Johannes Bjerva", "Katharina Kann", "Isabelle Augenstein"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/1908.06136"
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the *2nd Workshop on Deep Learning for Low-Resource NLP* at EMNLP"
+publication_short = "In *DeepLo@EMNLP*"
 
 # Abstract and optional shortened version.
 abstract = "Multi-task learning and self-training are two common ways to improve a machine learning model's performance in settings with limited training data. Drawing heavily on ideas from those two approaches, we suggest transductive auxiliary task self-training: training a multi-task model on (i) a combination of main and auxiliary task training data, and (ii) test instances with auxiliary task labels which a single-task version of the model has previously generated. We perform extensive experiments on 86 combinations of languages and tasks. Our results are that, on average, transductive auxiliary task self-training improves absolute accuracy by up to 9.56% over the pure multi-task model for dependency relation tagging and by up to 13.03% for semantic tagging."
