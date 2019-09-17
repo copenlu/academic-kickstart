@@ -1,10 +1,10 @@
 +++
-title = "X-WikiRE: A Large, Multilingual Resource for Relation Extraction as Machine Comprehension"
+title = "Domain Transfer in Dialogue Systems without Turn-Level Supervision"
 date = 2019-08-12T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Mostafa Abdou", "Cezar Sas", "Rahul Aralikatte", "Isabelle Augenstein", "Anders Søgaard"]
+authors = ["Joachim Bingel", "Victor Petrén Bach Hansen", "Ana Valeria Gonzalez", "Paweł Budzianowski", "Isabelle Augenstein", "Anders Søgaard"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Mostafa Abdou", "Cezar Sas", "Rahul Aralikatte", "Isabelle Augenstei
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/1908.05111"
+publication = "CoRR, abs/1909.07101"
 publication_short = "In *CoRR*"
 
 # Abstract and optional shortened version.
-abstract = "Although the vast majority of knowledge bases KBs are heavily biased towards English, Wikipedias do cover very different topics in different languages. Exploiting this, we introduce a new multilingual dataset (X-WikiRE), framing relation extraction as a multilingual machine reading problem. We show that by leveraging this resource it is possible to robustly transfer models cross-lingually and that multilingual support significantly improves (zero-shot) relation extraction, enabling the population of low-resourced KBs from their well-populated counterparts."
+abstract = "Task oriented dialogue systems rely heavily on specialized dialogue state tracking (DST) modules for dynamically predicting user intent throughout the conversa- tion. State-of-the-art DST models are typically trained in a supervised manner from manual annotations at the turn level. However, these annotations are costly to obtain, which makes it difficult to create accurate dialogue systems for new do- mains. To address these limitations, we propose a method, based on reinforcement learning, for transferring DST models to new domains without turn-level super- vision. Across several domains, our experiments show that this method quickly adapts off-the-shelf models to new domains and performs on par with models trained with turn-level supervision. We also show our method can improve mod- els trained using turn-level supervision by subsequent fine-tuning optimization toward dialog-level rewards."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["knowledge-bases", "question-answering", "multilingual-learning", "limited-data"]
+projects = ["question-answering", "multilingual-learning", "limited-data"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["knowledge-bases", "question-answering", "multilingual-learning", "l
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1908.05111"
+url_pdf = "http://arxiv.org/abs/1909.07101"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -75,7 +75,7 @@ math = false
 preview_only = true
 
   # Caption (optional)
-  caption = "Overlap of triples between languages"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
