@@ -1,10 +1,10 @@
 +++
-title = "Mapping (Dis-)Information Flow about the MH17 Plane Crash"
-date = 2019-08-13T00:00:00
+title = "Retrieval-Based Goal-Oriented Dialogue Generation"
+date = 2019-08-12T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Mareike Hartmann", "Yevgeniy Golovchenko", "Isabelle Augenstein"]
+authors = ["Ana Valeria Gonzalez", "Isabelle Augenstein", "Anders Søgaard"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Mareike Hartmann", "Yevgeniy Golovchenko", "Isabelle Augenstein"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the *2019 Workshop on NLP4IF: censorship, disinformation, and propaganda* at EMNLP"
-publication_short = "In *NLP4IF@EMNLP*"
+publication = "CoRR, abs/1909.13717"
+publication_short = "In *CoRR*"
 
 # Abstract and optional shortened version.
-abstract = "Digital media enables not only fast sharing of information, but also disinformation. One prominent case of an event leading to circulation of disinformation on social media is the MH17 plane crash. Studies analysing the spread of information about this event on Twitter have focused on small, manually annotated datasets, or used proxys for data annotation. In this work, we examine to what extent text classifiers can be used to label data for subsequent content analysis, in particular we focus on predicting pro-Russian and pro-Ukrainian Twitter content related to the MH17 plane crash. Even though we find that a neural classifier improves over a hashtag based baseline, labeling pro-Russian and pro-Ukrainian content with high precision remains a challenging problem. We provide an error analysis underlining the difficulty of the task and identify factors that might help improve classification in future work. Finally, we show how the classifier can facilitate the annotation task for human annotators."
+abstract = "Task oriented dialogue systems rely heavily on specialized dialogue state tracking (DST) modules for dynamically predicting user intent throughout the conversation. State-of-the-art DST models are typically trained in a supervised manner from manual annotations at the turn level. However, these annotations are costly to obtain, which makes it difficult to create accurate dialogue systems for new domains. To address these limitations, we propose a method, based on reinforcement learning, for transferring DST models to new domains without turn-level supervision. Across several domains, our experiments show that this method quickly adapts off-the-shelf models to new domains and performs on par with models trained with turn-level supervision. We also show our method can improve models trained using turn-level supervision by subsequent fine-tuning optimization toward dialog-level rewards."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["fact-checking"]
+projects = ["question-answering"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1910.01363"
+url_pdf = "http://arxiv.org/abs/1909.13717"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

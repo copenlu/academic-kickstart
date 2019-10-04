@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In Proceedings of the *2nd Workshop on Deep Learning for Low-Resource NLP* at EMNLP"
-publication_short = "In *DeepLo@EMNLP*"
+publication_short = "In *DeepLo @ EMNLP*"
 
 # Abstract and optional shortened version.
 abstract = "Although the vast majority of knowledge bases KBs are heavily biased towards English, Wikipedias do cover very different topics in different languages. Exploiting this, we introduce a new multilingual dataset (X-WikiRE), framing relation extraction as a multilingual machine reading problem. We show that by leveraging this resource it is possible to robustly transfer models cross-lingually and that multilingual support significantly improves (zero-shot) relation extraction, enabling the population of low-resourced KBs from their well-populated counterparts."

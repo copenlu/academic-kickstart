@@ -18,11 +18,11 @@ authors = ["Joachim Bingel", "Victor Petrén Bach Hansen", "Ana Valeria Gonzalez
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/1909.07101"
-publication_short = "In *CoRR*"
+publication = "3rd Conversational AI Workshop at NeurIPS 2019"
+publication_short = "In *ConvAI @ NeurIPS*"
 
 # Abstract and optional shortened version.
-abstract = "Task oriented dialogue systems rely heavily on specialized dialogue state tracking (DST) modules for dynamically predicting user intent throughout the conversa- tion. State-of-the-art DST models are typically trained in a supervised manner from manual annotations at the turn level. However, these annotations are costly to obtain, which makes it difficult to create accurate dialogue systems for new do- mains. To address these limitations, we propose a method, based on reinforcement learning, for transferring DST models to new domains without turn-level super- vision. Across several domains, our experiments show that this method quickly adapts off-the-shelf models to new domains and performs on par with models trained with turn-level supervision. We also show our method can improve mod- els trained using turn-level supervision by subsequent fine-tuning optimization toward dialog-level rewards."
+abstract = "Task oriented dialogue systems rely heavily on specialized dialogue state tracking (DST) modules for dynamically predicting user intent throughout the conversation. State-of-the-art DST models are typically trained in a supervised manner from manual annotations at the turn level. However, these annotations are costly to obtain, which makes it difficult to create accurate dialogue systems for new domains. To address these limitations, we propose a method, based on reinforcement learning, for transferring DST models to new domains without turn-level supervision. Across several domains, our experiments show that this method quickly adapts off-the-shelf models to new domains and performs on par with models trained with turn-level supervision. We also show our method can improve models trained using turn-level supervision by subsequent fine-tuning optimization toward dialog-level rewards."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["question-answering", "multilingual-learning", "limited-data"]
+projects = ["question-answering", "limited-data"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
