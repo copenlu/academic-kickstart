@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Knowledge Base Population"
+title = "Gender Bias Detection"
 
 # Date this page was created.
-date = 2016-03-27T00:00:00
+date = 2016-04-26T00:00:00
 
 # Project summary to display on homepage.
-summary = "Extract information about entities, phrases and relations between them from text to populate knowledge bases"
+summary = "Automatically detecting gendered language, and to what degree attitudes towards entities are influenced by gender bias"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["nlu", "knowledge-bases"]
+tags = ["nlu", "gender-bias"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -37,11 +37,13 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
+  caption = "Photo by rawpixel on Unsplash"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-Information extraction is concerned with extracting information about entities, phrases and relations between them from text to populate knowledge bases, such as extracting "employee-at" relations.
-Within this context, we have worked on automatic knowledge base completion, knowledge base cleansing and detecting scientific keyphrases in text.
+We are working on studying methods to detect gendered language automatically using unsupervised learning methods, such as variational auto-encoders. The findings of our first paper on this (<a href="/publication/2019_acl_hoyle/">Hoyle et al., 2019</a>) have been reported by 75+ international news outlets, including <a href="https://www.forbes.com/sites/jessedamiani/2019/08/30/massive-machine-learning-study-demonstrates-gender-stereotyping-and-sexist-language-in-literature/">Forbes</a>.
+
+Currently, we're interested in expanding the above to a cross-lingual study, as well as researching the relationship between gender bias and attitudes towards entities on social media as part of a <a href="https://dff.dk/en/grants/database?instrument:list=all&filed_method:list=all&period:list=all&set_language=en&SearchableText=gender-biased">project funded by DFF</a>.
