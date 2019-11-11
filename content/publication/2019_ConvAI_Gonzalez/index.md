@@ -1,10 +1,10 @@
 +++
-title = "Back to the Future -- Sequential Alignment of Text Representations"
+title = "Retrieval-Based Goal-Oriented Dialogue Generation"
 date = 2019-08-12T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Johannes Bjerva", "Wouter Kouw", "Isabelle Augenstein"]
+authors = ["Ana Valeria Gonzalez", "Isabelle Augenstein", "Anders Søgaard"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Johannes Bjerva", "Wouter Kouw", "Isabelle Augenstein"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/1909.03464"
-publication_short = "In *CoRR*"
+publication = "3rd Conversational AI Workshop at NeurIPS 2019"
+publication_short = "In *ConvAI @ NeurIPS*"
 
 # Abstract and optional shortened version.
-abstract = "Language evolves over time in many ways relevant to natural language processing tasks. For example, recent occurrences of tokens 'BERT' and 'ELMO' in publications refer to neural network architectures rather than persons. This type of temporal signal is typically overlooked, but is important if one aims to deploy a machine learning model over an extended period of time. In particular, language evolution causes data drift between time-steps in sequential decision-making tasks. Examples of such tasks include prediction of paper acceptance for yearly conferences (regular intervals) or author stance prediction for rumours on Twitter (irregular intervals). Inspired by successes in computer vision, we tackle data drift by sequentially aligning learned representations. We evaluate on three challenging tasks varying in terms of time-scales, linguistic units, and domains. These tasks show our method outperforming several strong baselines, including using all available data. We argue that, due to its low computational expense, sequential alignment is a practical solution to dealing with language evolution."
+abstract = "Task oriented dialogue systems rely heavily on specialized dialogue state tracking (DST) modules for dynamically predicting user intent throughout the conversation. State-of-the-art DST models are typically trained in a supervised manner from manual annotations at the turn level. However, these annotations are costly to obtain, which makes it difficult to create accurate dialogue systems for new domains. To address these limitations, we propose a method, based on reinforcement learning, for transferring DST models to new domains without turn-level supervision. Across several domains, our experiments show that this method quickly adapts off-the-shelf models to new domains and performs on par with models trained with turn-level supervision. We also show our method can improve models trained using turn-level supervision by subsequent fine-tuning optimization toward dialog-level rewards."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["limited-data"]
+projects = ["question-answering"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["limited-data"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1909.03464"
+url_pdf = "http://arxiv.org/abs/1909.13717"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -75,7 +75,7 @@ math = false
 preview_only = true
 
   # Caption (optional)
-  caption = "Example of subspace alignment procedure"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

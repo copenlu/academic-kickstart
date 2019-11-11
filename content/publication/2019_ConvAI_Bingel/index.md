@@ -15,7 +15,7 @@ authors = ["Joachim Bingel", "Victor Petrén Bach Hansen", "Ana Valeria Gonzalez
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "3rd Conversational AI Workshop at NeurIPS 2019"
