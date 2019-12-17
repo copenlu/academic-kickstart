@@ -19,7 +19,7 @@ bio = "CopeNLU is a Natural Language Processing research group led by Isabelle A
 email = ""
 
 # List (academic) interests or hobbies
-interests = ["Natural Language Understanding", "Learning with Limited Labelled Data", "Fact Checking", "Knowledge Base Population", "Question Answering"]
+interests = ["Natural Language Understanding", "Learning with Limited Labelled Data", "Fact Checking", "Knowledge Base Population", "Question Answering", "Gender Bias Detection"]
 
 
 # Social/Academic Networking
