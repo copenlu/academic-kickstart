@@ -3,7 +3,7 @@
 title = "Isabelle Augenstein"
 
 # Role/position
-role = "Assistant Professor"
+role = "Associate Professor"
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Isabelle's main research interests are natural language understanding and learning with limited training data."

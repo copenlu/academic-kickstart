@@ -6,17 +6,17 @@ title = "Mareike Hartmann"
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Mareike is interested in fact checking and multi-lingual learning. She's a member of the CoAStaL NLP group and co-advised by Isabelle."
+bio = "Mareike was a member of the CoAStaL NLP group and co-advised by Isabelle, and is now a postdoc in the same group."
 
 # External website link
 external_link = "https://di.ku.dk/english/staff/?pure=en%2Fpersons%2Flwp876-lwp876(99595ec3-7933-430e-9103-399722d7e684).html"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2018-01-18T17:07:01
+date = 2017-01-20T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Affiliated"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #
