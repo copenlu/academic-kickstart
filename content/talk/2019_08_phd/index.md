@@ -1,7 +1,7 @@
 +++
 title = "25 Marie Skłodowska-Curie PhD Fellowships Available"
 date = 2019-08-15  # Schedule page publish date.
-draft = false
+draft = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
