@@ -1,10 +1,10 @@
 +++
-title = "MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims"
-date = 2019-08-14T00:00:00
+title = "Generating Fact Checking Explanations"
+date = 2020-04-04T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Isabelle Augenstein", "Christina Lioma", "Dongsheng Wang", "Lucas Chaves Lima", "Casper Hansen", "Christian Hansen", "Jakob Grue Simonsen"]
+authors = ["Pepa Atanasova", "Jakob Grue Simonsen", "Christina Lioma", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["Isabelle Augenstein", "Christina Lioma", "Dongsheng Wang", "Lucas Ch
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
-publication_short = "In *EMNLP*"
+publication = "In Proceedings of the 2020 Annual Conference of the Association for Computational Linguistics (ACL)"
+publication_short = "In *ACL*"
 
 # Abstract and optional shortened version.
-abstract = "We contribute the largest publicly available dataset of naturally occurring factual claims for the purpose of automatic claim verification. It is collected from 26 fact checking websites in English, paired with textual sources and rich metadata, and labelled for veracity by human expert journalists. We present an in-depth analysis of the dataset, highlighting characteristics and challenges. Further, we present results for automatic veracity prediction, both with established baselines and with a novel method for joint ranking of evidence pages and predicting veracity that outperforms all baselines. Significant performance increases are achieved by encoding evidence, and by modelling metadata. Our best-performing model achieves a Macro F1 of 49.2%, showing that this is a challenging testbed for claim veracity prediction."
-abstract_short = "We contribute the largest publicly available dataset of naturally occurring factual claims for the purpose of automatic claim verification."
+abstract = "Most existing work on automated fact checking is concerned with predicting the veracity of claims based on metadata, social network spread, language used in claims, and, more recently, evidence supporting or denying claims. A crucial piece of the puzzle that is still missing is to understand how to automate the most elaborate part of the process -- generating justifications for verdicts on claims. This paper provides the first study of how these explanations can be generated automatically based on available claim context, and how this task can be modeled jointly with veracity prediction. Our results indicate that optimising both objectives at the same time, rather than training them separately, improves the performance of a fact checking system. The results of a manual evaluation further suggest that the informativeness, coverage and overall quality of the generated explanations are also improved in the multi-task model."
+abstract_short = "This paper provides the first study of how fact checking explanations can be generated automatically based on available claim context, and how this task can be modeled jointly with veracity prediction."
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,10 +49,10 @@ projects = ["fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "http://arxiv.org/abs/1909.03242"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
-url_dataset = "https://competitions.codalab.org/competitions/21163"
+url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -75,7 +75,7 @@ math = false
 preview_only = true
 
   # Caption (optional)
-  caption = "An example of a claim instance. Entities are obtained via entity linking. Article and outlink texts, evidence search snippets and pages are not shown."
+  caption = "Example instance from the LIAR-PLUS dataset, with oracle sentences for generating the justification highlighted."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

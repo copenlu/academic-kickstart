@@ -6,17 +6,17 @@ title = "Liesbeth Allein"
 role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Liesbeth is a PhD Student at KU Leuven, and is visiting CopeNLU in Spring 2020 to work on fact checking."
+bio = "Liesbeth is a PhD Student at KU Leuven, and was visiting CopeNLU in Spring 2020 to work on fact checking."
 
 # External website link
 external_link = "https://scholar.google.ca/citations?user=KWe__fAAAAAJ&hl=nl&oi=ao"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-01-17T17:07:01
+date = 2017-01-22T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

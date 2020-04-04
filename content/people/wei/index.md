@@ -6,17 +6,17 @@ title = "Wei Zhao"
 role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Wei Zhao is a PhD Student at TU Darmstadt, and is visiting CopeNLU in Winter 2019 to work on low-resource natural language generation."
+bio = "Wei Zhao is a PhD Student at TU Darmstadt, and was visiting CopeNLU in Winter 2019 to work on low-resource natural language generation."
 
 # External website link
 external_link = "https://andyweizhao.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-01-20T17:07:01
+date = 2017-01-21T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

@@ -1,10 +1,10 @@
 +++
-title = "MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims"
-date = 2019-08-14T00:00:00
+title = "2kenize: Tying Subword Sequences for Chinese Script Conversion"
+date = 2020-04-03T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Isabelle Augenstein", "Christina Lioma", "Dongsheng Wang", "Lucas Chaves Lima", "Casper Hansen", "Christian Hansen", "Jakob Grue Simonsen"]
+authors = ["Pranav A", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -18,12 +18,12 @@ authors = ["Isabelle Augenstein", "Christina Lioma", "Dongsheng Wang", "Lucas Ch
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
-publication_short = "In *EMNLP*"
+publication = "In Proceedings of the 2020 Annual Conference of the Association for Computational Linguistics (ACL)"
+publication_short = "In *ACL*"
 
 # Abstract and optional shortened version.
-abstract = "We contribute the largest publicly available dataset of naturally occurring factual claims for the purpose of automatic claim verification. It is collected from 26 fact checking websites in English, paired with textual sources and rich metadata, and labelled for veracity by human expert journalists. We present an in-depth analysis of the dataset, highlighting characteristics and challenges. Further, we present results for automatic veracity prediction, both with established baselines and with a novel method for joint ranking of evidence pages and predicting veracity that outperforms all baselines. Significant performance increases are achieved by encoding evidence, and by modelling metadata. Our best-performing model achieves a Macro F1 of 49.2%, showing that this is a challenging testbed for claim veracity prediction."
-abstract_short = "We contribute the largest publicly available dataset of naturally occurring factual claims for the purpose of automatic claim verification."
+abstract = "Simplified Chinese to Traditional Chinese script conversion is a common preprocessing step in Chinese NLP. Despite this, current approaches have poor performance because they do not take into account that a simplified Chinese character can correspond to multiple traditional characters. Here, we propose a novel model that can disambiguate between mappings and convert between the two scripts. The model is based on subword segmentation, two language models, as well as a method for mapping between subword sequences. We further construct benchmark datasets for topic classification and script conversion. Our proposed method outperforms previous Chinese Character Conversion approaches by 6 points in accuracy. These results are further confirmed in a downstream application, where 2kenize is used to preprocess text for topic classification. An error analysis reveals that our method's particular strengths are in dealing with code mixing and named entities."
+abstract_short = "We propose a novel Chinese character conversion model that can disambiguate between mappings and convert between the two scripts. The model is based on subword segmentation, two language models, as well as a method for mapping between subword sequences."
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["fact-checking"]
+projects = ["multilingual-learning"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,10 +49,10 @@ projects = ["fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "http://arxiv.org/abs/1909.03242"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
-url_dataset = "https://competitions.codalab.org/competitions/21163"
+url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -75,7 +75,7 @@ math = false
 preview_only = true
 
   # Caption (optional)
-  caption = "An example of a claim instance. Entities are obtained via entity linking. Article and outlink texts, evidence search snippets and pages are not shown."
+  caption = "From the given SC sentence, we create possible TC sequences using mappings. We input these to Viterbi, which recursively calls LSTM. Viterbi outputs the mapping sequence. We perform beam search to find the best TC sequence from the mapping sequence."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
