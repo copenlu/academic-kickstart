@@ -49,7 +49,7 @@ projects = ["multilingual-learning"]
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://isabelleaugenstein.github.io/papers/ACL2020_2kenize.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
