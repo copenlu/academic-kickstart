@@ -10,7 +10,7 @@ role = "PhD Student"
 bio = "Dustin's research interests include fact checking and knowledge base population, with a focus on scientific texts."
 
 # External website link#
-external_link = "https://scholar.google.com/citations?authuser=1&user=OGk5UnYAAAAJ"
+external_link = "https://dustinbwright.com/"
 
 # Date this page was created. Entries are sorted by most recent one.
 date = 2019-01-14T17:07:01
