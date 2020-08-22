@@ -6,17 +6,17 @@ title = "Nils Rethmeier"
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Nils researches low-resource and unsupervised learning. He is based at DFKI Berlin and co-advised by Isabelle."
+bio = "Nils researches low-resource learning and unsupervised learning as well as explainability."
 
 # External website link
 external_link = "https://www.dfki.de/en/web/about-us/employee/person/nire02/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2018-01-16T17:07:01
+date = 2019-01-14T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Affiliated"]
+tags = ["Members"]
 
 # Social/Academic Networking
 #

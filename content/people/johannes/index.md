@@ -6,17 +6,17 @@ title = "Johannes Bjerva"
 role = "Postdoc"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Johannes researches multi-lingual and multi-task learning, with a particular focus on exploiting similarities between languages."
+bio = "Johannes is a tenure-track assistant profesor at Aalborg University Copenhagen, prior to which he was a postdoc in CopeNLU from 2017 to 2020, researching multi-lingual and multi-task learning."
 
 # External website link
 external_link = "http://bjerva.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-19T17:09:01
+date = 2017-01-23T17:09:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #
