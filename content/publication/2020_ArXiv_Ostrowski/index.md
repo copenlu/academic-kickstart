@@ -1,6 +1,6 @@
 +++
 title = "Multi-Hop Fact Checking of Political Claims"
-date = 2020-09-23T00:00:00
+date = 2020-09-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

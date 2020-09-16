@@ -15,7 +15,7 @@ authors = ["Nils Rethmeier", "Vageesh Kumar Saxena", "Isabelle Augenstein"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In Proceedings of the *Conference on Uncertainty in Artificial Intelligence*"
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["limited-data"]
+projects = ["limited-data", "explainability"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

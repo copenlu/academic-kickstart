@@ -1,10 +1,10 @@
 +++
-title = "Fact Check-Worthiness Detection as Positive Unlabelled Learning"
-date = 2020-03-06T00:00:00
+title = "SubjQA: A Dataset for Subjectivity and Review Comprehension"
+date = 2020-09-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Dustin Wright", "Isabelle Augenstein"]
+authors = ["Johannes Bjerva", "Nikita Bhutani", "Behzad Golshan", "Wang-Chiew Tan", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Dustin Wright", "Isabelle Augenstein"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2003.02736."
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+publication_short = "In *EMNLP*"
 
 # Abstract and optional shortened version.
-abstract = "A critical component of automatically combating misinformation is the detection of fact check-worthiness, i.e. determining if a piece of information should be checked for veracity. There are multiple isolated lines of research which address this core issue: check-worthiness detection from political speeches and debates, rumour detection on Twitter, and citation needed detection from Wikipedia. What is still lacking is a structured comparison of these variants of check-worthiness, as well as a unified approach to them. We find that check-worthiness detection is a very challenging task in any domain, because it both hinges upon detecting how factual a sentence is, and how likely a sentence is to be believed without verification. As such, annotators often only mark those instances they judge to be clear-cut check-worthy. Our best-performing method automatically corrects for this, using a variant of positive unlabelled learning, which learns when an instance annotated as not check-worthy should in fact have been annotated as being check-worthy. In applying this, we outperform the state of the art in two of the three domains studied for check-worthiness detection in English."
+abstract = "Subjectivity is the expression of internal opinions or beliefs which cannot be objectively observed or verified, and has been shown to be important for sentiment analysis and word-sense disambiguation. Furthermore, subjectivity is an important aspect of user-generated data. In spite of this, subjectivity has not been investigated in contexts where such data is widespread, such as in question answering (QA). We therefore investigate the relationship between subjectivity and QA, while developing a new dataset. We compare and contrast with analyses from previous work, and verify that findings regarding subjectivity still hold when using recently developed NLP architectures. We find that subjectivity is also an important feature in the case of QA, albeit with more intricate interactions between subjectivity and QA performance. For instance, a subjective question may or may not be associated with a subjective answer. We release an English QA dataset (SubjQA) based on customer reviews, containing subjectivity annotations for questions and answer spans across 6 distinct domains."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["limited-data", "fact-checking"]
+projects = ["question-answering"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["limited-data", "fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "http://arxiv.org/abs/2003.02736"
+url_pdf = "https://arxiv.org/abs/2004.14283"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -75,7 +75,7 @@ math = false
 preview_only = true
 
   # Caption (optional)
-  caption = ""
+  caption = "Data collection pipeline"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

@@ -1,10 +1,10 @@
 +++
-title = "Zero-Shot Cross-Lingual Transfer with Meta Learning"
-date = 2020-03-06T00:00:00
+title = "What Can We Do to Improve Peer Review in NLP?"
+date = 2020-09-14T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Farhad Nooralahzadeh", "Giannis Bekoulis", "Johannes Bjerva", "Isabelle Augenstein"]
+authors = ["Anna Rogers", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Farhad Nooralahzadeh", "Giannis Bekoulis", "Johannes Bjerva", "Isabe
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2003.02739."
-publication_short = "In *CoRR*"
+publication = "In Findings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+publication_short = "In *EMNLP*"
 
 # Abstract and optional shortened version.
-abstract = "Learning what to share between tasks has been a topic of high importance recently, as strategic sharing of knowledge has been shown to improve the performance of downstream tasks. The same applies to sharing between languages, and is especially important when considering the fact that most languages in the world suffer from being under-resourced. In this paper, we consider the setting of training models on multiple different languages at the same time, when little or no data is available for languages other than English. We show that this challenging setup can be approached using meta-learning, where, in addition to training a source language model, another model learns to select which training instances are the most beneficial. We experiment using standard supervised, zero-shot cross-lingual, as well as few-shot cross-lingual settings for different natural language understanding tasks (natural language inference, question answering). Our extensive experimental setup demonstrates the consistent effectiveness of meta-learning, on a total 16 languages. We improve upon the state-of-the-art for zero-shot and few-shot NLI and QA tasks on the XNLI and X-WikiRe datasets, respectively. We further conduct a comprehensive analysis which indicates that correlation of typological features between languages can further explain when parameter sharing learned via meta learning is beneficial."
+abstract = "Peer review is our best tool for judging the quality of conference submissions, but it is becoming increasingly spurious. We argue that a part of the problem is that the reviewers face a poorly defined task forcing apples-to-oranges comparisons. As a community familiar with annotation, we can improve at least that."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["limited-data", "multilingual-learning", "question-answering", "knowledge-bases"]
+projects = []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["limited-data", "multilingual-learning", "question-answering", "know
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2003.02739"
+url_pdf = "http://arxiv.org/abs/2003.02736"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

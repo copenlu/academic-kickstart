@@ -3,7 +3,7 @@
 title = "Learning with Limited Labelled Data"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2020-08-31T00:00:00
 
 # Project summary to display on homepage.
 summary = "Learning with limited labelled data, including multi-task learning, weakly supervised and zero-shot learning"

@@ -1,10 +1,10 @@
 +++
-title = "Generating Fact Checking Explanations"
-date = 2020-04-04T00:00:00
+title = "Generating Label Cohesive and Well-Formed Adversarial Claims"
+date = 2020-09-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pepa Atanasova", "Jakob Grue Simonsen", "Christina Lioma", "Isabelle Augenstein"]
+authors = ["Pepa Atanasova", "Dustin Wright", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["Pepa Atanasova", "Jakob Grue Simonsen", "Christina Lioma", "Isabelle
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the 2020 Annual Conference of the Association for Computational Linguistics (ACL)"
-publication_short = "In *ACL*"
+publication = "In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+publication_short = "In *EMNLP*"
 
 # Abstract and optional shortened version.
-abstract = "Most existing work on automated fact checking is concerned with predicting the veracity of claims based on metadata, social network spread, language used in claims, and, more recently, evidence supporting or denying claims. A crucial piece of the puzzle that is still missing is to understand how to automate the most elaborate part of the process -- generating justifications for verdicts on claims. This paper provides the first study of how these explanations can be generated automatically based on available claim context, and how this task can be modeled jointly with veracity prediction. Our results indicate that optimising both objectives at the same time, rather than training them separately, improves the performance of a fact checking system. The results of a manual evaluation further suggest that the informativeness, coverage and overall quality of the generated explanations are also improved in the multi-task model."
-abstract_short = "This paper provides the first study of how fact checking explanations can be generated automatically based on available claim context, and how this task can be modeled jointly with veracity prediction."
+abstract = "Adversarial attacks reveal important vulnerabilities and flaws of trained models. One potent type of attack are universal adversarial triggers, which are individual n-grams that, when appended to instances of a class under attack, can trick a model into predicting a target class. However, for inference tasks such as fact checking, these triggers often inadvertently invert the meaning of instances they are inserted in. In addition, such attacks produce semantically nonsensical inputs, as they simply concatenate triggers to existing samples. Here, we investigate how to generate adversarial attacks against fact checking systems that preserve the ground truth meaning and are semantically valid. We extend the HotFlip attack algorithm used for universal trigger generation by jointly minimizing the target class loss of a fact checking model and the entailment class loss of an auxiliary natural language inference model. We then train a conditional language model to generate semantically valid statements, which include the found universal triggers. We find that the generated attacks maintain the directionality and semantic validity of the claim better than previous work."
+abstract_short = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -34,7 +34,7 @@ featured = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["fact-checking", "explainability"]
+projects = ["fact_checking", "explainability"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,8 +49,8 @@ projects = ["fact-checking", "explainability"]
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://arxiv.org/abs/2004.05773"
+url_pdf = "https://arxiv.org/abs/2004.14283"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -75,11 +75,11 @@ math = false
 preview_only = true
 
   # Caption (optional)
-  caption = "Example instance from the LIAR-PLUS dataset, with oracle sentences for generating the justification highlighted."
+  caption = "High level overview of our method."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Center"
 +++
 
 

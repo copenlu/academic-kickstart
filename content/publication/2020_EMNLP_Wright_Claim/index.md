@@ -1,10 +1,10 @@
 +++
-title = "Generating Fact Checking Explanations"
-date = 2020-04-04T00:00:00
+title = "Fact Check-Worthiness Detection as Positive Unlabelled Learning"
+date = 2020-09-14T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pepa Atanasova", "Jakob Grue Simonsen", "Christina Lioma", "Isabelle Augenstein"]
+authors = ["Dustin Wright", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["Pepa Atanasova", "Jakob Grue Simonsen", "Christina Lioma", "Isabelle
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the 2020 Annual Conference of the Association for Computational Linguistics (ACL)"
-publication_short = "In *ACL*"
+publication = "In Findings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+publication_short = "In *EMNLP*"
 
 # Abstract and optional shortened version.
-abstract = "Most existing work on automated fact checking is concerned with predicting the veracity of claims based on metadata, social network spread, language used in claims, and, more recently, evidence supporting or denying claims. A crucial piece of the puzzle that is still missing is to understand how to automate the most elaborate part of the process -- generating justifications for verdicts on claims. This paper provides the first study of how these explanations can be generated automatically based on available claim context, and how this task can be modeled jointly with veracity prediction. Our results indicate that optimising both objectives at the same time, rather than training them separately, improves the performance of a fact checking system. The results of a manual evaluation further suggest that the informativeness, coverage and overall quality of the generated explanations are also improved in the multi-task model."
-abstract_short = "This paper provides the first study of how fact checking explanations can be generated automatically based on available claim context, and how this task can be modeled jointly with veracity prediction."
+abstract = "A critical component of automatically combating misinformation is the detection of fact check-worthiness, i.e. determining if a piece of information should be checked for veracity. There are multiple isolated lines of research which address this core issue: check-worthiness detection from political speeches and debates, rumour detection on Twitter, and citation needed detection from Wikipedia. What is still lacking is a structured comparison of these variants of check-worthiness, as well as a unified approach to them. We find that check-worthiness detection is a very challenging task in any domain, because it both hinges upon detecting how factual a sentence is, and how likely a sentence is to be believed without verification. As such, annotators often only mark those instances they judge to be clear-cut check-worthy. Our best-performing method automatically corrects for this, using a variant of positive unlabelled learning, which learns when an instance annotated as not check-worthy should in fact have been annotated as being check-worthy. In applying this, we outperform the state of the art in two of the three domains studied for check-worthiness detection in English."
+abstract_short = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -34,7 +34,7 @@ featured = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["fact-checking", "explainability"]
+projects = ["limited-data", "fact-checking"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,8 +49,8 @@ projects = ["fact-checking", "explainability"]
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://arxiv.org/abs/2004.05773"
+url_pdf = "http://arxiv.org/abs/2003.02736"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -75,11 +75,11 @@ math = false
 preview_only = true
 
   # Caption (optional)
-  caption = "Example instance from the LIAR-PLUS dataset, with oracle sentences for generating the justification highlighted."
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Center"
 +++
 
 

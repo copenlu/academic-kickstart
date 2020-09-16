@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Stance Detection and Fact Checking"
+title = "Explainable Machine Learning"
 
 # Date this page was created.
-date = 2020-08-30T00:00:00
+date = 2019-10-01T00:00:00
 
 # Project summary to display on homepage.
-summary = "Determine the attitude expressed in a text towards a topic, and use this for automatic evidence-based fact checking"
+summary = "Explaining relationships between inputs and outputs of black-box machine learning models"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["nlu", "fact-checking"]
+tags = ["nlu"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -44,7 +44,4 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
   focal_point = "Smart"
 +++
 
-We are interested in studying method to determine the attitude expressed in a text towards a topic (stance detection), such as determining if a tweet expresses a positive, negative or neutral stance towards a political entity. One additional challenge we are exploring is stance detection in a conversational context, where the stance depends on the context of the conversation.
-Fact checking using textual data can be framed very similarly, namely as if an evidence document agrees with, disagrees with or is topically unrelated to a headline or claim.
-
-We are also researching the relationship between attitudes towards entities on social media and gender bias as part of a <a href="https://dff.dk/en/grants/database?instrument:list=all&filed_method:list=all&period:list=all&set_language=en&SearchableText=gender-biased">project funded by DFF</a>.
+We are interested in studying method to explain relationships between inputs and outputs of black-box machine learning models, particularly in the context of challenging NLU tasks such as fact checking.
