@@ -49,7 +49,7 @@ projects = ["limited-data"]
 tags = []
 
 # Links (optional).
-url_pdf = "http://arxiv.org/abs/2003.02736"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
