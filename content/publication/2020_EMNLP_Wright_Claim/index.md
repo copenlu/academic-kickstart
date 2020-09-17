@@ -1,5 +1,5 @@
 +++
-title = "Fact Check-Worthiness Detection as Positive Unlabelled Learning"
+title = "Claim Check-Worthiness Detection as Positive Unlabelled Learning"
 date = 2020-09-14T00:00:00
 draft = false
 
