@@ -1,10 +1,10 @@
 +++
-title = "Time-Aware Evidence Ranking for Fact-Checking"
-date = 2020-09-12T00:00:00
+title = "Unsupervised Evaluation for Question Answering with Transformers"
+date = 2020-09-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Liesbeth Allein", "Isabelle Augenstein", "Marie-Francine Moens"]
+authors = ["Lukas Muttenthaler", "Isabelle Augenstein", "Johannes Bjerva"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Liesbeth Allein", "Isabelle Augenstein", "Marie-Francine Moens"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2004.14283."
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 3rd Workshop on Analyzing and interpreting neural networks for NLP (BlackboxNLP at EMNLP)"
+publication_short = "In *BlackboxNLP at EMNLP*"
 
 # Abstract and optional shortened version.
-abstract = "Truth can vary over time. Therefore, fact-checking decisions on claim veracity should take into account temporal information of both the claim and supporting or refuting evidence. Automatic fact-checking models typically take claims and evidence pages as input, and previous work has shown that weighing or ranking these evidence pages by their relevance to the claim is useful. However, the temporal information of the evidence pages is not generally considered when defining evidence relevance. In this work, we investigate the hypothesis that the timestamp of an evidence page is crucial to how it should be ranked for a given claim. We delineate four temporal ranking methods that constrain evidence ranking differently: evidence-based recency, claim-based recency, claim-centered closeness and evidence-centered clustering ranking. Subsequently, we simulate hypothesis-specific evidence rankings given the evidence timestamps as gold standard. Evidence ranking is then optimized using a learning to rank loss function. The best performing time-aware fact-checking model outperforms its baseline by up to 33.34%, depending on the domain. Overall, evidence-based recency and evidence-centered clustering ranking lead to the best results. Our study reveals that time-aware evidence ranking not only surpasses relevance assumptions based purely on semantic similarity or position in a search results list, but also improves veracity predictions of time-sensitive claims in particular. "
+abstract = "It is challenging to automatically evaluate the answer of a QA model at inference time. Although many models provide confidence scores, and simple heuristics can go a long way towards indicating answer correctness, such measures are heavily dataset-dependent and are unlikely to generalise. In this work, we begin by investigating the hidden representations of questions, answers, and contexts in transformer-based QA architectures. We observe a consistent pattern in the answer representations, which we show can be used to automatically evaluate whether or not a predicted answer span is correct. Our method does not require any labelled data and outperforms strong heuristic baselines, across 2 datasets and 7 domains. We are able to predict whether or not a model's answer is correct with 91.37% accuracy on SQuAD, and 80.7% accuracy on SubjQA. We expect that this method will have broad applications, e.g., in semi-automatic development of QA datasets."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["fact-checking"]
+projects = ["question-answering"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2009.06402"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -75,7 +75,7 @@ math = false
 preview_only = true
 
   # Caption (optional)
-  caption = "Share of evidence with retrievable timestamps"
+  caption = "Probability Density Function of the cosine similarities among tokens w.r.t.  the true answer spanin SQuAD. Correct answer predictions (blue) tend tohave higher cosine similarities than wrong answer pre-dictions (orange)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
