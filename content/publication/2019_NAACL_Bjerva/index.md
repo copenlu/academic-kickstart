@@ -55,7 +55,7 @@ url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = "https://www.aclweb.org/anthology/attachments/N19-1156.Presentation.pptx"
-url_video = ""
+url_video = "https://vimeo.com/360714960"
 url_poster = ""
 url_source = ""
 

@@ -49,9 +49,9 @@ projects = ["explainability"]
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://arxiv.org/abs/2009.13295"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/copenlu/xai-benchmark"
 url_dataset = ""
 url_project = ""
 url_slides = ""

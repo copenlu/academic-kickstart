@@ -51,8 +51,8 @@ tags = []
 # Links (optional).
 url_pdf = "https://arxiv.org/abs/2009.06401"
 url_preprint = ""
-url_code = ""
-url_dataset = ""
+url_code = "https://github.com/copenlu/politihop"
+url_dataset = "https://github.com/copenlu/politihop"
 url_project = ""
 url_slides = ""
 url_video = ""

@@ -51,7 +51,7 @@ tags = []
 # Links (optional).
 url_pdf = "http://arxiv.org/abs/1912.00982"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/copenlu/tx-ray"
 url_dataset = ""
 url_project = ""
 url_slides = ""

@@ -51,7 +51,7 @@ tags = []
 # Links (optional).
 url_pdf = "https://arxiv.org/abs/2008.09112"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/AIPHES/Language-Agnostic-Contextualized-Encoders"
 url_dataset = ""
 url_project = ""
 url_slides = ""

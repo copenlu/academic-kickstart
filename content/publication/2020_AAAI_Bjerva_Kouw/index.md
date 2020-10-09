@@ -51,7 +51,7 @@ tags = []
 # Links (optional).
 url_pdf = "https://arxiv.org/abs/1909.03464"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/wmkouw/ssa-nlp"
 url_dataset = ""
 url_project = ""
 url_slides = ""

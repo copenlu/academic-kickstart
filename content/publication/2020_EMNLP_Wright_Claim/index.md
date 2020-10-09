@@ -51,7 +51,7 @@ tags = []
 # Links (optional).
 url_pdf = "http://arxiv.org/abs/2003.02736"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/copenlu/check-worthiness-pu-learning"
 url_dataset = ""
 url_project = ""
 url_slides = ""

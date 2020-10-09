@@ -52,10 +52,10 @@ tags = []
 url_pdf = "http://isabelleaugenstein.github.io/papers/ACL2020_2kenize.pdf"
 url_preprint = ""
 url_code = ""
-url_dataset = ""
+url_dataset = "https://github.com/pranav-ust/2kenize"
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "http://slideslive.com/38928985"
 url_poster = ""
 url_source = ""
 

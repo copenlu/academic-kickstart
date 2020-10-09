@@ -51,7 +51,7 @@ tags = []
 # Links (optional).
 url_pdf = "https://arxiv.org/abs/2009.08205"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/copenlu/fever-adversarial-attacks"
 url_dataset = ""
 url_project = ""
 url_slides = ""

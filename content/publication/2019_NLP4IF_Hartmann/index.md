@@ -51,7 +51,7 @@ tags = []
 # Links (optional).
 url_pdf = "https://arxiv.org/abs/1910.01363"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/coastalcph/issue_framing"
 url_dataset = ""
 url_project = ""
 url_slides = ""

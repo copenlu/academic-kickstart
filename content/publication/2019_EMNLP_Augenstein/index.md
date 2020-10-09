@@ -56,7 +56,7 @@ url_dataset = "https://competitions.codalab.org/competitions/21163"
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "https://www.slideshare.net/isabelleaugenstein/multifc-a-realworld-multidomain-dataset-for-evidencebased-fact-checking-of-claims"
 url_source = ""
 
 # Custom links (optional).

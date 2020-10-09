@@ -51,11 +51,11 @@ tags = []
 # Links (optional).
 url_pdf = "https://arxiv.org/abs/1904.02839"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/ahoho/SentiVAE"
 url_dataset = ""
 url_project = ""
 url_slides = "http://alexanderhoyle.com/assets/pdf/SentiVAE.pdf"
-url_video = ""
+url_video = "https://vimeo.com/356020948"
 url_poster = ""
 url_source = ""
 
