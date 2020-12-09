@@ -19,7 +19,7 @@ abstract_short = "2 PhD fellowships and one postdoctoral position on explainable
 
 # Name of event and optional event URL.
 event = "Sapere Aude PhD and Postdoc Fellowship Call"
-event_url = "https://forms.office.com/Pages/ResponsePage.aspx?id=kX-So6HNlkaviYyfHO_6kc6sgtkevo5FlcuZ17FkylVUMExWNlJISkVVVlkzMVdKVEpOSUZCMkhOMi4u"
+event_url = "https://employment.ku.dk/faculty/?show=153150"
 
 # Location of event.
 location = "Copenhagen, Denmark"
@@ -75,4 +75,4 @@ More information about the project can also be found in <a href="https://dff.dk/
 Candidates are expected to hold a Master's degree in computer science or a related relevant area or be near completion for one. There are no restrictions on citizenship, and a language certificate is not required at application time. 
 Candidates from traditionally underrepresented minorities in natural language processing are particularly encouraged to apply.
 
-Read more about reasons to join us <a href="/post/why-ucph/">here</a>. Before applying, you are welcome to get in touch to informally if you have questions about the call. The official call for PhD positions and application link is expected to be available on the UCPH job portal shortly. In the meantime, you can express your interest by leaving your contact details <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=kX-So6HNlkaviYyfHO_6kc6sgtkevo5FlcuZ17FkylVUMExWNlJISkVVVlkzMVdKVEpOSUZCMkhOMi4u">here</a> -- the application link will be sent to everyone who has informally expressed an interest.
+Read more about reasons to join us <a href="/post/why-ucph/">here</a>. Before applying, you are welcome to get in touch to informally if you have questions about the call. The official call for PhD positions and application link can be found <a href="https://employment.ku.dk/faculty/?show=153150">here</a>. Note that the application deadline is 31 January 2021. The official postdoc job ad is not available yet -- you can, however, leave your details <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=kX-So6HNlkaviYyfHO_6kc6sgtkevo5FlcuZ17FkylVUMExWNlJISkVVVlkzMVdKVEpOSUZCMkhOMi4u">here</a> and I will send you the link when it is.
