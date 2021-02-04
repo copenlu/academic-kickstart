@@ -18,8 +18,7 @@ authors = ["Johannes Bjerva", "Isabelle Augenstein"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the 16th Conference of the European Chapter
-of the Association for Computational Linguistics (EACL)"
+publication = "In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL)"
 publication_short = "In *EACL*"
 
 # Abstract and optional shortened version.
