@@ -2,6 +2,8 @@
 # Display name
 title = "Debjit Paul"
 
+draft = true
+
 # Role/position
 role = "PhD Intern"
 

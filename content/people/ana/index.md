@@ -6,17 +6,17 @@ title = "Ana Valeria González"
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Ana's main research interest is question answering, with a particular focus on the customer support domain. She's a member of the CoAStaL NLP group and co-advised by Isabelle."
+bio = "Ana is a postdoc in the CoAStaL NLP group. Prior to this, she was a PhD student in the same group from 2017-2021 co-advised by Isabelle, working on question answering."
 
 # External website link
 external_link = "https://anavaleriagonzalez.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2018-01-19T17:07:01
+date = 2017-01-24T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Affiliated"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #
