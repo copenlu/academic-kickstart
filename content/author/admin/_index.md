@@ -10,16 +10,16 @@ superuser = true
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Machine Learning Section, Department of Computer Science, University of Copenhagen", url = "https://di.ku.dk/english/research/machine-learning" } ]
+organizations = [ { name = "Natural Language Processing Section, Department of Computer Science, University of Copenhagen", url = "https://di.ku.dk/english/research/nlp/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "CopeNLU is a Natural Language Processing research group led by Isabelle Augenstein with a focus on researching methods for tasks that require a deep understanding of language, as opposed to shallow pattern recognition. We are affiliated with the Machine Learning Section at the Department of Computer Science, University of Copenhagen."
+bio = "CopeNLU is a Natural Language Processing research group led by Isabelle Augenstein with a focus on researching methods for tasks that require a deep understanding of language, as opposed to shallow pattern recognition. We are affiliated with the Natural Language Processing Section at the Department of Computer Science, University of Copenhagen."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
-interests = ["Natural Language Understanding", "Learning with Limited Labelled Data", "Fact Checking", "Knowledge Base Population", "Question Answering", "Gender Bias Detection"]
+interests = ["Natural Language Understanding", "Learning with Limited Labelled Data", "Explainable AI", "Fact Checking", "Question Answering", "Gender Bias Detection"]
 
 
 # Social/Academic Networking
@@ -65,4 +65,4 @@ interests = ["Natural Language Understanding", "Learning with Limited Labelled D
 +++
 
 CopeNLU is a Natural Language Processing research group led by <a href="http://isabelleaugenstein.github.io">Isabelle Augenstein</a> with a focus on researching methods for tasks that require a deep understanding of language, as opposed to shallow processing.
-We are affiliated with the <a href="https://di.ku.dk/english/research/machine-learning">Machine Learning Section</a> at the Department of Computer Science, University of Copenhagen, as well as <a href="https://di.ku.dk/english/research/imagesection/nlp/">NLP at the University of Copenhagen</a>. We are interested in core methodology research on, among others, learning with limited training data; as well as applications thereof to tasks such as fact checking, knowledge base population and question answering.
+We are affiliated with the <a href="https://di.ku.dk/english/research/nlp/">Natural Language Processing Section</a> at the Department of Computer Science, University of Copenhagen. We are interested in core methodology research on, among others, learning with limited training data and explainable AI; as well as applications thereof to tasks such as fact checking, gender bias detection and question answering. Our group is partly funded by a Sapere Aude Research Leader fellowship on <a href="https://dff.dk/en/grants/research-leaders-2020/researchleader-14">`Learning to Explain Attitudes on Social Media'</a>.

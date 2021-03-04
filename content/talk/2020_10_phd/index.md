@@ -1,7 +1,7 @@
 +++
 title = "Positions available in context of Sapere Aude Research Leader Fellowship on Explainable Stance Detection"
 date = 2020-11-19  # Schedule page publish date.
-draft = false
+draft = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
