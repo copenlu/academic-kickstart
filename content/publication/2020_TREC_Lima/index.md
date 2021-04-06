@@ -1,10 +1,10 @@
 +++
-title = "Longitudinal Citation Prediction using Temporal Graph Neural Networks"
-date = 2020-12-11T00:00:00
+title = "University of Copenhagen Participation in TREC Health Misinformation Track 2020"
+date = 2020-11-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Andreas Nugaard Holm", "Barbara Plank", "Dustin Wright", "Isabelle Augenstein"]
+authors = ["Lucas Chaves Lima",  "Dustin Wright", "Isabelle Augenstein", "Maria Maistro"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Andreas Nugaard Holm", "Barbara Plank", "Dustin Wright", "Isabelle A
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2012.05742."
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 2020 Text Retrieval Conference (TREC)"
+publication_short = "In *TREC*"
 
 # Abstract and optional shortened version.
-abstract = "Citation count prediction is the task of predicting the number of citations a paper has gained after a period of time. Prior work viewed this as a static prediction task. As papers and their citations evolve over time, considering the dynamics of the number of citations a paper will receive would seem logical. Here, we introduce the task of sequence citation prediction, where the goal is to accurately predict the trajectory of the number of citations a scholarly work receives over time. We propose to view papers as a structured network of citations, allowing us to use topological information as a learning signal. Additionally, we learn how this dynamic citation network changes over time and the impact of paper meta-data such as authors, venues and abstracts. To approach the introduced task, we derive a dynamic citation network from Semantic Scholar which spans over 42 years. We present a model which exploits topological and temporal information using graph convolution networks paired with sequence prediction, and compare it against multiple baselines, testing the importance of topological and temporal information and analyzing model performance. Our experiments show that leveraging both the temporal and topological information greatly increases the performance of predicting citation counts over time."
+abstract = "In this paper, we describe our participation in the TREC Health Misinformation Track 2020. We submitted 11 runs to the Total Recall Task and 13 runs to the Ad Hoc task. Our approach consists of 3 steps: (1) we create an initial run with BM25 and RM3; (2) we estimate credibility and misinformation scores for the documents in the initial run; (3) we merge the relevance, credibility and misinformation scores to re-rank documents in the initial run. To estimate credibility scores, we implement a classifier which exploits features based on the content and the popularity of a document. To compute the misinformation score, we apply a stance detection approach with a pretrained Transformer language model. Finally, we use different approaches to merge scores: weighted average, the distance among score vectors and rank fusion."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["limited-data", "scholarly-data"]
+projects = ["limited-data", "fact-checking"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["limited-data", "scholarly-data"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2012.05742"
+url_pdf = "https://arxiv.org/abs/2103.02462"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -75,7 +75,7 @@ math = false
 preview_only = true
 
   # Caption (optional)
-  caption = "Development  of  the  dynamic  graphthrough three time steps"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

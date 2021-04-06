@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["knowledge-bases", "limited-data"]
+projects = ["knowledge-bases", "limited-data", "scholarly-data"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
