@@ -1,12 +1,12 @@
 +++
 title = "Positions available in context of Sapere Aude Research Leader Fellowship on Explainable Stance Detection"
 date = 2020-11-19  # Schedule page publish date.
-draft = true
+draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2020-11-19
-time_end = 2021-01-31
+time_end = 2021-05-09
 # all_day = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -77,4 +77,4 @@ The other available postdoc position is offered in the context of a project on r
 Candidates are expected to hold a Master's degree in computer science or a related relevant area or be near completion for one. There are no restrictions on citizenship, and a language certificate is not required at application time. 
 Candidates from traditionally underrepresented minorities in natural language processing are particularly encouraged to apply.
 
-Read more about reasons to join us <a href="/post/why-ucph/">here</a>. Before applying, you are welcome to get in touch informally if you have questions about the call. The official call for PhD positions and application link can be found <a href="https://employment.ku.dk/faculty/?show=153150">here</a>. Note that the application deadline is 31 January 2021. The official postdoc job ad is available <a href="https://employment.ku.dk/faculty/?show=153308">here</a>, with an application deadline of 28 February 2021.
+Read more about reasons to join us <a href="/post/why-ucph/">here</a>. Before applying, you are welcome to get in touch informally if you have questions about the call. The official call for PhD positions and application link can be found <a href="https://employment.ku.dk/phd/?show=153856">here</a>; the application deadline is 6 May 2021. Note that the other PhD position as well as the postdoc position on the project have already been filled.
