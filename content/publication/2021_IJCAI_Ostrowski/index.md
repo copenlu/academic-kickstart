@@ -1,6 +1,6 @@
 +++
 title = "Multi-Hop Fact Checking of Political Claims"
-date = 2020-09-12T00:00:00
+date = 2021-04-30T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,14 +15,14 @@ authors = ["Wojciech Ostrowski", "Arnav Arora", "Pepa Atanasova", "Isabelle Auge
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/´2009.06401"
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 30th International Joint Conference on Artificial Intelligence"
+publication_short = "In *IJCAI*"
 
 # Abstract and optional shortened version.
-abstract = "Recently, novel multi-hop models and datasets have been introduced to achievemore complex natural language reasoning with neural networks. One notable taskthat requires multi-hop reasoning is fact checking, where a chain of connectedevidence pieces leads to the final verdict of a claim. However, existingdatasets do not provide annotations for the gold evidence pieces, which is acritical aspect for improving the explainability of fact checking systems. Theonly exception is the FEVER dataset, which is artificially constructed based onWikipedia and does not use naturally occurring political claims and evidencepages, which is more challenging. Most claims in FEVER only have one evidencesentence associated with them and require no reasoning to make labelpredictions -- the small number of instances with two evidence sentences onlyrequire simple reasoning. In this paper, we study how to perform more complexclaim verification on naturally occurring claims with multiple hops overevidence chunks. We first construct a small annotated dataset, PolitiHop, ofreasoning chains for claim verification. We then compare the dataset to otherexisting multi-hop datasets and study how to transfer knowledge from moreextensive in- and out-of-domain resources to PolitiHop. We find that the taskis complex, and achieve the best performance using an architecture thatspecifically models reasoning over evidence chains in combination within-domain transfer learning."
+abstract = "Recently, novel multi-hop models and datasets have been introduced to achieve more complex natural language reasoning with neural networks. One notable task that requires multi-hop reasoning is fact checking, where a chain of connected evidence pieces leads to the final verdict of a claim. However, existing datasets do not provide annotations for the gold evidence pieces, which is a critical aspect for improving the explainability of fact checking systems. The only exception is the FEVER dataset, which is artificially constructed based on Wikipedia and does not use naturally occurring political claims and evidence pages, which is more challenging. Most claims in FEVER only have one evidence sentence associated with them and require no reasoning to make label predictions -- the small number of instances with two evidence sentences only require simple reasoning. In this paper, we study how to perform more complex claim verification on naturally occurring claims with multiple hops overevidence chunks. We first construct a small annotated dataset, PolitiHop, of reasoning chains for claim verification. We then compare the dataset to other existing multi-hop datasets and study how to transfer knowledge from more extensive in- and out-of-domain resources to PolitiHop. We find that the task is complex, and achieve the best performance using an architecture that specifically models reasoning over evidence chains in combination within-domain transfer learning."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
