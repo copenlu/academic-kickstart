@@ -1,12 +1,12 @@
 +++
-title = "2 Papers Accepted to ACL 2020"
-date = 2020-04-05  # Schedule page publish date.
+title = "Paper Accepted to EACL 2021"
+date = 2021-01-01  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2020-04-05
-time_end = 2020-08-14
+time_start = 2021-04-21
+time_end = 2021-04-23
 # all_day = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -14,12 +14,12 @@ authors = []
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = "2 papers by CopeNLU authors are accepted to appear at ACL 2020, on explainable fact checking, as as well as on script conversion."
+abstract_short = "A paper by CopeNLU authors on typological blinding of cross-lingual models is accepted to appear at EACL."
 # abstract_short = "28 Marie Skłodowska-Curie PhD fellowships available at the University of Copenhagen Faculty of Science"
 
 # Name of event and optional event URL.
-event = "Annual Meeting of the Association for Computational Linguistics (ACL 2020)"
-event_url = "https://acl2020.org/"
+event = "16th Conference of the European Chapter of the Association for Computational Linguistics  (EACL 2021)"
+event_url = "https://2021.eacl.org/"
 
 # Location of event.
 location = "online"
@@ -37,7 +37,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ['multilingual-learning', 'fact-checking']
+tags = ['limited-data', 'multilingual-learning']
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -66,10 +66,7 @@ math = false
   focal_point = "Right"
 +++
 
-2 papers by CopeNLU authors are accepted to appear at ACL 2020. One paper is on explainable fact checking, providing the first study of how fact checking explanations can be generated automatically based on claim content, and how this task can be modelled jointly with veracity prediction; whereas the other one is on script conversion, proposing a novel Chinese character conversion model that can disambiguate between mappings and convert between Chinese scripts</a>.
+A paper by CopeNLU author is accepted to appear at EACL 2021. The paper aims to bridge the gap between high- and low-resource languages by investigating to what degree cross-lingual models share structural information about languages. 
 
-<a href="/publication/2020_acl_atanasova/">Generating Fact Checking Explanations</a>.
-<a href="/authors/pepa-atanasova/">Pepa Atanasova</a>, <a href="/authors/jakob-grue-simonsen/">Jakob Grue Simonsen</a>, <a href="/authors/christina-lioma/">Christina Lioma</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>.
-
-<a href="/publication/2020_acl_a/">2kenize: Tying Subword Sequences for Chinese Script Conversion</a>.
-<a href="/authors/pranav-a/">Pranav A</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>.
+<a href="/publication/2021_EACL_Bjerva/">Does Typological Blinding Impede Cross-Lingual Sharing?</a>.
+<a href="/authors/johannes-bjerva/">Johannes Bjerva</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>.
