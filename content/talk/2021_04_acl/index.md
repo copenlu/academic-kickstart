@@ -71,5 +71,5 @@ math = false
 <a href="/publication/2021_acl_meister_sparse/">Is Sparse Attention more Interpretable?</a>.
 <a href="/authors/clara-meister/">Clara Meister</a>, <a href="/authors/stefan-lazov/">Stefan Lazov</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>, <a href="/authors/ryan-cotterell/">Ryan Cotterell</a>.
 
-<a href="/publication/2021_acl_wright_citeworth/: CiteWorth: Cite-Worthiness Detection for Improved Scientific Document Understanding</a>.
+<a href="/publication/2021_acl_wright_citeworth/">CiteWorth: Cite-Worthiness Detection for Improved Scientific Document Understanding</a>.
 <a href="/authors/dustin-wright/">Dustin Wright</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>.
