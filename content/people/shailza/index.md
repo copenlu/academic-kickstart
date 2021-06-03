@@ -12,11 +12,11 @@ bio = "Shailza is a PhD Student at the Technical University of Kaiserslautern, a
 external_link = "https://shailzajolly.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-01-22T17:07:01
+date = 2017-01-26T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

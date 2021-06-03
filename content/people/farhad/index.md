@@ -6,7 +6,7 @@ title = "Farhad Nooralahzadeh"
 role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Farhad is a PhD Student at the University of Oslo, and was visiting CopeNLU in Spring 2019 to work on domain adaptation for information extraction."
+bio = "Farhad is a currently postdoc at the University of Zurich, and was visiting CopeNLU in Spring 2019 to work on domain adaptation for information extraction."
 
 # External website link
 external_link = "https://www.mn.uio.no/ifi/english/people/aca/farhadno/"

@@ -1,10 +1,10 @@
 +++
-title = "Is Sparse Attention more Interpretable?"
-date = 2021-05-06T00:00:00
+title = "Determining the Credibility of Science Communication"
+date = 2021-05-30T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Clara Meister", "Stefan Lazov", "Isabelle Augenstein", "Ryan Cotterell"]
+authors = ["Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Clara Meister", "Stefan Lazov", "Isabelle Augenstein", "Ryan Cottere
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)"
-publication_short = "In *ACL-IJCNLP*"
+publication = "In Proceedings of the Second Workshop on Scholarly Document Processing (SDP at NAACL 2021)"
+publication_short = "In *SDP at NAACL*"
 
 # Abstract and optional shortened version.
-abstract = "Sparse attention has been claimed to increase model interpretability under the assumption that it highlights influential inputs. Yet the attention distribution is typically over representations internal to the model rather than inputs themselves, suggesting this assumption may not have merit. In this work, we design a set of experiments to help us understand how sparsity affects our ability to use attention as an explainability tool. On three text classification tasks, we verify that only a weak relationship between inputs and co-indexed intermediate representations exists -- under sparse attention and otherwise. Further, we do not find any plausible mappings from sparse attention distributions to a sparse set of influential inputs through other avenues. Rather, we observe in this setting that inducing sparsity may make it less plausible that attention can be used as a tool for understanding model behavior."
+abstract = "Most work on scholarly document processing assumes that the information processed is trust-worthy and factually correct. However, this is not always the case. There are two core challenges, which should be addressed: 1) ensuring that scientific publications are credible – e.g. that claims are not made without supporting evidence, and that all relevant supporting evidence is provided; and 2) that scientific findings are not misrepresented, distorted or outright misreported when communicated by journalists or the general public. I will present some first steps towards addressing these problems and outline remaining challenges."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["explainability"]
+projects = ["fact-checking", "scholarly-data"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["explainability"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2106.01087"
+url_pdf = "https://www.aclweb.org/anthology/2021.sdp-1.1/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

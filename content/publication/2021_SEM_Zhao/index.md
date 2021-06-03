@@ -1,6 +1,6 @@
 +++
 title = "Inducing Language-Agnostic Multilingual Representations"
-date = 2020-08-22T00:00:00
+date = 2021-05-29T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Wei Zhao", "Steffen Eger", "Johannes Bjerva", "Isabelle Augenstein"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2008.09112."
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 10th Joint Conference on Lexical and Computational Semantics (*SEM)"
+publication_short = "In **SEM*"
 
 # Abstract and optional shortened version.
 abstract = "Cross-lingual representations have the potential to make NLP techniques available to the vast majority of languages in the world. However, they currently require large pretraining corpora, or assume access to typologically similar languages. In this work, we address these obstacles by removing language identity signals from multilingual embeddings. We examine three approaches for this: (i) re-aligning the vector spaces of target languages (all together) to a pivot source language; (ii) removing languages-specific means and variances, which yields better discriminativeness of embeddings as a by-product; and (iii) normalizing input texts by removing morphological contractions and sentence reordering, thus yielding language-agnostic representations. We evaluate on the tasks of XNLI and reference-free MT evaluation across 19 selected languages. Our experiments demonstrate the language agnostic behavior of our multilingual representations, allowing better zero-shot cross-lingual transfer to distant and low-resource languages, and decrease the performance gap by 8.9 points (M-BERT) and 18.2 points (XLM-R) on average across all tasks and languages. We particularly show that vector normalization can lead to more consistent gains and is complementary to input normalization and recently popular vector space re-alignment. We make our codes and models available."

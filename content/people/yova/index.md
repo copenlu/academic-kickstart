@@ -6,17 +6,17 @@ title = "Yova Kementchedjhieva"
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Yova researches low-resource and cross-lingual learning. She's a member of the CoAStaL NLP group and co-advised by Isabelle."
+bio = "Yova was a PhD student in the CoAStaL NLP group researching low-resource and cross-lingual learning, co-advised by Isabelle. She is now a postdoc in the same group."
 
 # External website link
 external_link = "https://yovakem.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2018-01-20T17:07:01
+date = 2017-01-25T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Affiliated"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

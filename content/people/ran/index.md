@@ -1,6 +1,7 @@
 +++
 # Display name
 title = "Ran Zmigrod"
+draft = true
 
 # Role/position
 role = "PhD Student"

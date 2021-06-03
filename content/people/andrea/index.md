@@ -7,17 +7,17 @@ draft = false
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Andrea's main research interests are multilingual learning, with a particular focus on translation-aware word prediction. He is a PhD student at the University of Southern Denmark and co-advised by Isabelle."
+bio = "Andrea's main research interests are multilingual learning and language modelling. He was a PhD student at the University of Southern Denmark and co-advised by Isabelle."
 
 # External website link
 external_link = "https://www.linkedin.com/in/andrealekkas/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2018-01-17T17:07:01
+date = 2017-01-24T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Affiliated"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

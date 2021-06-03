@@ -68,7 +68,7 @@ math = false
 
 2 papers by CopeNLU authors are accepted to appear at ACL 2021. One paper is on interpretability, examining how sparsity affects our ability to use attention as an explainability tool; whereas the other one is on scientific document understanding, introducing a new dataset for the task of cite-worthiness detection in scientific articles.
 
-<a href="/publication/2021_acl_meister_sparse/">Is Sparse Attention more Interpretable?</a>.
+<a href="/publication/2021_acl_meister_sparse/">Is Sparse Attention more Interpretable?</a>
 <a href="/authors/clara-meister/">Clara Meister</a>, <a href="/authors/stefan-lazov/">Stefan Lazov</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>, <a href="/authors/ryan-cotterell/">Ryan Cotterell</a>.
 
 <a href="/publication/2021_acl_wright_citeworth/">CiteWorth: Cite-Worthiness Detection for Improved Scientific Document Understanding</a>.
