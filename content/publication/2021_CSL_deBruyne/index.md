@@ -1,6 +1,6 @@
 +++
 title = "Joint Emotion Label Space Modelling for Affect Lexica"
-date = 2019-11-20T00:00:00
+date = 2021-06-16T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Luna De Bruyne", "Pepa Atanasova", "Isabelle Augenstein"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/1911.08782."
-publication_short = "In *CoRR*"
+publication = "Computer Speech and Language"
+publication_short = "In *Computer Speech and Language*"
 
 # Abstract and optional shortened version.
 abstract = "Emotion lexica are commonly used resources to combat data poverty in automatic emotion detection. However, methodological issues emerge when employing them: lexica are often not very extensive, and the way they are constructed can vary widely -- from lab conditions to crowdsourced approaches and distant supervision. Furthermore, both categorical frameworks and dimensional frameworks coexist, in which theorists provide many different sets of categorical labels or dimensional axes. The heterogenous nature of the resulting emotion detection resources results in a need for a unified approach to utilising them. This paper contributes to the field of emotion analysis in NLP by a) presenting the first study to unify existing emotion detection resources automatically and thus learn more about the relationships between them; b) exploring the use of existing lexica for the above-mentioned task; c) presenting an approach to automatically combining emotion lexica, namely by a multi-view variational auto-encoder (VAE), which facilitates the mapping of datasets into a joint emotion label space. We test the utility of joint emotion lexica by using them as additional features in state-of-the art emotion detection models. Our overall findings are that emotion lexica can offer complementary information to even extremely large pre-trained models such as BERT. The performance of our models is comparable to state-of-the art models that are specifically engineered for certain datasets, and even outperform the state-of-the art on four datasets."
