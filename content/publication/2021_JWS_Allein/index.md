@@ -1,6 +1,6 @@
 +++
 title = "Time-Aware Evidence Ranking for Fact-Checking"
-date = 2020-09-12T00:00:00
+date = 2021-08-30T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Liesbeth Allein", "Isabelle Augenstein", "Marie-Francine Moens"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2004.14283."
-publication_short = "In *CoRR*"
+publication = "Journal of Web Semantics, Special Issue on Content Credibility"
+publication_short = "In *JWS*"
 
 # Abstract and optional shortened version.
 abstract = "Truth can vary over time. Therefore, fact-checking decisions on claim veracity should take into account temporal information of both the claim and supporting or refuting evidence. Automatic fact-checking models typically take claims and evidence pages as input, and previous work has shown that weighing or ranking these evidence pages by their relevance to the claim is useful. However, the temporal information of the evidence pages is not generally considered when defining evidence relevance. In this work, we investigate the hypothesis that the timestamp of an evidence page is crucial to how it should be ranked for a given claim. We delineate four temporal ranking methods that constrain evidence ranking differently: evidence-based recency, claim-based recency, claim-centered closeness and evidence-centered clustering ranking. Subsequently, we simulate hypothesis-specific evidence rankings given the evidence timestamps as gold standard. Evidence ranking is then optimized using a learning to rank loss function. The best performing time-aware fact-checking model outperforms its baseline by up to 33.34%, depending on the domain. Overall, evidence-based recency and evidence-centered clustering ranking lead to the best results. Our study reveals that time-aware evidence ranking not only surpasses relevance assumptions based purely on semantic similarity or position in a search results list, but also improves veracity predictions of time-sensitive claims in particular. "
