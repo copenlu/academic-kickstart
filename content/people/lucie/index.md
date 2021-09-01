@@ -1,18 +1,18 @@
 +++
 # Display name
-title = "Isabelle Augenstein"
+title = "Lucie-Aimée Kaffee"
 
 # Role/position
-role = "Associate Professor"
+role = "Postdoc"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Isabelle's main research interests are natural language understanding and learning with limited training data."
+bio = "Lucie's research interests include supporting lower-resourced language communities (including Wikipedia and Wikidata) with NLP, and multilingual knowledge graphs."
 
 # External website link
-external_link = "http://isabelleaugenstein.github.io/"
+external_link = "https://luciekaffee.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-20T17:07:01
+date = 2019-01-10T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -39,27 +39,27 @@ tags = ["Members"]
 [[social]]
 icon = "envelope"
 icon_pack = "fas"
-link = "mailto:augenstein@di.ku.dk"  # For a direct email link, use "mailto:test@example.org".
+link = "mailto:lk@di.ku.dk"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
 icon = "twitter"
 icon_pack = "fab"
-link = "https://twitter.com/IAugenstein"
+link = "https://twitter.com/frimelle"
 
 [[social]]
 icon = "linkedin"
 icon_pack = "fab"
-link = "https://dk.linkedin.com/in/isabelle-augenstein-82436b7a"
+link = "https://www.linkedin.com/in/lucie-aimée-kaffee-8b524669"
 
 [[social]]
 icon = "google-scholar"
 icon_pack = "ai"
-link = "https://scholar.google.co.uk/citations?user=DjJp0dcAAAAJ"
+link = "https://scholar.google.co.uk/citations?user=xiuGTq0AAAAJ"
 
 [[social]]
 icon = "github"
 icon_pack = "fab"
-link = "https://github.com/isabelleaugenstein"
+link = "https://github.com/luciekaffee"
 
 
 # Optional external URL for project (replaces project detail page).
@@ -69,7 +69,6 @@ external_link = "http://example.org"
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by Toa Heftiba on Unsplash"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

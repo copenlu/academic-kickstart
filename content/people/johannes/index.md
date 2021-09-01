@@ -6,7 +6,7 @@ title = "Johannes Bjerva"
 role = "Postdoc"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Johannes is a tenure-track assistant professor at Aalborg University Copenhagen, prior to which he was a postdoc in CopeNLU from 2017 to 2020, researching multi-lingual and multi-task learning."
+bio = "Johannes is an associate professor at Aalborg University Copenhagen. He was a postdoc in CopeNLU from 2017 to 2020, researching multi-lingual and multi-task learning."
 
 # External website link
 external_link = "http://bjerva.github.io/"
