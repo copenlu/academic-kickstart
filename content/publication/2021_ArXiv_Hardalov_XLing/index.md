@@ -1,10 +1,10 @@
 +++
-title = "How Does Counterfactually Augmented Data Impact Models for Social Computing Constructs?"
-date = 2021-08-26T00:00:00
+title = "Few-Shot Cross-Lingual Stance Detection with Sentiment-Based Pre-Training"
+date = 2021-09-10T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Indira Sen", "Mattia Samory", "Fabian Flöck", "Claudia Wagner", "Isabelle Augenstein"]
+authors = ["Momchil Hardalov", "Arnav Arora", "Preslav Nakov", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Indira Sen", "Mattia Samory", "Fabian Flöck", "Claudia Wagner", "Is
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)"
-publication_short = "In *EMNLP*"
+publication = "CoRR, abs/2109.06050"
+publication_short = "In *CoRR*"
 
 # Abstract and optional shortened version.
-abstract = "As NLP models are increasingly deployed in socially situated settings such as online abusive content detection, ensuring these models are robust is crucial. One way of improving model robustness is to generate counterfactually augmented data (CAD) for training models that can better learn to distinguish between core features and data artifacts. While models trained on this type of data have shown promising out-of-domain generalizability, it is still unclear what the sources of such improvements are. We investigate the benefits of CAD for social NLP models by focusing on three social computing constructs --- sentiment, sexism, and hate speech. Assessing the performance of models trained with and without CAD across different types of datasets, we find that while models trained on CAD show lower in-domain performance, they generalize better out-of-domain. We unpack this apparent discrepancy using machine explanations and find that CAD reduces model reliance on spurious features. Leveraging a novel typology of CAD to analyze their relationship with model performance, we find that CAD which acts on the construct directly or a diverse set of CAD leads to higher performance."
+abstract = "The goal of stance detection is to determine the viewpoint expressed in a piece of text towards a target. These viewpoints or contexts are often expressed in many different languages depending on the user and the platform, which can be a local news outlet, a social media platform, a news forum, etc. Most research in stance detection, however, has been limited to working with a single language and on a few limited targets, with little work on cross-lingual stance detection. Moreover, non-English sources of labelled data are often scarce and present additional challenges. Recently, large multilingual language models have substantially improved the performance on many non-English tasks, especially such with limited numbers of examples. This highlights the importance of model pre-training and its ability to learn from few examples. In this paper, we present the most comprehensive study of cross-lingual stance detection to date: we experiment with 15 diverse datasets in 12 languages from 6 language families, and with 6 low-resource evaluation settings each. For our experiments, we build on pattern-exploiting training, proposing the addition of a novel label encoder to simplify the verbalisation procedure. We further propose sentiment-based generation of stance data for pre-training, which shows sizeable improvement of more than 6% F1 absolute in low-shot settings compared to several strong baselines."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["limited-data", "gender-bias"]
+projects = ["fact-checking", "limited-data", "multilingual-learning"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["limited-data", "gender-bias"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2109.07022"
+url_pdf = "https://arxiv.org/abs/2109.06050"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
