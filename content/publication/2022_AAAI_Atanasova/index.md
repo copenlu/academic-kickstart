@@ -1,6 +1,6 @@
 +++
 title = "Diagnostics-Guided Explanation Generation"
-date = 2021-09-12T00:00:00
+date = 2021-12-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Pepa Atanasova", "Jakob Grue Simonsen", "Christina Lioma", "Isabelle
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2109.03756"
-publication_short = "In *CoRR*"
+publication = "Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence"
+publication_short = "In *AAAI 2022*"
 
 # Abstract and optional shortened version.
 abstract = "Explanations shed light on a machine learning model's rationales and can aid in identifying deficiencies in its reasoning process. Explanation generation models are typically trained in a supervised way given human explanations. When such annotations are not available, explanations are often selected as those portions of the input that maximise a downstream task's performance, which corresponds to optimising an explanation's Faithfulness to a given model. Faithfulness is one of several so-called diagnostic properties, which prior work has identified as useful for gauging the quality of an explanation without requiring annotations. Other diagnostic properties are Data Consistency, which measures how similar explanations are for similar input instances, and Confidence Indication, which shows whether the explanation reflects the confidence of the model. In this work, we show how to directly optimise for these diagnostic properties when training a model to generate sentence-level explanations, which markedly improves explanation quality, agreement with human rationales, and downstream task performance on three complex reasoning tasks."

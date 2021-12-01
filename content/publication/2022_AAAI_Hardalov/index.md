@@ -1,6 +1,6 @@
 +++
 title = "Few-Shot Cross-Lingual Stance Detection with Sentiment-Based Pre-Training"
-date = 2021-09-10T00:00:00
+date = 2021-12-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Momchil Hardalov", "Arnav Arora", "Preslav Nakov", "Isabelle Augenst
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2109.06050"
-publication_short = "In *CoRR*"
+publication = "Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence"
+publication_short = "In *AAAI 2022*"
 
 # Abstract and optional shortened version.
 abstract = "The goal of stance detection is to determine the viewpoint expressed in a piece of text towards a target. These viewpoints or contexts are often expressed in many different languages depending on the user and the platform, which can be a local news outlet, a social media platform, a news forum, etc. Most research in stance detection, however, has been limited to working with a single language and on a few limited targets, with little work on cross-lingual stance detection. Moreover, non-English sources of labelled data are often scarce and present additional challenges. Recently, large multilingual language models have substantially improved the performance on many non-English tasks, especially such with limited numbers of examples. This highlights the importance of model pre-training and its ability to learn from few examples. In this paper, we present the most comprehensive study of cross-lingual stance detection to date: we experiment with 15 diverse datasets in 12 languages from 6 language families, and with 6 low-resource evaluation settings each. For our experiments, we build on pattern-exploiting training, proposing the addition of a novel label encoder to simplify the verbalisation procedure. We further propose sentiment-based generation of stance data for pre-training, which shows sizeable improvement of more than 6% F1 absolute in low-shot settings compared to several strong baselines."

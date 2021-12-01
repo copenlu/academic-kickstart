@@ -9,7 +9,7 @@ role = "PhD Student"
 bio = "Pepa's research interests are multilingual fact checking and question answering."
 
 # External website link
-external_link = "https://scholar.google.co.uk/citations?user=CLOC3rEAAAAJ"
+external_link = "https://apepa.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
 date = 2019-01-19T17:07:01
