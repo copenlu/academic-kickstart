@@ -1,6 +1,6 @@
 +++
-title = "Long-Tail Zero and Few-Shot Learning via Contrastive Pretraining on and for Small Data"
-date = 2020-10-02T00:00:00
+title = "Contrastive Text Pretraining for Zero to Few-Shot Long-Tail Learning"
+date = 2021-11-29T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Nils Rethmeier", "Isabelle Augenstein"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2010.01061."
-publication_short = "In *CoRR*"
+publication = "AAAI 2022 Workshop on Artificial Intelligence with Biased or Scarce Data (AIBSD 2022)"
+publication_short = "In *AIBSD 2022*"
 
 # Abstract and optional shortened version.
 abstract = "For natural language processing (NLP) tasks such as sentiment or topic classification, currently prevailing approaches heavily rely on pretraining large self-supervised models on massive external data resources.  However, this methodology is being critiqued for: exceptional compute and pretraining data requirements; diminishing returns on both large and small datasets; and importantly, favourable evaluation settings that overestimate performance differences. The core belief behind current methodology, coined 'the bitter lesson' by R. Sutton, is that 'compute scale-up beats data and compute-efficient algorithms', neglecting that progress in compute hardware scale-up is based almost entirely on the miniaturisation of resource consumption. We thus approach pretraining from a miniaturisation perspective, such as not to require massive external data sources and models, or learned translations from continuous input embeddings to discrete labels.  To minimise overly favourable evaluation, we examine learning on a long-tailed, low-resource, multi-label text classification dataset with noisy, highly sparse labels and many rare concepts. To this end, we propose a novel 'dataset-internal' contrastive autoencoding approach to self-supervised pretraining and demonstrate marked improvements in zero-shot, few-shot and solely supervised learning performance; even under an unfavorable low-resource scenario, and without defaulting to large-scale external datasets for self-supervision. We also find empirical evidence that zero and few-shot learning markedly benefit from adding more `dataset-internal', self-supervised training signals, which is of practical importance when retrieving or computing on large external sources of such signals is infeasible."
