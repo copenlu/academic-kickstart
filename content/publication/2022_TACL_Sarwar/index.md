@@ -1,6 +1,6 @@
 +++
 title = "A Neighbourhood Framework for Resource-Lean Content Flagging"
-date = 2021-03-31T00:00:00
+date = 2021-12-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,14 +15,14 @@ authors = ["Sheikh Muhammad Sarwar", "Dimitrina Zlatkova", "Momchil Hardalov", "
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2103.17055"
-publication_short = "In *CoRR*"
+publication = "Transactions of the Association for Computational Linguistics (TACL)"
+publication_short = "In *TACL*"
 
 # Abstract and optional shortened version.
-abstract = "We propose a novel interpretable framework for cross-lingual content flagging, which significantly outperforms prior work both in terms of predictive performance and average inference time. The framework is based on a nearest-neighbour architecture and is interpretable by design. Moreover, it can easily adapt to new instances without the need to retrain it from scratch. Unlike prior work, (i) we encode not only the texts, but also the labels in the neighbourhood space (which yields better accuracy), and (ii) we use a bi-encoder instead of a cross-encoder (which saves computation time). Our evaluation results on ten different datasets for abusive language detection in eight languages shows sizable improvements over the state of the art, as well as a speed-up at inference time."
+abstract = "We propose a novel framework for cross-lingual content flagging with limited target-language data, which significantly outperforms prior work in terms of predictive performance. The framework is based on a nearest-neighbour architecture. It is a modern instantiation of the vanilla k-nearest neighbour model, as we use Transformer representations in all its components. Our framework can adapt to new source language instances, without the need to be retrained from scratch. Unlike prior work on neighbourhood based approaches, we encode the neighbourhood information based on query-neighbour interactions. We propose two encoding schemes and show their effectiveness using both qualitative and quantitative analyses. Our evaluation results on eight languages from two different datasets for abusive language detection show sizable improvements of up to 9.5 (for the Italian language) in F1 over strong baselines. On average we achieve 3.6 improvements in F1 for the three languages in the Jigsaw Multilingual dataset and 2.14 improvements in F1 for the WUL dataset."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
