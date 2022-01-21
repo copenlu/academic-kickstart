@@ -1,7 +1,7 @@
 +++
 title = "A Latent-Variable Model for Intrinsic Probing"
-date = 2021-12-01T00:00:00
-draft = true
+date = 2022-01-21T00:00:00
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Karolina Stańczak", "Lucas Torroba Hennigen", "Adina Williams", "Ryan Cotterell", "Isabelle Augenstein"]
@@ -18,7 +18,7 @@ authors = ["Karolina Stańczak", "Lucas Torroba Hennigen", "Adina Williams", "Ry
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2104.07505"
+publication = "CoRR, abs/2112.14168"
 publication_short = "In *CoRR*"
 
 # Abstract and optional shortened version.
@@ -49,7 +49,7 @@ projects = ["explainability"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2104.07505"
+url_pdf = "https://arxiv.org/abs/2112.14168"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
