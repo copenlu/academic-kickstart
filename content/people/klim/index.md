@@ -1,22 +1,22 @@
 +++
 # Display name
-title = "Shailza Jolly"
+title = "Klim Zaporojets"
 
 # Role/position
 role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Shailza is a PhD Student at the Technical University of Kaiserslautern, and a research assistant at DFKI. She was visiting CopeNLU in Winter/Spring 2021 to work on interpretability."
+bio = "Klim is a PhD Student at Ghent University. He is visiting CopeNLU in Spring 2022 to work on entity linking."
 
 # External website link
-external_link = "https://shailzajolly.github.io/"
+external_link = "https://klimzaporojets.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
 date = 2017-01-26T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Alumni"]
+tags = ["Members"]
 
 # Social/Academic Networking
 #
@@ -39,27 +39,27 @@ tags = ["Alumni"]
 [[social]]
 icon = "envelope"
 icon_pack = "fas"
-link = "mailto:shailza.jolly@dfki.de"  # For a direct email link, use "mailto:test@example.org".
+link = "mailto:klim.zaporojets@ugent.be"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
 icon = "twitter"
 icon_pack = "fab"
-link = "https://twitter.com/ShailzaJolly"
+link = "https://twitter.com/KlimZaporojets"
 
 [[social]]
 icon = "linkedin"
 icon_pack = "fab"
-link = "https://www.linkedin.com/in/shailzajolly/"
+link = "https://www.linkedin.com/in/klim-zaporojets-9102b0a/"
 
 [[social]]
 icon = "google-scholar"
 icon_pack = "ai"
-link = "https://scholar.google.com/citations?user=dtzCPf8AAAAJ"
+link = "https://scholar.google.com/citations?user=oFjUJvwAAAAJ"
 
 [[social]]
 icon = "github"
 icon_pack = "fab"
-link = "https://github.com/shailzajolly"
+link = "https://github.com/klimzaporojets"
 
 
 # Optional external URL for project (replaces project detail page).
