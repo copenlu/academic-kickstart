@@ -1,10 +1,10 @@
 +++
-title = "Is Sparse Attention more Interpretable?"
-date = 2021-05-06T00:00:00
+title = "Probing Pre-Trained Language Models for Cross-Cultural Differences in Values"
+date = 2022-03-28T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Clara Meister", "Stefan Lazov", "Isabelle Augenstein", "Ryan Cotterell"]
+authors = ["Arnav Arora", "Lucie-Aimée Kaffee", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Clara Meister", "Stefan Lazov", "Isabelle Augenstein", "Ryan Cottere
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)"
-publication_short = "In *ACL-IJCNLP*"
+publication = "CoRR, abs/2203.13722"
+publication_short = "In *CoRR*"
 
 # Abstract and optional shortened version.
-abstract = "Sparse attention has been claimed to increase model interpretability under the assumption that it highlights influential inputs. Yet the attention distribution is typically over representations internal to the model rather than inputs themselves, suggesting this assumption may not have merit. In this work, we design a set of experiments to help us understand how sparsity affects our ability to use attention as an explainability tool. On three text classification tasks, we verify that only a weak relationship between inputs and co-indexed intermediate representations exists -- under sparse attention and otherwise. Further, we do not find any plausible mappings from sparse attention distributions to a sparse set of influential inputs through other avenues. Rather, we observe in this setting that inducing sparsity may make it less plausible that attention can be used as a tool for understanding model behavior."
+abstract = "Language embeds information about social, cultural, and political values people hold. Prior work has explored social and potentially harmful biases encoded in Pre-Trained Language models (PTLMs). However, there has been no systematic study investigating how values embedded in these models vary across cultures. In this paper, we introduce probes to study which values across cultures are embedded in these models, and whether they align with existing theories and cross-cultural value surveys. We find that PTLMs capture differences in values across cultures, but those only weakly align with established value surveys. We discuss implications of using mis-aligned models in cross-cultural settings, as well as ways of aligning PTLMs with value surveys."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["explainability"]
+projects = ["explainability", "multilingual-learning"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["explainability"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2106.01087"
+url_pdf = "https://arxiv.org/abs/2203.13722"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
