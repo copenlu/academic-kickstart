@@ -1,10 +1,10 @@
 +++
-title = "How Does Counterfactually Augmented Data Impact Models for Social Computing Constructs?"
-date = 2021-08-26T00:00:00
+title = "A Survey on Stance Detection for Mis- and Disinformation Identification"
+date = 2022-05-05T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Indira Sen", "Mattia Samory", "Fabian Flöck", "Claudia Wagner", "Isabelle Augenstein"]
+authors = ["Momchil Hardalov", "Arnav Arora", "Preslav Nakov", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Indira Sen", "Mattia Samory", "Fabian Flöck", "Claudia Wagner", "Is
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)"
-publication_short = "In *EMNLP*"
+publication = "In Findings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT 2022)"
+publication_short = "In *NAACL-HLT*"
 
 # Abstract and optional shortened version.
-abstract = "As NLP models are increasingly deployed in socially situated settings such as online abusive content detection, ensuring these models are robust is crucial. One way of improving model robustness is to generate counterfactually augmented data (CAD) for training models that can better learn to distinguish between core features and data artifacts. While models trained on this type of data have shown promising out-of-domain generalizability, it is still unclear what the sources of such improvements are. We investigate the benefits of CAD for social NLP models by focusing on three social computing constructs --- sentiment, sexism, and hate speech. Assessing the performance of models trained with and without CAD across different types of datasets, we find that while models trained on CAD show lower in-domain performance, they generalize better out-of-domain. We unpack this apparent discrepancy using machine explanations and find that CAD reduces model reliance on spurious features. Leveraging a novel typology of CAD to analyze their relationship with model performance, we find that CAD which acts on the construct directly or a diverse set of CAD leads to higher performance."
+abstract = "Detecting attitudes expressed in texts, also known as stance detection, has become an important task for the detection of false information online, be it misinformation (unintentionally false) or disinformation (intentionally false, spread deliberately with malicious intent). Stance detection has been framed in different ways, including: (a) as a component of fact-checking, rumour detection, and detecting previously fact-checked claims; or (b) as a task in its own right. While there have been prior efforts to contrast stance detection with other related social media tasks such as argumentation mining and sentiment analysis, there is no survey examining the relationship between stance detection detection and mis- and disinformation detection from a holistic viewpoint, which is the focus of this survey. We review and analyse existing work in this area, before discussing lessons learnt and future challenges."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["limited-data", "explainability", "gender-bias"]
+projects = ["fact-checking"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["limited-data", "explainability", "gender-bias"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2109.07022"
+url_pdf = "https://arxiv.org/abs/2103.00242"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

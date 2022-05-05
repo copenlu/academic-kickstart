@@ -1,10 +1,10 @@
 +++
-title = "How Does Counterfactually Augmented Data Impact Models for Social Computing Constructs?"
-date = 2021-08-26T00:00:00
+title = "Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection"
+date = 2022-05-04T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Indira Sen", "Mattia Samory", "Fabian Flöck", "Claudia Wagner", "Isabelle Augenstein"]
+authors = ["Indira Sen", "Mattia Samory", "Claudia Wagner", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Indira Sen", "Mattia Samory", "Fabian Flöck", "Claudia Wagner", "Is
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)"
-publication_short = "In *EMNLP*"
+publication = "In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT 2022)"
+publication_short = "In *NAACL-HLT*"
 
 # Abstract and optional shortened version.
-abstract = "As NLP models are increasingly deployed in socially situated settings such as online abusive content detection, ensuring these models are robust is crucial. One way of improving model robustness is to generate counterfactually augmented data (CAD) for training models that can better learn to distinguish between core features and data artifacts. While models trained on this type of data have shown promising out-of-domain generalizability, it is still unclear what the sources of such improvements are. We investigate the benefits of CAD for social NLP models by focusing on three social computing constructs --- sentiment, sexism, and hate speech. Assessing the performance of models trained with and without CAD across different types of datasets, we find that while models trained on CAD show lower in-domain performance, they generalize better out-of-domain. We unpack this apparent discrepancy using machine explanations and find that CAD reduces model reliance on spurious features. Leveraging a novel typology of CAD to analyze their relationship with model performance, we find that CAD which acts on the construct directly or a diverse set of CAD leads to higher performance."
+abstract = "Counterfactually Augmented Data (CAD) aims to improve out-of-domain generalizability, an indicator of model robustness. The improvement is credited to promoting core features of the construct over spurious artifacts that happen to correlate with it. Yet, over-relying on core features may lead to unintended model bias. Especially, construct-driven CAD -- perturbations of core features -- may induce models to ignore the context in which core features are used. Here, we test models for sexism and hate speech detection on challenging data: non-hateful and non-sexist usage of identity and gendered terms. On these hard cases, models trained on CAD, especially construct-driven CAD, show higher false positive rates than models trained on the original, unperturbed data. Using a diverse set of CAD -- construct-driven and construct-agnostic -- reduces such unintended bias."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["limited-data", "explainability", "gender-bias"]
+projects = ["explainability", "gender-bias"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["limited-data", "explainability", "gender-bias"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2109.07022"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""

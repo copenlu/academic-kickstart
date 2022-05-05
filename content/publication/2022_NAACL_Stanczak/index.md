@@ -1,10 +1,10 @@
 +++
-title = "A Survey on Stance Detection for Mis- and Disinformation Identification"
-date = 2021-02-27T00:00:00
+title = "Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models"
+date = 2022-05-04T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Momchil Hardalov", "Arnav Arora", "Preslav Nakov", "Isabelle Augenstein"]
+authors = ["Karolina Stańczak", "Edoardo Ponti", "Lucas Torroba Hennigen", "Ryan Cotterell", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Momchil Hardalov", "Arnav Arora", "Preslav Nakov", "Isabelle Augenst
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2103.00242"
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT 2022)"
+publication_short = "In *NAACL-HLT*"
 
 # Abstract and optional shortened version.
-abstract = "Detecting attitudes expressed in texts, also known as stance detection, has become an important task for the detection of false information online, be it misinformation (unintentionally false) or disinformation (intentionally false, spread deliberately with malicious intent). Stance detection has been framed in different ways, including: (a) as a component of fact-checking, rumour detection, and detecting previously fact-checked claims; or (b) as a task in its own right. While there have been prior efforts to contrast stance detection with other related social media tasks such as argumentation mining and sentiment analysis, there is no survey examining the relationship between stance detection detection and mis- and disinformation detection from a holistic viewpoint, which is the focus of this survey. We review and analyse existing work in this area, before discussing lessons learnt and future challenges."
+abstract = "The success of multilingual pre-trained models is underpinned by their ability to learn representations shared by multiple languages even in absence of any explicit supervision. However, it remains unclear how these models learn to generalise across languages. In this work, we conjecture that multilingual pre- trained models can derive language-universal abstractions about grammar. In particular, we investigate whether morphosyntactic information is encoded in the same subset of neurons in different languages. We conduct the first large-scale empirical study over 43 languages and 14 morphosyntactic categories with a state-of-the-art neuron-level probe. Our findings show that the cross-lingual overlap between neurons is significant, but its extent may vary across categories and depends on language proximity and pre-training data size."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["fact-checking"]
+projects = ["gender-bias"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2103.00242"
+url_pdf = "https://arxiv.org/abs/2205.02023"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -75,7 +75,7 @@ math = false
 preview_only = true
 
   # Caption (optional)
-  caption = ""
+  caption = "Mean frequency with which the top 100 adjectives"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

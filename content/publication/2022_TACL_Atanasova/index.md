@@ -26,7 +26,7 @@ abstract = "Automating the fact checking (FC) process relies on information obta
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
