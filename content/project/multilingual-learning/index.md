@@ -3,7 +3,7 @@
 title = "Multilingual Learning"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2017-04-27T00:00:00
 
 # Project summary to display on homepage.
 summary = "Training models to work well for multiple languages, including low-resource ones"

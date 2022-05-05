@@ -3,7 +3,7 @@
 title = "Scholarly Data Processing"
 
 # Date this page was created.
-date = 2016-04-26T00:00:00
+date = 2017-04-26T00:00:00
 
 # Project summary to display on homepage.
 summary = "Automatically processing scholarly data to assist researchers in finding publications, writing better papers, or tracking their impact."

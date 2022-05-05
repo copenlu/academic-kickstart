@@ -3,7 +3,7 @@
 title = "Gender Bias Detection"
 
 # Date this page was created.
-date = 2016-04-26T00:00:00
+date = 2018-04-26T00:00:00
 
 # Project summary to display on homepage.
 summary = "Automatically detecting gendered language, and to what degree attitudes towards entities are influenced by gender bias"
