@@ -18,11 +18,11 @@ authors = ["Karolina Stańczak", "Lucas Torroba Hennigen", "Adina Williams", "Ry
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2112.14168"
+publication = "CoRR, abs/2201.08214"
 publication_short = "In *CoRR*"
 
 # Abstract and optional shortened version.
-abstract = "While the prevalence of large pre-trained language models has led to significant improvements in the performance of NLP systems, recent research has demonstrated that these models inherit societal biases extant in natural language. In this paper, we explore a simple method to probe pre-trained language models for gender bias, which we use to effect a multi-lingual study of gender bias towards politicians. We construct a dataset of 250k politicians from most countries in the world and quantify adjective and verb usage around those politicians' names as a function of their gender. We conduct our study in 7 languages across 6 different language modeling architectures. Our results demonstrate that stance towards politicians in pre-trained language models is highly dependent on the language used. Finally, contrary to previous findings, our study suggests that larger language models do not tend to be significantly more gender-biased than smaller ones."
+abstract = "The success of pre-trained contextualized representations has prompted researchers to analyze them for the presence of linguistic information. Indeed, it is natural to assume that these pre-trained representations do encode some level of linguistic knowledge as they have brought about large empirical improvements on a wide variety of NLP tasks, which suggests they are learning true linguistic generalization. In this work, we focus on intrinsic probing, an analysis technique where the goal is not only to identify whether a representation encodes a linguistic attribute, but also to pinpoint where this attribute is encoded. We propose a novel latent-variable formulation for constructing intrinsic probes and derive a tractable variational approximation to the log-likelihood. Our results show that our model is versatile and yields tighter mutual information estimates than two intrinsic probes previously proposed in the literature. Finally, we find empirical evidence that pre-trained representations develop a cross-lingually entangled notion of morphosyntax."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["explainability"]
+projects = ["explainability", "multilingual-learning"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["explainability"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2112.14168"
+url_pdf = "https://arxiv.org/abs/2201.08214"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
