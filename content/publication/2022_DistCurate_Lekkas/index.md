@@ -1,10 +1,10 @@
 +++
-title = "Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection"
-date = 2022-05-04T00:00:00
+title = "Multi-Sense Language Modelling"
+date = 2022-03-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Indira Sen", "Mattia Samory", "Claudia Wagner", "Isabelle Augenstein"]
+authors = ["Andrea Lekkas", "Peter Schneider-Kamp", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Indira Sen", "Mattia Samory", "Claudia Wagner", "Isabelle Augenstein
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT 2022)"
-publication_short = "In *NAACL-HLT*"
+publication = "NAACL 2022 Workshop on Dimensions of Meaning: Distributional and Curated Semantics (DistCurate 2022)"
+publication_short = "In *DistCurate @ NAACL 2022*"
 
 # Abstract and optional shortened version.
-abstract = "Counterfactually Augmented Data (CAD) aims to improve out-of-domain generalizability, an indicator of model robustness. The improvement is credited to promoting core features of the construct over spurious artifacts that happen to correlate with it. Yet, over-relying on core features may lead to unintended model bias. Especially, construct-driven CAD -- perturbations of core features -- may induce models to ignore the context in which core features are used. Here, we test models for sexism and hate speech detection on challenging data: non-hateful and non-sexist usage of identity and gendered terms. On these hard cases, models trained on CAD, especially construct-driven CAD, show higher false positive rates than models trained on the original, unperturbed data. Using a diverse set of CAD -- construct-driven and construct-agnostic -- reduces such unintended bias."
+abstract = "The effectiveness of a language model is influenced by its token representations, which must encode contextual information and handle the same word form having a plurality of meanings (polysemy). Currently, none of the common language modelling architectures explicitly model polysemy. We propose a language model which not only predicts the next word, but also its sense in context. We argue that this higher prediction granularity may be useful for end tasks such as assistive writing, and allow for more a precise linking of language models with knowledge bases. We find that multi-sense language modelling requires architectures that go beyond standard language models, and here propose a structured prediction framework that decomposes the task into a word followed by a sense prediction task. For sense prediction, we utilise a Graph Attention Network, which encodes definitions and example uses of word senses. Overall, we find that multi-sense language modelling is a highly challenging task, and suggest that future work focus on the creation of more annotated training datasets."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["explainability", "gender-bias"]
+projects = ["multilingual-learning"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["explainability", "gender-bias"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2205.04238"
+url_pdf = "https://arxiv.org/abs/2012.05776"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -75,7 +75,7 @@ math = false
 preview_only = true
 
   # Caption (optional)
-  caption = ""
+  caption = "Part of the dictionary graph for the word “bank”"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

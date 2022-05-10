@@ -49,7 +49,7 @@ projects = ["limited-data"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2103.17055"
+url_pdf = "https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00472/110995/A-Neighborhood-Framework-for-Resource-Lean-Content"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

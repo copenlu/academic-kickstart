@@ -1,10 +1,10 @@
 +++
-title = "Multi-Sense Language Modelling"
-date = 2020-12-11T00:00:00
+title = "Multi3Generation: Multi-task, Multilingual, Multi-Modal Language Generation"
+date = 2022-03-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Andrea Lekkas", "Peter Schneider-Kamp", "Isabelle Augenstein"]
+authors = ["Anabela Barreiro", "José G. C. de Souza", "Albert Gatt", "Mehul Bhatt", "Elena Lloret", "Aykut Erdem", "Dimitra Gkatzia", "Helena Moniz", "Irene Russo", "Fabio Kepler", "Iacer Calixto", "Marcin Paprzycki", "François Portet", "Isabelle Augenstein", "Mirela Alhasani"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Andrea Lekkas", "Peter Schneider-Kamp", "Isabelle Augenstein"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2012.05776"
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 23rd Annual Conference of the European Association for Machine Translation (EAMT 2022)"
+publication_short = "In *EAMT*"
 
 # Abstract and optional shortened version.
-abstract = "The effectiveness of a language model is influenced by its token representations, which must encode contextual information and handle the same word form having a plurality of meanings (polysemy). Currently, none of the common language modelling architectures explicitly model polysemy. We propose a language model which not only predicts the next word, but also its sense in context. We argue that this higher prediction granularity may be useful for end tasks such as assistive writing, and allow for more a precise linking of language models with knowledge bases. We find that multi-sense language modelling requires architectures that go beyond standard language models, and here propose a structured prediction framework that decomposes the task into a word followed by a sense prediction task. For sense prediction, we utilise a Graph Attention Network, which encodes definitions and example uses of word senses. Overall, we find that multi-sense language modelling is a highly challenging task, and suggest that future work focus on the creation of more annotated training datasets."
+abstract = "This paper presents the Multitask, Multilingual, Multimodal Language Generation COST Action – Multi3Generation (CA18231), an interdisciplinary network of research groups working on different aspects of language generation. This 'meta-paper' will serve as reference for citations of the Action in future publications. It presents the objectives, challenges and a the links for the achieved outcomes."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["multilingual-learning"]
+projects = ["multilingual-learning", "limited-data"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["multilingual-learning"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2012.05776"
+url_pdf = "http://isabelleaugenstein.github.io/papers/EAMT_2022_camera_ready_82.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -75,7 +75,7 @@ math = false
 preview_only = true
 
   # Caption (optional)
-  caption = "Part of the dictionary graph for the word “bank”"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
