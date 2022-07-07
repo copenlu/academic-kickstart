@@ -9,7 +9,7 @@ role = "PhD Student"
 bio = "Karolina's research interests include gender-biased language detection and statistical methods."
 
 # External website link
-external_link = "https://www.linkedin.com/in/karolina-sta%C5%84czak-aab58683/"
+external_link = "https://kstanczak.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
 date = 2019-01-13T17:07:01

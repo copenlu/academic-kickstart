@@ -6,17 +6,17 @@ title = "Klim Zaporojets"
 role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Klim is a PhD Student at Ghent University. He is visiting CopeNLU in Spring 2022 to work on entity linking."
+bio = "Klim is a PhD Student at Ghent University. He was visiting CopeNLU in Spring 2022 to work on entity linking."
 
 # External website link
 external_link = "https://klimzaporojets.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-01-26T17:07:01
+date = 2017-01-27T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #
