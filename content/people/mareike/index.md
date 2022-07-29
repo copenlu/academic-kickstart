@@ -6,7 +6,7 @@ title = "Mareike Hartmann"
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Mareike was a member of the CoAStaL NLP group, researching disinformation detection and co-advised by Isabelle, and is now a postdoc in the same group."
+bio = "Mareike was a member of the CoAStaL NLP group, researching disinformation detection and co-advised by Isabelle, and is now a researcher at DFKI."
 
 # External website link
 external_link = "https://di.ku.dk/english/staff/?pure=en%2Fpersons%2Flwp876-lwp876(99595ec3-7933-430e-9103-399722d7e684).html"

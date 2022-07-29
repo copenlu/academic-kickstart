@@ -6,7 +6,7 @@ title = "Giannis Bekoulis"
 role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Giannis is a postdoc at Vrije Unversiteit Brussel, and was visiting CopeNLU as a PhD Intern in Spring 2019 to work on joint information extraction."
+bio = "Giannis is a principal data scientist at Clarivate, and was visiting CopeNLU as a PhD Intern in Spring 2019 to work on joint information extraction."
 
 # External website link
 external_link = "https://bekou.github.io/"

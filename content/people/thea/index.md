@@ -1,22 +1,22 @@
 +++
 # Display name
-title = "Zhong Xuan"
+title = "Thea Rolskov Sloth"
 
 # Role/position
-role = "Research Intern"
+role = "Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Zhong Xuan is a data scientist at Grab, Singapore, and was visiting CopeNLU in Summer 2019 to work on relation extraction and knowledge base population."
+bio = "Thea is a MSc Student in Cognitive Science at Aarhus University, visiting CopeNLU in Autumn 2022 to work on gender bias detection."
 
 # External website link
-external_link = "."
+external_link = "https://www.linkedin.com/in/thea-rolskov-sloth-02803752/ "
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-01-19T17:07:01
+date = 2019-01-08T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Alumni"]
+tags = ["Members"]
 
 # Social/Academic Networking
 #
@@ -39,21 +39,21 @@ tags = ["Alumni"]
 [[social]]
 icon = "envelope"
 icon_pack = "fas"
-link = "mailto:zhongxuan@u.yale-nus.edu.sg"  # For a direct email link, use "mailto:test@example.org".
-
-[[social]]
-icon = "twitter"
-icon_pack = "fab"
-link = "https://twitter.com/zhongxuank"
+link = "mailto:klim.zaporojets@ugent.be"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
 icon = "linkedin"
 icon_pack = "fab"
-link = "https://sg.linkedin.com/in/zhongxuan95"
+link = "https://www.linkedin.com/in/thea-rolskov-sloth-02803752/"
+
+[[social]]
+icon = "github"
+icon_pack = "fab"
+link = "https://github.com/thearol"
 
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+external_link = "https://www.linkedin.com/in/thea-rolskov-sloth-02803752/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
