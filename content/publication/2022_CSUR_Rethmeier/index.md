@@ -1,6 +1,6 @@
 +++
 title = "A Primer on Contrastive Pretraining in Language Processing: Methods, Lessons Learned and Perspectives"
-date = 2021-02-25T00:00:00
+date = 2022-09-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,14 +15,14 @@ authors = ["Nils Rethmeier", "Isabelle Augenstein"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2102.12982"
-publication_short = "In *CoRR*"
+publication = "ACM Computing Surveys"
+publication_short = "In *CSUR*"
 
 # Abstract and optional shortened version.
-abstract = "Modern natural language processing (NLP) methods employ self-supervised pretraining objectives such as masked language modeling to boost the performance of various application tasks. These pretraining methods are frequently extended with recurrence, adversarial or linguistic property masking, and more recently with contrastive learning objectives. Contrastive self-supervised training objectives enabled recent successes in image representation pretraining by learning to contrast input-input pairs of augmented images as either similar or dissimilar. However, in NLP, automated creation of text input augmentations is still very challenging because a single token can invert the meaning of a sentence. For this reason, some contrastive NLP pretraining methods contrast over input-label pairs, rather than over input-input pairs, using methods from Metric Learning and Energy Based Models. In this survey, we summarize recent self-supervised and supervised contrastive NLP pretraining methods and describe where they are used to improve language modeling, few or zero-shot learning, pretraining data-efficiency and specific NLP end-tasks. We introduce key contrastive learning concepts with lessons learned from prior research and structure works by applications and cross-field relations. Finally, we point to open challenges and future directions for contrastive NLP to encourage bringing contrastive NLP pretraining closer to recent successes in image representation pretraining."
+abstract = "Modern natural language processing (NLP) methods employ self-supervised pretraining objectives such as masked language modeling to boost the performance of various downstream tasks. These pretraining methods are frequently extended with recurrence, adversarial, or linguistic property masking. Recently, contrastive self-supervised training objectives have enabled successes in image representation pretraining by learning to contrast input-input pairs of augmented images as either similar or dissimilar. In NLP however, a single token augmentation can invert the meaning of a sentence during input-input contrastive learning, which led to input-output contrastive approaches that avoid the issue by instead contrasting over input-label pairs. In this primer, we summarize recent self-supervised and supervised contrastive NLP pretraining methods and describe where they are used to improve language modeling, zero to few-shot learning, pretraining data-efficiency, and specific NLP tasks. We overview key contrastive learning concepts with lessons learned from prior research and structure works by applications. Finally, we point to open challenges and future directions for contrastive NLP to encourage bringing contrastive NLP pretraining closer to recent successes in image representation pretraining."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -49,7 +49,7 @@ projects = ["limited-data"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2102.12982"
+url_pdf = "https://dl.acm.org/doi/10.1145/3561970"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

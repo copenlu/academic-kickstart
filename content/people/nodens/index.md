@@ -6,7 +6,7 @@ title = "Nodens Koren"
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Nodens is a PhD student at the University of Edinburgh, interested in interpretability and bio-inspired models."
+bio = "Nodens is interested in interpretability and bio-inspired models."
 
 # External website link
 external_link = "https://scholar.google.co.uk/citations?user=4Lv9jRIAAAAJ"

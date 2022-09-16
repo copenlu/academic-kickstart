@@ -1,10 +1,10 @@
 +++
-title = "QA Dataset Explosion: A Taxonomy of NLP Resources for Question Answering and Reading Comprehension"
-date = 2021-07-27T00:00:00
+title = "Habilitation Abstract: Towards Explainable Fact Checking"
+date = 2022-09-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Anna Rogers", "Matt Gardner", "Isabelle Augenstein"]
+authors = ["Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Anna Rogers", "Matt Gardner", "Isabelle Augenstein"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2107.12708."
-publication_short = "In *CoRR*"
+publication = "KI - Künstliche Intelligenz "
+publication_short = "In *KI*"
 
 # Abstract and optional shortened version.
-abstract = "Alongside huge volumes of research on deep learning models in NLP in the recent years, there has been also much work on benchmark datasets needed to track modeling progress. Question answering and reading comprehension have been particularly prolific in this regard, with over 80 new datasets appearing in the past two years. This study is the largest survey of the field to date. We provide an overview of the various formats and domains of the current resources, highlighting the current lacunae for future work. We further discuss the current classifications of 'reasoning types' in question answering and propose a new taxonomy. We also discuss the implications of over-focusing on English, and survey the current monolingual resources for other languages and multilingual resources. The study is aimed at both practitioners looking for pointers to the wealth of existing data, and at researchers working on new resources."
+abstract = "With the substantial rise in the amount of mis- and disinformation online, fact checking has become an important task to automate. This article is a summary of a habilitation (doctor scientiarum) thesis submitted to the University of Copenhagen, which was sucessfully defended in December 2021 (Augenstein in Towards Explainable Fact Checking. Dr. Scient. thesis, University of Copenhagen, Faculty of Science, 2021). The dissertation addresses several fundamental research gaps within automatic fact checking. The contributions are organised along three verticles: (1) the fact-checking subtask they address; (2) methods which only require small amounts of manually labelled data; (3) methods for explainable fact checking, addressing the problem of opaqueness in the decision-making of black-box fact checking models."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["question-answering"]
+projects = ["fact-checking", "explainability"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["question-answering"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2107.12708"
+url_pdf = "https://link.springer.com/article/10.1007/s13218-022-00774-6"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -75,7 +75,7 @@ math = false
 preview_only = true
 
   # Caption (optional)
-  caption = "Proposed classification of machine reading comprehension skills"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
