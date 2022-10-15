@@ -1,6 +1,6 @@
 +++
 title = "Generating Fluent Fact Checking Explanations with Unsupervised Post-Editing"
-date = 2021-12-01T00:00:00
+date = 2022-10-08T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Shailza Jolly", "Pepa Atanasova", "Isabelle Augenstein"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2112.06924"
-publication_short = "In *CoRR*"
+publication = "MDPI journal 'Information', Special Issue 'Advances in Explainable Artificial Intelligence'"
+publication_short = "In *Information*"
 
 # Abstract and optional shortened version.
 abstract = "Fact-checking systems have become important tools to verify fake and misguiding news. These systems become more trustworthy when human-readable explanations accompany the veracity labels. However, manual collection of such explanations is expensive and time-consuming. Recent works frame explanation generation as extractive summarization, and propose to automatically select a sufficient subset of the most important facts from the ruling comments (RCs) of a professional journalist to obtain fact-checking explanations. However, these explanations lack fluency and sentence coherence. In this work, we present an iterative edit-based algorithm that uses only phrase-level edits to perform unsupervised post-editing of disconnected RCs. To regulate our editing algorithm, we use a scoring function with components including fluency and semantic preservation. In addition, we show the applicability of our approach in a completely unsupervised setting. We experiment with two benchmark datasets, LIAR-PLUS and PubHealth. We show that our model generates explanations that are fluent, readable, non-redundant, and cover important information for the fact check."

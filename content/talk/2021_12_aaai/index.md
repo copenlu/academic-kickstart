@@ -14,7 +14,7 @@ authors = []
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = "2 papers by CopeNLU authors are accepted to appear at AAAI 2021, on explanation generation, as well as on cross-lingual stance detection."
+abstract_short = "2 papers by CopeNLU authors are accepted to appear at AAAI 2022, on explanation generation, as well as on cross-lingual stance detection."
 # abstract_short = "28 Marie Skłodowska-Curie PhD fellowships available at the University of Copenhagen Faculty of Science"
 
 # Name of event and optional event URL.

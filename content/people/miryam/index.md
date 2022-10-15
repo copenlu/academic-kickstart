@@ -7,17 +7,17 @@ draft = false
 role = "Postdoc"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Miryam's main research interests are syntactic parsing, multilingual NLP and interpretability. She is an international postdoc affiliated with KU Leuven as well as the University of Copenhagen."
+bio = "Miryam's main research interests are syntactic parsing, multilingual NLP and interpretability. She is an assistant profesor at KU Leuven, and was previously an international postdoc affiliated with KU Leuven as well as the University of Copenhagen."
 
 # External website link
 external_link = "https://cl.lingfil.uu.se/~miryam/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2018-01-14T17:07:01
+date = 2017-01-29T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Affiliated"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #
