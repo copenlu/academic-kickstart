@@ -3,7 +3,7 @@
 title = "Isabelle Augenstein"
 
 # Role/position
-role = "Associate Professor"
+role = "Full Professor"
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Isabelle's main research interests are natural language understanding and learning with limited training data."
@@ -63,13 +63,13 @@ link = "https://github.com/isabelleaugenstein"
 
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+# external_link = "http://example.org"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by Toa Heftiba on Unsplash"
+  # caption = "Photo by Toa Heftiba on Unsplash"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

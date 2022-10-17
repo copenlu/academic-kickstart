@@ -9,7 +9,7 @@ role = "PhD Student"
 bio = "Nadav's research interests include improving the trustworthiness and usefulness of deep models in the NLP domain."
 
 # External website link
-external_link = "https://scholar.google.com/citations?user=uDM-PC0AAAAJ"
+external_link = "https://nadav.dk/"
 
 # Date this page was created. Entries are sorted by most recent one.
 date = 2019-01-08T17:07:01
