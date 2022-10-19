@@ -5,8 +5,8 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2022-10-01
-time_end = 2022-12-11
+time_start = 2022-10-17
+#time_end = 2022-12-11
 # all_day = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ abstract_short = "Isabelle Augenstein was promoted to full professor, making her
 
 # Name of event and optional event URL.
 event = "Denmark's youngest female professor appointed at the University of Copenhagen"
-event_url = "https://2022.emnlp.org/"
+event_url = "https://science.ku.dk/english/press/news/2022/denmarks-youngest-female-professor-appointed-at-the-university-of-copenhagen/"
 
 # Location of event.
 #location = "Abu Dhabi, United Arab Emirates"

@@ -1,5 +1,5 @@
 +++
-title = "2 Papers Accepted to NAACL 2022"
+title = "2 Papers Accepted to EMNLP 2022"
 date = 2022-10-10  # Schedule page publish date.
 draft = false
 
