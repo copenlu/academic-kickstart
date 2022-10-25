@@ -15,15 +15,14 @@ authors = ["Dustin Wright", "Jiaxin Pei", "David Jurgens", "Isabelle Augenstein"
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing"
 publication_short = "In *EMNLP 2022*"
 
 # Abstract and optional shortened version.
-abstract = "Whether the media faithfully communicate scientific information has long been a core issue to the science community. Automatically identifying paraphrased scientific findings could enable large-scale tracking and analysis of information changes in the science communication process, but this requires systems to understand the similarity between scientific information across multiple domains. To this end, we present the SCIENTIFIC PARAPHRASE AND INFORMATION CHANGE DATASET (SPICED), the first paraphrase dataset of scientific findings annotated for degree of information change. SPICED contains 6,000 scientific finding pairs extracted from news stories, social media discussions, and full texts of original papers. We demonstrate that SPICED poses a challenging task and that models trained on SPICED improve downstream performance on evidence retrieval for fact checking of real-world scientific claims. Finally, we show that models trained on SPICED can reveal large-scale trends in the degrees to which people and organizations faithfully communicate new scientific findings."
-
+abstract = "Whether the media faithfully communicate scientific information has long been a core issue to the science community. Automatically identifying paraphrased scientific findings could enable large-scale tracking and analysis of information changes in the science communication process, but this requires systems to understand the similarity between scientific information across multiple domains. To this end, we present the SCIENTIFIC PARAPHRASE AND INFOR-010 MATION CHANGE DATASET (SPICED), the first paraphrase dataset of scientific findings annotated for degree of information change. SPICED contains 6,000 scientific finding pairs extracted from news stories, social media discussions, and full texts of original papers. We016 demonstrate that SPICED poses a challenging task and that models trained on SPICED improve downstream performance on evidence retrieval for fact checking of real-world scientific claims. Finally, we show that models trained on SPICED can reveal large-scale trends in the degrees to which people and organizations faithfully communicate new scientific findings."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -50,10 +49,10 @@ projects = ["scholarly-data", "fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2210.13001"
+url_pdf = ""
 url_preprint = ""
-url_code = "https://github.com/copenlu/scientific-information-change"
-url_dataset = "https://huggingface.co/datasets/copenlu/spiced"
+url_code = ""
+url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -62,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Huggingface Model", url = "https://huggingface.co/copenlu/spiced"}]
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -73,7 +72,7 @@ math = false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
-preview_only = false
+preview_only = true
 
   # Caption (optional)
   caption = ""
@@ -83,10 +82,4 @@ preview_only = false
   focal_point = "Center"
 +++
 
-### Code, models, and data
 
-We've released all of the code, models, and data for the project to help with further research on NLP for understanding science communication. The code can be found [here](https://github.com/copenlu/scientific-information-change), the sentence-transformers model [here](https://huggingface.co/copenlu/spiced), and the dataset [here](https://huggingface.co/datasets/copenlu/spiced). We've additionally released a lightweight python package [scientific-information-change](https://pypi.org/project/scientific-information-change/), which can be used to measure the information matching score (IMS) between scientific sentences. You can download the package as follows:
-
-```
-pip install scientific-information-change
-```

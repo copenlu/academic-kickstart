@@ -15,7 +15,7 @@ authors = ["Shailza Jolly", "Pepa Atanasova", "Isabelle Augenstein"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "MDPI journal 'Information', Special Issue 'Advances in Explainable Artificial Intelligence'"
@@ -49,7 +49,7 @@ projects = ["explainability", "fact-checking", "limited-data"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2112.06924"
+url_pdf = "https://www.mdpi.com/2078-2489/13/10/500/htm"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
