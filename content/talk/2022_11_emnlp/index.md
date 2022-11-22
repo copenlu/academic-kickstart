@@ -5,7 +5,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2022-12-07
+time_start = 2022-10-01
 time_end = 2022-12-11
 # all_day = true
 

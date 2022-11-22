@@ -49,7 +49,7 @@ projects = ["gender-bias"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2112.12014"
+url_pdf = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274317"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

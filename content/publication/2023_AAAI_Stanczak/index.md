@@ -1,6 +1,6 @@
 +++
 title = "A Latent-Variable Model for Intrinsic Probing"
-date = 2022-01-21T00:00:00
+date = 2022-11-22T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Karolina Stańczak", "Lucas Torroba Hennigen", "Adina Williams", "Ry
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2201.08214"
-publication_short = "In *CoRR*"
+publication = "Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence"
+publication_short = "In *AAAI 2023*"
 
 # Abstract and optional shortened version.
 abstract = "The success of pre-trained contextualized representations has prompted researchers to analyze them for the presence of linguistic information. Indeed, it is natural to assume that these pre-trained representations do encode some level of linguistic knowledge as they have brought about large empirical improvements on a wide variety of NLP tasks, which suggests they are learning true linguistic generalization. In this work, we focus on intrinsic probing, an analysis technique where the goal is not only to identify whether a representation encodes a linguistic attribute, but also to pinpoint where this attribute is encoded. We propose a novel latent-variable formulation for constructing intrinsic probes and derive a tractable variational approximation to the log-likelihood. Our results show that our model is versatile and yields tighter mutual information estimates than two intrinsic probes previously proposed in the literature. Finally, we find empirical evidence that pre-trained representations develop a cross-lingually entangled notion of morphosyntax."

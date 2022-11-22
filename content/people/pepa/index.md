@@ -3,7 +3,7 @@
 title = "Pepa Atanasova"
 
 # Role/position
-role = "PhD Student"
+role = "Postdoc"
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Pepa's research interests are multilingual fact checking and question answering."
