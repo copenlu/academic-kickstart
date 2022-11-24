@@ -45,3 +45,5 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 +++
 
 We are interested in studying method to explain relationships between inputs and outputs of black-box machine learning models, particularly in the context of challenging NLU tasks such as fact checking.
+
+We are researching methods for explainable stance detection in the context of a <a href="https://dff.dk/en/grants/copy_of_research-leaders-2020/researchleader-14?set_language=en">DFF Sapere Aude Research Leader project</a>, and explainable fact checking as part of an <a href="https://erc.europa.eu/news-events/news/starting-grants-2022-call-results">ERC Starting Grant project</a>.
