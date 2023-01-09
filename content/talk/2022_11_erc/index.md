@@ -19,7 +19,7 @@ abstract_short = "2 PhD fellowships and 2 postdoctoral positions on explainable 
 
 # Name of event and optional event URL.
 event = "ERC StG PhD and Postdoc Fellowship Call"
-# event_url = "https://employment.ku.dk/faculty/?show=153150"
+# event_url = "https://jobportal.ku.dk/videnskabelige-stillinger/?show=158206"
 
 # Location of event.
 location = "Copenhagen, Denmark"
@@ -71,4 +71,4 @@ ExplainYourself proposes to study explainable automatic fact checking, the task 
 
 In addition to the principle investigator, the two PhD students and postdocs, the project team will also include collaborators from CopeNLU as well as external collaborators.
 
-Read more about reasons to join us <a href="/post/why-ucph/">here</a>. Two of the positions are expected to be filled for a starting date in autumn 2023, whereas the other two will be filled later during the project period. The official call is not up yet; in the meantime, you can leave your contact details <a href="https://forms.office.com/r/Wp6FHGbD3Z">here</a>, and we will send you the application link when it is up. 
+Read more about reasons to join us <a href="/post/why-ucph/">here</a>. Two of the positions are expected to be filled for a starting date in autumn 2023, whereas the other two will be filled later during the project period. The official call for the PhD position is up <a href="https://jobportal.ku.dk/phd/?show=158207">here</a>, and the one for the postdoc position <a href="https://jobportal.ku.dk/videnskabelige-stillinger/?show=158206">here</a>. 
