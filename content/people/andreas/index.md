@@ -10,7 +10,7 @@ role = "PhD Student"
 bio = "Andreas' main research areas are representation learning and domain adaptation, with a focus on scientific texts."
 
 # External website link
-external_link = "https://scholar.google.co.uk/citations?user=CLOC3rEAAAAJ"
+external_link = "https://scholar.google.dk/citations?user=eeL1rPAAAAAJ"
 
 # Date this page was created. Entries are sorted by most recent one.
 date = 2019-01-14T17:07:01

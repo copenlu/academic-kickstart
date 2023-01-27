@@ -14,7 +14,7 @@ authors = []
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = "2 PhD fellowships and 2 postdoctoral positions on explainable fact checking are available in CopeNLU. The positions are funded by the ERC Starting Grant project ExplainYourself."
+abstract_short = "2 PhD fellowships and 2 postdoctoral positions on explainable fact checking are available in CopeNLU. The positions are funded by the ERC Starting Grant project ExplainYourself. The application deadline is 1 March 2023."
 # abstract_short = "25 Marie Skłodowska-Curie PhD fellowships available at the University of Copenhagen Faculty of Science"
 
 # Name of event and optional event URL.

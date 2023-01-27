@@ -12,11 +12,11 @@ bio = "Thea is a MSc Student in Cognitive Science at Aarhus University, visiting
 external_link = "https://www.linkedin.com/in/thea-rolskov-sloth-02803752/ "
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-08T17:07:01
+date = 2017-01-30T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #
