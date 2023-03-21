@@ -1,18 +1,19 @@
 +++
 # Display name
-title = "Amelie Wührl"
+title = "Marta Marchiori Manerba"
+draft = false
 
 # Role/position
 role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Amelie is a PhD Student at the University of Stuttgart, interested in fact-checking, specifically for medical claims and content that people chose to share on social media."
+bio = "Marta's research interests are explainability and fairness, with a focus on abusive language detection. She is a second-year PhD student at the University of Pisa and is visiting CopeNLU in Spring/Summer 2023."
 
 # External website link
-external_link = "https://aclanthology.org/people/a/amelie-wuhrl/"
+external_link = "https://martamarchiori.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-06T17:07:01
+date = 2019-01-05T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -39,22 +40,36 @@ tags = ["Members"]
 [[social]]
 icon = "envelope"
 icon_pack = "fas"
-link = "mailto:amelie.wuehrl@ims.uni-stuttgart.de"  # For a direct email link, use "mailto:test@example.org".
+link = "mailto:marta.marchiori@phd.unipi.it"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
 icon = "twitter"
 icon_pack = "fab"
-link = "https://twitter.com/AmelieWuehrl"
+link = "https://twitter.com/Marta_Marchiori"
+
+[[social]]
+icon = "linkedin"
+icon_pack = "fab"
+link = "https://www.linkedin.com/in/marta-marchiori-manerba/"
+
+[[social]]
+icon = "google-scholar"
+icon_pack = "ai"
+link = "https://scholar.google.it/citations?user=e08ews0AAAAJ&hl=it"
+
+[[social]]
+icon = "github"
+icon_pack = "fab"
+link = "https://github.com/MartaMarchiori"
 
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://aclanthology.org/people/a/amelie-wuhrl/"
+external_link = "http://example.org"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  # caption = "Photo by Toa Heftiba on Unsplash"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

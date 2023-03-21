@@ -7,17 +7,17 @@ draft = false
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Dustin's research interests include fact checking and knowledge base population, with a focus on scientific texts."
+bio = "Dustin's research interests include fact checking and knowledge base population, with a focus on scientific texts. He was PhD in CopeNLU from 2019 to 2023, and is now a postdoctoral researcher in the DIKU ML section."
 
 # External website link#
 external_link = "https://dustinbwright.com/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-14T17:07:01
+date = 2017-01-31T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

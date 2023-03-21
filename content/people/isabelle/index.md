@@ -6,7 +6,7 @@ title = "Isabelle Augenstein"
 role = "Full Professor"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Isabelle's main research interests are natural language understanding and learning with limited training data."
+bio = "Isabelle's main research interests are natural language understanding, explainability and learning with limited training data."
 
 # External website link
 external_link = "http://isabelleaugenstein.github.io/"
