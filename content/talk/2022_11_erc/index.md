@@ -74,4 +74,3 @@ In addition to the principle investigator, the two PhD students and postdocs, th
 
 Read more about reasons to join us <a href="/post/why-ucph/">here</a>. 
 The project team will consist of two PhD students and two postdocs, in addition to the principal investigator and external collaborators. At the moment, we are looking to fill one postdoc position. You can read more about the position and apply <a href="https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&departmentId=18970&ProjectId=159168&MediaId=5&SkipAdvertisement=false">here<>.
-#Two of the positions are expected to be filled for a starting date in autumn 2023, whereas the other two will be filled later during the project period. The official call for the PhD position is up <a href="https://jobportal.ku.dk/phd/?show=158207">here</a>, and the one for the postdoc position <a href="https://jobportal.ku.dk/videnskabelige-stillinger/?show=158206">here</a>. 
