@@ -14,7 +14,8 @@ authors = []
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = "2 PhD fellowships and 2 postdoctoral positions on explainable fact checking are available in CopeNLU. The positions are funded by the ERC Starting Grant project ExplainYourself. The application deadline is 1 March 2023."
+abstract_short = "PhD and postdoctoral fellowships on explainable fact checking are available in CopeNLU. The positions are funded by the ERC Starting Grant project ExplainYourself. The application deadline for the postdoctoral position is 24 May 2023."
+#abstract_short = "2 PhD fellowships and 2 postdoctoral positions on explainable fact checking are available in CopeNLU. The positions are funded by the ERC Starting Grant project ExplainYourself. The application deadline is 1 March 2023."
 # abstract_short = "25 Marie Skłodowska-Curie PhD fellowships available at the University of Copenhagen Faculty of Science"
 
 # Name of event and optional event URL.
@@ -71,4 +72,6 @@ ExplainYourself proposes to study explainable automatic fact checking, the task 
 
 In addition to the principle investigator, the two PhD students and postdocs, the project team will also include collaborators from CopeNLU as well as external collaborators.
 
-Read more about reasons to join us <a href="/post/why-ucph/">here</a>. Two of the positions are expected to be filled for a starting date in autumn 2023, whereas the other two will be filled later during the project period. The official call for the PhD position is up <a href="https://jobportal.ku.dk/phd/?show=158207">here</a>, and the one for the postdoc position <a href="https://jobportal.ku.dk/videnskabelige-stillinger/?show=158206">here</a>. 
+Read more about reasons to join us <a href="/post/why-ucph/">here</a>. 
+The project team will consist of two PhD students and two postdocs, in addition to the principal investigator and external collaborators. At the moment, we are looking to fill one postdoc position. You can read more about the position and apply <a href="https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&departmentId=18970&ProjectId=159168&MediaId=5&SkipAdvertisement=false">here<>.
+#Two of the positions are expected to be filled for a starting date in autumn 2023, whereas the other two will be filled later during the project period. The official call for the PhD position is up <a href="https://jobportal.ku.dk/phd/?show=158207">here</a>, and the one for the postdoc position <a href="https://jobportal.ku.dk/videnskabelige-stillinger/?show=158206">here</a>. 

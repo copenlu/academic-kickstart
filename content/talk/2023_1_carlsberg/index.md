@@ -14,7 +14,7 @@ authors = []
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = "1 PhD fellowship on fair and accountable natural language processing is available in CopeNLU. The positions are funded by a Carlsberg Semper Ardens project on detecing biases in job ads. The application deadline is 28 February 2023."
+abstract_short = "1 PhD fellowship on fair and accountable natural language processing is available in CopeNLU. The positions are funded by a Carlsberg Semper Ardens project on detecing biases in job ads. The application deadline is 24 May 2023."
 # abstract_short = "25 Marie Skłodowska-Curie PhD fellowships available at the University of Copenhagen Faculty of Science"
 
 # Name of event and optional event URL.
@@ -65,7 +65,7 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
 +++
-The PhD fellowship is offered in the context of a <a href="https://www.carlsbergfondet.dk/da/Forskningsaktiviteter/Bevillingsstatistik/Bevillingsoversigt/CF22_1461_Pia-Ingold">project supported by the Carlsberg Foundation on employer images in job ads</a> led by Pia Ingold and co-led by Isabelle Augenstein. The project team will further include one postdoctoral researcher (to be hired at the Department of Psychology) as well as external partners. The project will comprise studies using methods from experimental psychology, as well as analyses of two existing big datasets on job ads (one in Danish, one in German) using Natural Language Processing.
-The role of the PhD student to be recruited in this call will be to research fair and accountable Natural Language Processing methods, which can be used to understand what influences the employer images that organisations project in job ads.
+The PhD fellowship is offered in the context of a <a href="https://www.carlsbergfondet.dk/da/Forskningsaktiviteter/Bevillingsstatistik/Bevillingsoversigt/CF22_1461_Pia-Ingold">project supported by the Carlsberg Foundation on analysing employer descriptions in job ads</a> led by Pia Ingold and co-led by Isabelle Augenstein. The project team will further include one postdoctoral researcher (to be hired at the Department of Psychology) as well as external partners. The project will comprise studies using methods from experimental psychology, as well as analyses of two existing big datasets on job ads (one in Danish, one in German) using Natural Language Processing.
+The role of the PhD student to be recruited in this call will be to research Natural Language Processing methods, which can be used to understand what influences the employer descriptions that organisations project in job ads.
 
-Read more about reasons to join CopeNLU <a href="/post/why-ucph/">here</a>. The official call for the PhD position is up <a href="https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1307&ProjectId=158390&DepartmentId=19207&MediaId=4636">here</a>. 
+Read more about reasons to join CopeNLU <a href="/post/why-ucph/">here</a>. The official call for the PhD position is up <a href="https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&departmentId=18970&ProjectId=159166&MediaId=5&SkipAdvertisement=false">here</a> and will close on 24 May 2023. 
