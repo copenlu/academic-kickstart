@@ -13,11 +13,11 @@ bio = "Andreas' main research areas are representation learning and domain adapt
 external_link = "https://scholar.google.dk/citations?user=eeL1rPAAAAAJ"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-14T17:07:01
+date = 2017-02-01T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

@@ -6,17 +6,17 @@ title = "Amelie Wührl"
 role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Amelie is a PhD Student at the University of Stuttgart, interested in fact-checking, specifically for medical claims and content that people chose to share on social media."
+bio = "Amelie is a PhD Student at the University of Stuttgart, interested in fact-checking, specifically for medical claims and content that people chose to share on social media. She was visiting CopeNLU in Spring 2023 to work on scientific fact checking."
 
 # External website link
 external_link = "https://aclanthology.org/people/a/amelie-wuhrl/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-06T17:07:01
+date = 2017-02-03T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

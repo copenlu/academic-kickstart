@@ -6,17 +6,17 @@ title = "Lucie-Aimée Kaffee"
 role = "Postdoc"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Lucie's research interests include supporting lower-resourced language communities (including Wikipedia and Wikidata) with NLP, and multilingual knowledge graphs."
+bio = "Lucie's research interests include supporting lower-resourced language communities (including Wikipedia and Wikidata) with NLP, and multilingual knowledge graphs. She was a postdoctoral researcher in the CopeNLU group from 2021-2023 and is now a postdoctoral researcher at Hasso-Plattner-Institut."
 
 # External website link
 external_link = "https://luciekaffee.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-10T17:07:01
+date = 2017-02-02T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

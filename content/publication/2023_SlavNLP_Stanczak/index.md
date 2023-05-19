@@ -1,10 +1,10 @@
 +++
-title = "Probing Pre-Trained Language Models for Cross-Cultural Differences in Values"
-date = 2022-03-28T00:00:00
+title = "Measuring Gender Bias in West Slavic Language Models"
+date = 2023-05-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Arnav Arora", "Lucie-Aimée Kaffee", "Isabelle Augenstein"]
+authors = ["Sandra Martinková", "Karolina Stańczak", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Arnav Arora", "Lucie-Aimée Kaffee", "Isabelle Augenstein"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2203.13722"
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 9th Workshop on Slavic Natural Language Processing 2023 (SlavicNLP 2023)"
+publication_short = "In *SlavicNLP*"
 
 # Abstract and optional shortened version.
-abstract = "Language embeds information about social, cultural, and political values people hold. Prior work has explored social and potentially harmful biases encoded in Pre-Trained Language models (PTLMs). However, there has been no systematic study investigating how values embedded in these models vary across cultures. In this paper, we introduce probes to study which values across cultures are embedded in these models, and whether they align with existing theories and cross-cultural value surveys. We find that PTLMs capture differences in values across cultures, but those only weakly align with established value surveys. We discuss implications of using mis-aligned models in cross-cultural settings, as well as ways of aligning PTLMs with value surveys."
+abstract = "Pre-trained language models have been known to perpetuate biases from the underlying datasets to downstream tasks. However, these findings are predominantly based on monolingual language models for English, whereas there are few investigative studies of biases encoded in language models for languages beyond English. In this paper, we fill this gap by analysing gender bias in West Slavic language models. We introduce the first template-based dataset in Czech, Polish, and Slovak for measuring gender bias towards male, female and non-binary subjects. We complete the sentences using both mono- and multilingual language models and assess their suitability for the masked language modelling objective. Next, we measure gender bias encoded in West Slavic language models by quantifying the toxicity and genderness of the generated words. We find that these language models produce hurtful completions that depend on the subject’s gender. Perhaps surprisingly, Czech, Slovak, and Polish language models produce more hurtful completions with men as subjects, which, upon inspection, we find is due to completions being related to violence, death, and sickness."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["explainability", "multilingual-learning"]
+projects = ["gender-bias", "multilingual-learning"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["explainability", "multilingual-learning"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2203.13722"
+url_pdf = "https://aclanthology.org/2023.bsnlp-1.17/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -75,7 +75,7 @@ math = false
 preview_only = true
 
   # Caption (optional)
-  caption = ""
+  caption = "Multilingual completions for the m-BERT and XLM-R language models"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
