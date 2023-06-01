@@ -1,10 +1,10 @@
 +++
-title = "Faithfulness Tests for Natural Language Explanations"
-date = 2023-05-20T00:00:00
+title = "Multi-View Knowledge Distillation from Crowd Annotations for Out-of-Domain Generalization"
+date = 2022-12-19T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pepa Atanasova", "Oana-Maria Camburu", "Christina Lioma", "Thomas Lukasiewicz", "Jakob Grue Simonsen", "Isabelle Augenstein"]
+authors = ["Dustin Wright", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Pepa Atanasova", "Oana-Maria Camburu", "Christina Lioma", "Thomas Lu
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)"
-publication_short = "In *ACL*"
+publication = "CoRR, abs/2212.09409"
+publication_short = "In *CoRR*"
 
 # Abstract and optional shortened version.
-abstract = "Explanations of neural models aim to reveal a model's decision-making process for its predictions. However, recent work shows that current methods giving explanations such as saliency maps or counterfactuals can be misleading, as they are prone to present reasons that are unfaithful to the model's inner workings. This work explores the challenging question of evaluating the faithfulness of natural language explanations (NLEs). To this end, we present two tests. First, we propose an adversarial input editor for inserting reasons that lead to counterfactual predictions but are not reflected by the NLEs. Second, we reconstruct inputs from the reasons stated in the generated NLEs and check how often they lead to the same predictions. Our tests can evaluate emerging NLE models, proving a fundamental tool in the development of faithful NLEs."
+abstract = "Selecting an effective training signal for tasks in natural language processing is difficult: expert annotations are expensive, and crowd-sourced annotations may not be reliable. At the same time, recent work in NLP has demonstrated that learning from a distribution over labels acquired from crowd annotations can be effective. However, there are many ways to acquire such a distribution, and the performance allotted by any one method can fluctuate based on the task and the amount of available crowd annotations, making it difficult to know a priori which distribution is best. This paper systematically analyzes this in the out-of-domain setting, adding to the NLP literature which has focused on in-domain evaluation, and proposes new methods for acquiring soft-labels from crowd-annotations by aggregating the distributions produced by existing methods. In particular, we propose to aggregate multiple-views of crowd annotations via temperature scaling and finding their Jensen-Shannon centroid. We demonstrate that these aggregation methods lead to the most consistent performance across four NLP tasks on out-of-domain test sets, mitigating fluctuations in performance from the individual distributions. Additionally, aggregation results in the most consistently well-calibrated uncertainty estimation. We argue that aggregating different views of crowd-annotations is an effective and minimal intervention to acquire soft-labels which induce robust classifiers despite the inconsistency of the individual soft-labeling methods."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["explainability"]
+projects = ["limited-data"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["explainability"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2305.18029"
+url_pdf = "https://arxiv.org/abs/2212.09409"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

@@ -1,10 +1,10 @@
 +++
-title = "Faithfulness Tests for Natural Language Explanations"
-date = 2023-05-20T00:00:00
+title = "Thorny Roses: Investigating the Dual Use Dilemma in Natural Language Processing"
+date = 2023-04-17T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pepa Atanasova", "Oana-Maria Camburu", "Christina Lioma", "Thomas Lukasiewicz", "Jakob Grue Simonsen", "Isabelle Augenstein"]
+authors = ["Lucie-Aimée Kaffee", "Arnav Arora", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Pepa Atanasova", "Oana-Maria Camburu", "Christina Lioma", "Thomas Lu
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)"
-publication_short = "In *ACL*"
+publication = "CoRR, abs/2304.08315"
+publication_short = "In *CoRR*"
 
 # Abstract and optional shortened version.
-abstract = "Explanations of neural models aim to reveal a model's decision-making process for its predictions. However, recent work shows that current methods giving explanations such as saliency maps or counterfactuals can be misleading, as they are prone to present reasons that are unfaithful to the model's inner workings. This work explores the challenging question of evaluating the faithfulness of natural language explanations (NLEs). To this end, we present two tests. First, we propose an adversarial input editor for inserting reasons that lead to counterfactual predictions but are not reflected by the NLEs. Second, we reconstruct inputs from the reasons stated in the generated NLEs and check how often they lead to the same predictions. Our tests can evaluate emerging NLE models, proving a fundamental tool in the development of faithful NLEs."
+abstract = "Dual use, the intentional, harmful reuse of technology and scientific artefacts, is a problem yet to be well-defined within the context of Natural Language Processing (NLP). However, as NLP technologies continue to advance and become increasingly widespread in society, their inner workings have become increasingly opaque. Therefore, understanding dual use concerns and potential ways of limiting them is critical to minimising the potential harms of research and development. In this paper, we conduct a survey of NLP researchers and practitioners to understand the depth and their perspective of the problem as well as to assess existing available support. Based on the results of our survey, we offer a definition of dual use that is tailored to the needs of the NLP community. The survey revealed that a majority of researchers are concerned about the potential dual use of their research but only take limited action toward it. In light of the survey results, we discuss the current state and potential means for mitigating dual use in NLP and propose a checklist that can be integrated into existing conference ethics-frameworks, e.g., the ACL ethics checklist."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["explainability"]
+projects = []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["explainability"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2305.18029"
+url_pdf = "https://arxiv.org/abs/2304.08315"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
