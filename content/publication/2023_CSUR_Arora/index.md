@@ -1,10 +1,10 @@
 +++
-title = "Detecting Abusive Language on Online Platforms: A Critical Analysis"
-date = 2021-02-27T00:00:00
+title = "Detecting Harmful Content on Online Platforms: What Platforms Need vs. Where Research Efforts Go"
+date = 2023-06-06T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Preslav Nakov", "Vibha Nayak", "Kyle Dent", "Ameya Bhatawdekar", "Sheikh Muhammad Sarwar", "Momchil Hardalov", "Yoan Dinkov", "Dimitrina Zlatkova", "Guillaume Bouchard", "Isabelle Augenstein"]
+authors = ["Arnav Arora", "Preslav Nakov", "Vibha Nayak", "Kyle Dent", "Ameya Bhatawdekar", "Sheikh Muhammad Sarwar", "Momchil Hardalov", "Yoan Dinkov", "Dimitrina Zlatkova", "Guillaume Bouchard", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Preslav Nakov", "Vibha Nayak", "Kyle Dent", "Ameya Bhatawdekar", "Sh
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2103.00153"
-publication_short = "In *CoRR*"
+publication = "ACM Computing Surveys (CSUR)"
+publication_short = "In *CSUR*"
 
 # Abstract and optional shortened version.
-abstract = "Abusive language on online platforms is a major societal problem, often leading to important societal problems such as the marginalisation of underrepresented minorities. There are many different forms of abusive language such as hate speech, profanity, and cyber-bullying, and online platforms seek to moderate it in order to limit societal harm, to comply with legislation, and to create a more inclusive environment for their users. Within the field of Natural Language Processing, researchers have developed different methods for automatically detecting abusive language, often focusing on specific subproblems or on narrow communities, as what is considered abusive language very much differs by context. We argue that there is currently a dichotomy between what types of abusive language online platforms seek to curb, and what research efforts there are to automatically detect abusive language. We thus survey existing methods as well as content moderation policies by online platforms in this light, and we suggest directions for future work."
+abstract = "The proliferation of harmful content on online platforms is a major societal problem, which comes in many different forms including hate speech, offensive language, bullying and harassment, misinformation, spam, violence, graphic content, sexual abuse, self harm, and many other. Online platforms seek to moderate such content to limit societal harm, to comply with legislation, and to create a more inclusive environment for their users. Researchers have developed different methods for automatically detecting harmful content, often focusing on specific sub-problems or on narrow communities, as what is considered harmful often depends on the platform and on the context. We argue that there is currently a dichotomy between what types of harmful content online platforms seek to curb, and what research efforts there are to automatically detect such content. We thus survey existing methods as well as content moderation policies by online platforms in this light and we suggest directions for future work."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -49,8 +49,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2103.00153"
-url_preprint = ""
+url_pdf = "https://dl.acm.org/doi/10.1145/3603399"
+url_preprint = "https://arxiv.org/abs/2103.00153"
 url_code = ""
 url_dataset = ""
 url_project = ""
