@@ -1,6 +1,6 @@
 +++
 title = "Revisiting Softmax for Uncertainty Approximation in Text Classification"
-date = 2022-10-26T00:00:00
+date = 2023-06-19T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,14 +15,14 @@ authors = ["Andreas Nugaard Holm", "Dustin Wright", "Isabelle Augenstein"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2210.14037"
-publication_short = "In *CoRR*"
+publication = "Information"
+publication_short = "In *Information*"
 
 # Abstract and optional shortened version.
-abstract = "Uncertainty approximation in text classification is an important area with applications in domain adaptation and interpretability. The most widely used uncertainty approximation method is Monte Carlo Dropout, which is computationally expensive as it requires multiple forward passes through the model. A cheaper alternative is to simply use a softmax to estimate model uncertainty. However, prior work has indicated that the softmax can generate overconfident uncertainty estimates and can thus be tricked into producing incorrect predictions. In this paper, we perform a thorough empirical analysis of both methods on five datasets with two base neural architectures in order to reveal insight into the trade-offs between the two. We compare the methods' uncertainty approximations and downstream text classification performance, while weighing their performance against their computational complexity as a cost-benefit analysis, by measuring runtime (cost) and the downstream performance (benefit). We find that, while Monte Carlo produces the best uncertainty approximations, using a simple softmax leads to competitive uncertainty estimation for text classification at a much lower computational cost, suggesting that softmax can in fact be a sufficient uncertainty estimate when computational resources are a concern."
+abstract = "Uncertainty approximation in text classification is an important area with applications in domain adaptation and interpretability. One of the most widely used uncertainty approximation methods is Monte Carlo (MC) Dropout, which is computationally expensive as it requires multiple forward passes through the model. A cheaper alternative is to simply use the softmax based on a single forward pass without dropout to estimate model uncertainty. However, prior work has indicated that these predictions tend to be overconfident. In this paper, we perform a thorough empirical analysis of these methods on five datasets with two base neural architectures in order to identify the trade-offs between the two. We compare both softmax and an efficient version of MC Dropout on their uncertainty approximations and downstream text classification performance, while weighing their runtime (cost) against performance (benefit). We find that, while MC dropout produces the best uncertainty approximations, using a simple softmax leads to competitive and in some cases better uncertainty estimation for text classification at a much lower computational cost, suggesting that softmax can in fact be a sufficient uncertainty estimate when computational resources are a concern."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)

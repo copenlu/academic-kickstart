@@ -1,23 +1,22 @@
 +++
 # Display name
-title = "Kevin Roitero"
-draft = false
+title = "Haeun Yu"
 
 # Role/position
-role = "Visiting Researcher"
+role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Kevin Roitero is an Assistant Professor (RTD/a) at the University of Udine, Italy. His research interests include Artificial Intelligence, Deep Learning, Crowdsourcing, and Information Retrieval. He is visiting CopeNLU in Spring/Summer 2023."
+bio = "Haeun's main research interests include enhancing explainability in fact-checking and transparency of knowledge-enhanced LM."
 
 # External website link
-external_link = "https://kevinroitero.com/"
+external_link = "https://haeunyu.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-04T17:07:01
+date = 2019-01-03T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Alumni"]
+tags = ["Members"]
 
 # Social/Academic Networking
 #
@@ -40,21 +39,30 @@ tags = ["Alumni"]
 [[social]]
 icon = "envelope"
 icon_pack = "fas"
-link = "mailto:kevin.roitero@uniud.it"  # For a direct email link, use "mailto:test@example.org".
+link = "mailto:hayu@di.ku.dk"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
 icon = "twitter"
 icon_pack = "fab"
-link = "https://twitter.com/KevinRoitero"
+link = "https://twitter.com/hayu204"
+
+[[social]]
+icon = "linkedin"
+icon_pack = "fab"
+link = "https://www.linkedin.com/in/haeunyu/"
 
 [[social]]
 icon = "google-scholar"
 icon_pack = "ai"
-link = "https://scholar.google.it/citations?user=1xd52jMAAAAJ&hl=en"
+link = "https://scholar.google.com/citations?user=EfTg6eQAAAAJ&hl=en"
+
+[[social]]
+icon = "github"
+icon_pack = "fab"
+link = "https://github.com/HaeunYu"
 
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://kevinroitero.com/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
