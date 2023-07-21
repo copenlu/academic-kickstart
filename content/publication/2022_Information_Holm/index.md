@@ -18,7 +18,7 @@ authors = ["Andreas Nugaard Holm", "Dustin Wright", "Isabelle Augenstein"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Information"
+publication = "Information 2023, 14(7), 420"
 publication_short = "In *Information*"
 
 # Abstract and optional shortened version.
@@ -49,8 +49,8 @@ projects = ["limited-data"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2210.14037"
-url_preprint = ""
+url_pdf = "https://www.mdpi.com/2078-2489/14/7/420"
+url_preprint = "https://arxiv.org/abs/2210.14037"
 url_code = ""
 url_dataset = ""
 url_project = ""
