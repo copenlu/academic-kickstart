@@ -62,7 +62,7 @@ gravatar = false
 
 # Contact Widget setup
   email = "augenstein@di.ku.dk"
-  address = "Universitetsparken 1, Copenhagen, Denmark"
+  address = "Øster Voldgade 3, Copenhagen, Denmark" #<br><a href="https://www.aicentre.dk/find-us">[directions]</a>" #<a href="https://www.aicentre.dk/find-us">[directions]</a>"
   # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #  office_hours = """Monday 10:00 to 13:00<br>
 #                    Wednesday 09:00 to 10:00<br>
@@ -94,10 +94,10 @@ gravatar = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 1
+  map = 2
   map_api_key = ""
-  latitude = "55.702084"
-  longitude = "12.561103"
+  latitude = "55.68685408792333"
+  longitude = "12.575950750035485"
   zoom = 15
 
 # Publication types.
