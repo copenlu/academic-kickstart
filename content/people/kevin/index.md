@@ -7,13 +7,13 @@ draft = false
 role = "Visiting Researcher"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Kevin Roitero is an Assistant Professor (RTD/a) at the University of Udine, Italy. His research interests include Artificial Intelligence, Deep Learning, Crowdsourcing, and Information Retrieval. He is visiting CopeNLU in Spring/Summer 2023."
+bio = "Kevin Roitero is an Assistant Professor (RTD/a) at the University of Udine, Italy. His research interests include Artificial Intelligence, Deep Learning, Crowdsourcing, and Information Retrieval. He was visiting CopeNLU in Spring/Summer 2023."
 
 # External website link
 external_link = "https://kevinroitero.com/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-04T17:07:01
+date = 2017-02-04T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

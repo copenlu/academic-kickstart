@@ -1,7 +1,7 @@
 +++
 title = "Positions available in context of ERC Starting Grant project ExplainYourself"
 date = 2022-11-22  # Schedule page publish date.
-draft = false
+draft = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -73,4 +73,4 @@ ExplainYourself proposes to study explainable automatic fact checking, the task 
 In addition to the principle investigator, the two PhD students and postdocs, the project team will also include collaborators from CopeNLU as well as external collaborators.
 
 Read more about reasons to join us <a href="/post/why-ucph/">here</a>. 
-The project team will consist of two PhD students and two postdocs, in addition to the principal investigator and external collaborators. At the moment, we are looking to fill one postdoc position. You can read more about the position and apply <a href="https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&departmentId=18970&ProjectId=159168&MediaId=5&SkipAdvertisement=false">here<>.
+The project team will consist of two PhD students and two postdocs, in addition to the principal investigator and external collaborators. At the moment, we are looking to fill one postdoc position. You can read more about the position and apply <a href="https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&departmentId=18970&ProjectId=159168&MediaId=5&SkipAdvertisement=false">here</a>.

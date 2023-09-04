@@ -7,17 +7,17 @@ draft = false
 role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Marta's research interests are explainability and fairness, with a focus on abusive language detection. She is a second-year PhD student at the University of Pisa and is visiting CopeNLU in Spring/Summer 2023."
+bio = "Marta's research interests are explainability and fairness, with a focus on abusive language detection. She is a second-year PhD student at the University of Pisa and was visiting CopeNLU in Spring/Summer 2023."
 
 # External website link
 external_link = "https://martamarchiori.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-05T17:07:01
+date = 2017-02-05T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #
