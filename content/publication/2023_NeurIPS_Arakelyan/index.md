@@ -1,6 +1,6 @@
 +++
 title = "Adapting Neural Link Predictors for Complex Query Answering"
-date = 2023-02-01T00:00:00
+date = 2023-09-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,14 +15,14 @@ authors = ["Erik Arakelyan", "Pasquale Minervini", "Isabelle Augenstein"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2301.12313"
-publication_short = "In *CoRR*"
+publication = "2023 Conference on Neural Information Processing Systems"
+publication_short = "In *NeurIPS 2023*"
 
 # Abstract and optional shortened version.
-abstract = " Answering complex queries on incomplete knowledge graphs is a challenging task where a model needs to answer complex logical queries in the presence of missing knowledge. Recently, Arakelyan et al. (2021); Minervini et al. (2022) showed that neural link predictors could also be used for answering complex queries: their Continuous Query Decomposition (CQD) method works by decomposing complex queries into atomic sub-queries, answers them using neural link predictors and aggregates their scores via t-norms for ranking the answers to each complex query. However, CQD does not handle negations and only uses the training signal from atomic training queries: neural link prediction scores are not calibrated to interact together via fuzzy logic t-norms during complex query answering. In this work, we propose to address this problem by training a parameter-efficient score adaptation model to re-calibrate neural link prediction scores: this new component is trained on complex queries by back-propagating through the complex query-answering process. Our method, CQDA, produces significantly more accurate results than current state-of-the-art methods, improving from 34.4 to 35.1 Mean Reciprocal Rank values averaged across all datasets and query types while using ≤35% of the available training query types. We further show that CQDA is data-efficient, achieving competitive results with only 1% of the training data, and robust in out-of-domain evaluations."
+abstract = "Answering complex queries on incomplete knowledge graphs is a challenging task where a model needs to answer complex logical queries in the presence of missing knowledge. Recently, Arakelyan et al. (2021); Minervini et al. (2022) showed that neural link predictors could also be used for answering complex queries: their Continuous Query Decomposition (CQD) method works by decomposing complex queries into atomic sub-queries, answers them using neural link predictors and aggregates their scores via t-norms for ranking the answers to each complex query. However, CQD does not handle negations and only uses the training signal from atomic training queries: neural link prediction scores are not calibrated to interact together via fuzzy logic t-norms during complex query answering. In this work, we propose to address this problem by training a parameter-efficient score adaptation model to re-calibrate neural link prediction scores: this new component is trained on complex queries by back-propagating through the complex query-answering process. Our method, CQDA, produces significantly more accurate results than current state-of-the-art methods, improving from 34.4 to 35.1 Mean Reciprocal Rank values averaged across all datasets and query types while using ≤35% of the available training query types. We further show that CQDA is data-efficient, achieving competitive results with only 1% of the training data, and robust in out-of-domain evaluations."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
