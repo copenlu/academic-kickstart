@@ -1,10 +1,10 @@
 +++
-title = "Thorny Roses: Investigating the Dual Use Dilemma in Natural Language Processing"
-date = 2023-04-17T00:00:00
+title = "Why Should This Article Be Deleted? Transparent Stance Detection in Multilingual Wikipedia Editor Discussions"
+date = 2023-10-23T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Lucie-Aimée Kaffee", "Arnav Arora", "Zeerak Talat", "Isabelle Augenstein"]
+authors = ["Lucie-Aimée Kaffee", "Arnav Arora", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Lucie-Aimée Kaffee", "Arnav Arora", "Zeerak Talat", "Isabelle Augen
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2304.08315"
-publication_short = "In *CoRR*"
+publication = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+publication_short = "In *EMNLP 2023*"
 
 # Abstract and optional shortened version.
-abstract = "Dual use, the intentional, harmful reuse of technology and scientific artefacts, is a problem yet to be well-defined within the context of Natural Language Processing (NLP). However, as NLP technologies continue to advance and become increasingly widespread in society, their inner workings have become increasingly opaque. Therefore, understanding dual use concerns and potential ways of limiting them is critical to minimising the potential harms of research and development. In this paper, we conduct a survey of NLP researchers and practitioners to understand the depth and their perspective of the problem as well as to assess existing available support. Based on the results of our survey, we offer a definition of dual use that is tailored to the needs of the NLP community. The survey revealed that a majority of researchers are concerned about the potential dual use of their research but only take limited action toward it. In light of the survey results, we discuss the current state and potential means for mitigating dual use in NLP and propose a checklist that can be integrated into existing conference ethics-frameworks, e.g., the ACL ethics checklist."
+abstract = "The moderation of content on online platforms is usually non-transparent. On Wikipedia, however, this discussion is carried out publicly and the editors are encouraged to use the content moderation policies as explanations for making moderation decisions. Currently, only a few comments explicitly mention those policies -- 20% of the English ones, but as few as 2% of the German and Turkish comments. To aid in this process of understanding how content is moderated, we construct a novel multilingual dataset of Wikipedia editor discussions along with their reasoning in three languages. The dataset contains the stances of the editors (keep, delete, merge, comment), along with the stated reason, and a content moderation policy, for each edit decision. We demonstrate that stance and corresponding reason (policy) can be predicted jointly with a high degree of accuracy, adding transparency to the decision-making process. We release both our joint prediction models and the multilingual content moderation dataset for further research on automated transparent content moderation."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -49,7 +49,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2304.08315"
+url_pdf = "https://arxiv.org/abs/2310.05779"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
