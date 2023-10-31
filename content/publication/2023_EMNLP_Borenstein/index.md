@@ -1,10 +1,10 @@
 +++
-title = "Explaining Interactions Between Text Spans"
-date = 2023-10-24T00:00:00
+title = "PHD: Pixel-Based Language Modeling of Historical Documents"
+date = 2023-10-31T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Sagnik Ray Choudhury", "Pepa Atanasova", "Isabelle Augenstein"]
+authors = ["Nadav Borenstein", "Phillip Rust", "Desmond Elliott", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["Sagnik Ray Choudhury", "Pepa Atanasova", "Isabelle Augenstein"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
-publication_short = "In *EMNLP 2023*"
+publication = "In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)"
+publication_short = "In *EMNLP*"
 
 # Abstract and optional shortened version.
-abstract = "Reasoning over spans of tokens from different parts of the input is essential for natural language understanding (NLU) tasks such as fact-checking (FC), machine reading comprehension (MRC) or natural language inference (NLI). However, existing highlight-based explanations primarily focus on identifying individual important tokens or interactions only between adjacent tokens or tuples of tokens. Most notably, there is a lack of annotations capturing the human decision-making process w.r.t. the necessary interactions for informed decision-making in such tasks. To bridge this gap, we introduce SpanEx, a multi-annotator dataset of human span interaction explanations for two NLU tasks: NLI and FC. We then investigate the decision-making processes of multiple fine-tuned large language models in terms of the employed connections between spans in separate parts of the input and compare them to the human reasoning processes. Finally, we present a novel community detection based unsupervised method to extract such interaction explanations from a model's inner workings."
+abstract = "The digitisation of historical documents has provided historians with unprecedented research opportunities. Yet, the conventional approach to analysing historical documents involves converting them from images to text using OCR, a process that overlooks the potential benefits of treating them as images and introduces high levels of noise. To bridge this gap, we take advantage of recent advancements in pixel-based language models trained to reconstruct masked patches of pixels instead of predicting token distributions. Due to the scarcity of real historical scans, we propose a novel method for generating synthetic scans to resemble real historical documents. We then pre-train our model, PHD, on a combination of synthetic scans and real historical newspapers from the 1700-1900 period. Through our experiments, we demonstrate that PHD exhibits high proficiency in reconstructing masked image patches and provide evidence of our model's noteworthy language understanding capabilities. Notably, we successfully apply our model to a historical QA task, highlighting its usefulness in this domain."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -34,7 +34,7 @@ featured = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["limited-data", "multilinguality"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2310.13506"
+url_pdf = "https://arxiv.org/abs/2310.18343"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

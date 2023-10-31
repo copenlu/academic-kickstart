@@ -26,7 +26,7 @@ abstract = "Most existing work on automated fact checking is concerned with pred
 abstract_short = "This paper provides the first study of how fact checking explanations can be generated automatically based on available claim context, and how this task can be modeled jointly with veracity prediction."
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
