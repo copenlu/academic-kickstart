@@ -3,7 +3,7 @@ title = "Interested in joining us at the University of Copenhagen?"
 subtitle = "Learn about life and research in the happy capital"
 
 date = 2019-02-02T00:00:00
-lastmod = 2013-11-07T00:00:00
+lastmod = 2023-11-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
