@@ -1,10 +1,10 @@
 +++
-title = "Quantifying Gender Bias Towards Politicians in Cross-Lingual Language Models"
-date = 2021-04-15T00:00:00
+title = "Factcheck-GPT: End-to-End Fine-Grained Document-Level Fact-Checking and Correction of LLM Output"
+date = 2023-11-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Karolina Stańczak", "Sagnik Ray Choudhury", "Tiago Pimentel", "Ryan Cotterell", "Isabelle Augenstein"]
+authors = ["Yuxia Wang", "Revanth Gangi Reddy", "Zain Muhammad Mujahid", "Arnav Arora", "Aleksandr Rubashevskii", "Jiahui Geng", "Osama Mohammed Afzal", "Liangming Pan", "Nadav Borenstein", "Aditya Pillai", "Isabelle Augenstein", "Iryna Gurevych", "Preslav Nakov"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Karolina Stańczak", "Sagnik Ray Choudhury", "Tiago Pimentel", "Ryan
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2104.07505"
+publication = "CoRR, abs/2311.09000"
 publication_short = "In *CoRR*"
 
 # Abstract and optional shortened version.
-abstract = "While the prevalence of large pre-trained language models has led to significant improvements in the performance of NLP systems, recent research has demonstrated that these models inherit societal biases extant in natural language. In this paper, we explore a simple method to probe pre-trained language models for gender bias, which we use to effect a multi-lingual study of gender bias towards politicians. We construct a dataset of 250k politicians from most countries in the world and quantify adjective and verb usage around those politicians' names as a function of their gender. We conduct our study in 7 languages across 6 different language modeling architectures. Our results demonstrate that stance towards politicians in pre-trained language models is highly dependent on the language used. Finally, contrary to previous findings, our study suggests that larger language models do not tend to be significantly more gender-biased than smaller ones."
+abstract = "The increased use of large language models (LLMs) across a variety of real-world applications calls for mechanisms to verify the factual accuracy of their outputs. In this work, we present a holistic end-to-end solution for annotating the factuality of LLM-generated responses, which encompasses a multi-stage annotation scheme designed to yield detailed labels concerning the verifiability and factual inconsistencies found in LLM outputs. We design and build an annotation tool to speed up the labelling procedure and ease the workload of raters. It allows flexible incorporation of automatic results in any stage, e.g. automatically-retrieved evidence. We further construct an open-domain document-level factuality benchmark in three-level granularity: claim, sentence and document. Preliminary experiments show that FacTool, FactScore and this http URL are struggling to identify false claims with the best F1=0.53."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["multilingual-learning", "gender-bias"]
+projects = ["limited-data", "fact-checking"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["multilingual-learning", "gender-bias"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2104.07505"
+url_pdf = "https://arxiv.org/abs/2311.09000"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -75,7 +75,7 @@ math = false
 preview_only = true
 
   # Caption (optional)
-  caption = "Mean frequency with which the top 100 adjectives"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
