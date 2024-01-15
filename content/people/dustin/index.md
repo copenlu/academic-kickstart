@@ -4,20 +4,21 @@ title = "Dustin Wright"
 draft = false
 
 # Role/position
-role = "PhD Student"
+role = "Postdoc"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Dustin's research interests include fact checking and knowledge base population, with a focus on scientific texts. He was PhD in CopeNLU from 2019 to 2023, and is now a postdoctoral researcher in the DIKU ML section."
+# bio = "Dustin's research interests include fact checking and knowledge base population, with a focus on scientific texts. He was PhD in CopeNLU from 2019 to 2023, and is now a postdoctoral researcher in the DIKU ML section."
+bio = "Dustin is a DDSA postdoctoral fellow, working on scientific natural language understanding and faithful text generation."
 
 # External website link#
 external_link = "https://dustinbwright.com/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-01-31T17:07:01
+date = 2019-01-01T16:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Alumni"]
+tags = ["Members"]
 
 # Social/Academic Networking
 #
