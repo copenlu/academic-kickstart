@@ -1,6 +1,6 @@
 +++
 # Display name
-title = "Shuzhou Yuan"
+title = "Lovisa Hagström"
 draft = false
 
 # Role/position
@@ -8,13 +8,13 @@ role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
 # bio = "Dustin's research interests include fact checking and knowledge base population, with a focus on scientific texts. He was PhD in CopeNLU from 2019 to 2023, and is now a postdoctoral researcher in the DIKU ML section."
-bio = "Shuzhou Yuan is a PhD student at Karlsruhe Institute of Technology and Dresden University of Technology, working on the application of graph neural networks for natural language processing. He is visiting CopeNLU in Spring 2024."
+bio = "Lovisa is a visiting PhD student from Chalmers University of Technology. Her research interests include language model controllability, interpretability and retrieval-augmented methods."
 
 # External website link#
-external_link = "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AILGF5X7H4RhC8fnR5JxmNrsaIwTuU7Udalf-I1nIISrUcSlySogEDemG9sIlgG3ny5SWIevlivf3YbWhP7bu0HOgZ3H&user=ZMQ1C6gAAAAJ"
+external_link = "https://lovhag.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2018-12-28T16:07:01
+date = 2018-12-26T16:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -41,18 +41,27 @@ tags = ["Members"]
 [[social]]
 icon = "envelope"
 icon_pack = "fas"
-link = "mailto:nu4126@kit.edu"  # For a direct email link, use "mailto:test@example.org".
+link = "mailto:lovhag@chalmers.se"  # For a direct email link, use "mailto:test@example.org".
+
+[[social]]
+icon = "linkedin"
+icon_pack = "fab"
+link = "https://www.linkedin.com/in/lovisa-hagstrom/"
 
 [[social]]
 icon = "google-scholar"
 icon_pack = "ai"
-link = "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AILGF5X7H4RhC8fnR5JxmNrsaIwTuU7Udalf-I1nIISrUcSlySogEDemG9sIlgG3ny5SWIevlivf3YbWhP7bu0HOgZ3H&user=ZMQ1C6gAAAAJ"
+link = "https://scholar.google.com/citations?hl=en&user=iRYBEYsAAAAJ"
 
+[[social]]
+icon = "github"
+icon_pack = "fab"
+link = "https://github.com/lovhag"
 
 
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AILGF5X7H4RhC8fnR5JxmNrsaIwTuU7Udalf-I1nIISrUcSlySogEDemG9sIlgG3ny5SWIevlivf3YbWhP7bu0HOgZ3H&user=ZMQ1C6gAAAAJ"
+external_link = "https://lovhag.github.io/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

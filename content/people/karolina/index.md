@@ -6,17 +6,17 @@ title = "Karolina Stanczak"
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Karolina's research interests include gender-biased language detection and statistical methods."
+bio = "Karolina's research interests include gender-biased language detection and statistical methods. She successfully defended her PhD thesis in January 2024, and is now a postdoctoral researcher at Mila, Montreal."
 
 # External website link
 external_link = "https://kstanczak.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-13T17:07:01
+date = 2017-02-06T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #
