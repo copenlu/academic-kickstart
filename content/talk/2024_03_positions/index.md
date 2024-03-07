@@ -64,7 +64,7 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
 +++
-A PhD and two postdoc positions on natural language understanding are available. The positions are funded by the <a href="https://www.aicentre.dk/">Pioneer Centre for AI</a>. Read more about reasons to join us <a href="/post/why-ucph/">here</a>. You can read more about the positions at the Pioneer Centre and apply <a href="https://www.aicentre.dk/jobs">here</a>.
+A PhD and two postdoc positions on natural language understanding are available. The positions are funded by the <a href="https://www.aicentre.dk/">Pioneer Centre for AI</a>. Read more about reasons to join us <a href="/post/why-ucph/">here</a>. You can read more about the positions at the Pioneer Centre <a href="https://www.aicentre.dk/jobs">here</a>.
 
 PhD Fellowship on Factual Text Generation
 -------------- 
@@ -85,9 +85,9 @@ The Pioneer Centre for AI and Department of Computer Science at the University o
 
 NLP is becoming an increasingly powerful tool for social scientists. Yet, the intersection between the two disciplines is still poorly explored, with research in the two disciplines often being conducted as separate streams. The goal of this project is to research methods which can more directly be useful for downstream social science applications. One such application is to analyse common narratives in news, which requires methods including (interpretable) topic modelling, framing detection, social media analysis, etc. The successful candidate will be affiliated with a larger initiative on narrative analysis, spanning different content modalities, with the autonomy to define their project in this larger context.
 
-Inquiries about the position can be made to <a href="mailto:augenstein@di.ku.dk">Professor Isabelle Augenstein</a>.
+The research will be conducted in collaboration with researchers at the Pioneer Centre for Artificial Intelligence's Speech and Language Collaboratory, <a href="https://www.copenlu.com/">CopeNLU</a> and the <a href="https://www.belongielab.org/">Belongie Lab</a>. Inquiries about the position can be made to <a href="mailto:augenstein@di.ku.dk">Professor Isabelle Augenstein</a>.
 
-Application deadline: 7 April 2024.
+Application deadline: 7 April 2024. <a href="https://jobportal.ku.dk/videnskabelige-stillinger/?show=161353">Apply here</a>.
 
 
 Postdoctoral Fellowship on Multi-Modal Fact Checking
@@ -97,4 +97,4 @@ The Pioneer Centre for AI and Department of Computer Science at the University o
 
 Online content can include multiple different modalities, ranging from text to images or tables. Increasingly, detecting false information requires the understanding of a combination of these modalities and the relationship between them. This project will focus on developing general-purpose multi-modal methods for automatic fact checking in various domains, such as scientific publications, news or social media. Inquiries about the position can be made to <a href="mailto:augenstein@di.ku.dk">Professor Isabelle Augenstein</a> or <a href="mailto:de@di.ku.dk">Assistant Professor Desmond Elliot</a>.
 
-Application deadline: 7 April 2024.
+Application deadline: 7 April 2024. <a href="https://jobportal.ku.dk/videnskabelige-stillinger/?show=161352">Apply here</a>.
