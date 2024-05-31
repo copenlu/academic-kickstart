@@ -8,7 +8,7 @@ role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
 # bio = "Dustin's research interests include fact checking and knowledge base population, with a focus on scientific texts. He was PhD in CopeNLU from 2019 to 2023, and is now a postdoctoral researcher in the DIKU ML section."
-bio = "Ran Zhang is a PhD student at Mannheim University, working on text generation and its evaluation. She is visiting CopeNLU in Winter/Spring 2024."
+bio = "Ran Zhang is a PhD student at Mannheim University, working on text generation and its evaluation. She was visiting CopeNLU in Winter/Spring 2024."
 
 # External website link#
 external_link = "https://nl2g.github.io/"
@@ -18,7 +18,7 @@ date = 2018-12-30T16:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

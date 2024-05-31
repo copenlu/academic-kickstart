@@ -8,7 +8,7 @@ role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
 # bio = "Dustin's research interests include fact checking and knowledge base population, with a focus on scientific texts. He was PhD in CopeNLU from 2019 to 2023, and is now a postdoctoral researcher in the DIKU ML section."
-bio = "Shuzhou Yuan is a PhD student at Karlsruhe Institute of Technology and Dresden University of Technology, working on the application of graph neural networks for natural language processing. He is visiting CopeNLU in Spring 2024."
+bio = "Shuzhou Yuan is a PhD student at Karlsruhe Institute of Technology and Dresden University of Technology, working on the application of graph neural networks for natural language processing. He was visiting CopeNLU in Spring 2024."
 
 # External website link#
 external_link = "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AILGF5X7H4RhC8fnR5JxmNrsaIwTuU7Udalf-I1nIISrUcSlySogEDemG9sIlgG3ny5SWIevlivf3YbWhP7bu0HOgZ3H&user=ZMQ1C6gAAAAJ"
@@ -18,7 +18,7 @@ date = 2018-12-28T16:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #
