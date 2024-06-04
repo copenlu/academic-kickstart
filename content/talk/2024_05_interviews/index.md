@@ -1,7 +1,7 @@
 +++
 title = "Participate in research on explainable fact checking"
 date = 2024-06-01  # Schedule page publish date.
-draft = true
+draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -68,29 +68,34 @@ We are recruiting professional fact checkers to take part in an interview and/or
 
 If you are interested in participating in this research (interviews, surveys, or both), please complete the short online form linked below. A member of the research team will then contact you with more information about the study and taking part. 
 
-Interview participants will be offered an online gift voucher to the value of 50 USD as compensation for their time. Participants who complete the survey will be offered an online gift voucher to the value of 15 USD. All personal data will be kept confidential within the research team. 
+Interview participants will be offered an <a href="https://www.tangocard.com/reward-catalog?rewardcountries=US&rewardcategory=gift+card">online gift voucher</a> to the value of 50 USD as compensation for their time. Participants who complete the survey will be offered an online gift voucher to the value of 15 USD. All personal data you may share will be kept confidential within the research team. 
+
 
 <p style="text-align: center;"><a href="https://forms.office.com/e/CwrTediqbF?origin=lprLink">Sign up form</a></p>
 --------------
 
 
-
 What’s involved?
--------------- 
+--------------
 
-We are conducting remote interviews and online surveys with professional fact-checkers, members of the general public, and other stakeholders in the fact checking sector.  
+We are conducting remote interviews (e.g., on Zoom) and online surveys with professional fact-checkers, members of the general public, and other stakeholders in the fact checking sector such as journalists and content moderators.  
 
 The interviews will be 60 minutes in duration and will take place remotely via Zoom in June 2024. Interview participants will be offered an online gift voucher to the value of 50 USD as compensation for their time. 
 
-Participants who agree to take part in the survey will receive a link via email to an online survey. The survey will take about 20 minutes to complete. All participants who complete the survey will be offered an online gift voucher to the value of 15 USD. 
+Participants who agree to take part in the survey will receive a link via email to an online survey in July 2024. The survey will take about 20 minutes to complete. All participants who complete the survey will be offered an online gift voucher to the value of 15 USD.
 
 All personal data will be kept confidential within the project team and always anonymised for publications and presentations.
+
+You can read the 
+<a href="https://www.copenlu.com/talk/2024_05_interviews/InformationSheet_FactChecking.pdf">study information sheet here</a>.
+
 
 
 How do I take part?
 -------------- 
 
-Simply fill in <a href="https://forms.office.com/e/CwrTediqbF?origin=lprLink">the online form here</a>, and we will get in touch with you with more information. If you have any questions or would like more information about the project, you can contact Greta Warren at <a href="mailto:grwa@di.ku.dk">grwa@di.ku.dk</a>.  
+Simply fill in <a href="https://forms.office.com/e/CwrTediqbF?origin=lprLink">the online form here</a>, and we will get in touch with you with more information.
+If you have any questions or would like more information about the project, you can contact Greta Warren at <a href="mailto:grwa@di.ku.dk">grwa@di.ku.dk</a>.  
 
 What is this research about?
 -------------- 
