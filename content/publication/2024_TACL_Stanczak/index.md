@@ -1,6 +1,6 @@
 +++
 title = "Grammatical Gender's Influence on Distributional Semantics: A Causal Perspective"
-date = 2023-11-30T00:00:00
+date = 2024-07-10T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Karolina Stańczak", "Kevin Du", "Adina Williams", "Isabelle Augenst
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2311.18567"
-publication_short = "In *CoRR*"
+publication = "Transactions of the Association for Computational Linguistics (TACL), Vol 12 (2024), to appear"
+publication_short = "In *TACL*"
 
 # Abstract and optional shortened version.
 abstract = "How much meaning influences gender assignment across languages is an active area of research in modern linguistics and cognitive science. We can view current approaches as aiming to determine where gender assignment falls on a spectrum, from being fully arbitrarily determined to being largely semantically determined. For the latter case, there is a formulation of the neo-Whorfian hypothesis, which claims that even inanimate noun gender influences how people conceive of and talk about objects (using the choice of adjective used to modify inanimate nouns as a proxy for meaning). We offer a novel, causal graphical model that jointly represents the interactions between a noun's grammatical gender, its meaning, and adjective choice. In accordance with past results, we find a relationship between the gender of nouns and the adjectives which modify them. However, when we control for the meaning of the noun, we find that grammatical gender has a near-zero effect on adjective choice, thereby calling the neo-Whorfian hypothesis into question."
