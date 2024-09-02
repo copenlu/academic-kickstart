@@ -6,7 +6,7 @@ title = "Pepa Atanasova"
 role = "Assistant Professor"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Pepa's research interests include the development, diagnostics, and application of explainability and interpretability techniques for NLP models."
+bio = "Pepa's research interests are multilingual fact checking and question answering."
 
 # External website link
 external_link = "https://apepa.github.io/"
