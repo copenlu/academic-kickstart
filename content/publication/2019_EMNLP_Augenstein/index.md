@@ -49,10 +49,10 @@ projects = ["fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "http://arxiv.org/abs/1909.03242"
+url_pdf = "https://aclanthology.org/D19-1475/"
 url_preprint = ""
-url_code = ""
-url_dataset = "https://competitions.codalab.org/competitions/21163"
+url_code = "https://competitions.codalab.org/competitions/21163"
+url_dataset = "./publication/2019_emnlp_augenstein/MultiFC_Codalab.zip"
 url_project = ""
 url_slides = ""
 url_video = ""
