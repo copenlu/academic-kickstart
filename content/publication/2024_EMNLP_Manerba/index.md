@@ -1,10 +1,10 @@
 +++
-title = "Factcheck-GPT: End-to-End Fine-Grained Document-Level Fact-Checking and Correction of LLM Output"
-date = 2023-11-15T00:00:00
+title = "Social Bias Probing: Fairness Benchmarking for Language Models"
+date = 2024-09-24T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yuxia Wang", "Revanth Gangi Reddy", "Zain Muhammad Mujahid", "Arnav Arora", "Aleksandr Rubashevskii", "Jiahui Geng", "Osama Mohammed Afzal", "Liangming Pan", "Nadav Borenstein", "Aditya Pillai", "Isabelle Augenstein", "Iryna Gurevych", "Preslav Nakov"]
+authors = ["Marta Marchiori Manerba", "Karolina Stańczak", "Riccardo Guidotti", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Yuxia Wang", "Revanth Gangi Reddy", "Zain Muhammad Mujahid", "Arnav 
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2311.09000"
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)"
+publication_short = "In *EMNLP*"
 
 # Abstract and optional shortened version.
-abstract = "The increased use of large language models (LLMs) across a variety of real-world applications calls for mechanisms to verify the factual accuracy of their outputs. In this work, we present a holistic end-to-end solution for annotating the factuality of LLM-generated responses, which encompasses a multi-stage annotation scheme designed to yield detailed labels concerning the verifiability and factual inconsistencies found in LLM outputs. We design and build an annotation tool to speed up the labelling procedure and ease the workload of raters. It allows flexible incorporation of automatic results in any stage, e.g. automatically-retrieved evidence. We further construct an open-domain document-level factuality benchmark in three-level granularity: claim, sentence and document. Preliminary experiments show that FacTool, FactScore and this http URL are struggling to identify false claims with the best F1=0.53."
+abstract = "Large language models have been shown to encode a variety of social biases, which carries the risk of downstream harms. While the impact of these biases has been recognized, prior methods for bias evaluation have been limited to binary association tests on small datasets, offering a constrained view of the nature of societal biases within language models. In this paper, we propose an original framework for probing language models for societal biases. We collect a probing dataset to analyze language models' general associations, as well as along the axes of societal categories, identities, and stereotypes. To this end, we leverage a novel perplexity-based fairness score. We curate a large-scale benchmarking dataset addressing drawbacks and limitations of existing fairness collections, expanding to a variety of different identities and stereotypes. When comparing our methodology with prior work, we demonstrate that biases within language models are more nuanced than previously acknowledged. In agreement with recent findings, we find that larger model variants exhibit a higher degree of bias. Moreover, we expose how identities expressing different religions lead to the most pronounced disparate treatments across all models."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["limited-data", "fact-checking"]
+projects = ["gender-bias"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["limited-data", "fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2311.09000"
+url_pdf = "https://arxiv.org/abs/2311.09090"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

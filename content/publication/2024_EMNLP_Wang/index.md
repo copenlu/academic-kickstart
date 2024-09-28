@@ -1,10 +1,10 @@
 +++
-title = "From Internal Conflict to Contextual Adaptation of Language Models"
-date = 2024-07-25T00:00:00
+title = "Factcheck-GPT: End-to-End Fine-Grained Document-Level Fact-Checking and Correction of LLM Output"
+date = 2024-09-24T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Sara Vera Marjanović", "Haeun Yu", "Pepa Atanasova", "Maria Maistro", "Christina Lioma", "Isabelle Augenstein"]
+authors = ["Yuxia Wang", "Revanth Gangi Reddy", "Zain Muhammad Mujahid", "Arnav Arora", "Aleksandr Rubashevskii", "Jiahui Geng", "Osama Mohammed Afzal", "Liangming Pan", "Nadav Borenstein", "Aditya Pillai", "Isabelle Augenstein", "Iryna Gurevych", "Preslav Nakov"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Sara Vera Marjanović", "Haeun Yu", "Pepa Atanasova", "Maria Maistro
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2407.17023"
-publication_short = "In *CoRR*"
+publication = "In Findings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)"
+publication_short = "In *EMNLP*"
 
 # Abstract and optional shortened version.
-abstract = "Knowledge-intensive language understanding tasks require Language Models (LMs) to integrate relevant context, mitigating their inherent weaknesses, such as incomplete or outdated knowledge. Nevertheless, studies indicate that LMs often ignore the provided context as it can conflict with the pre-existing LM's memory learned during pre-training. Moreover, conflicting knowledge can already be present in the LM's parameters, termed intra-memory conflict. Existing works have studied the two types of knowledge conflicts only in isolation. We conjecture that the (degree of) intra-memory conflicts can in turn affect LM's handling of context-memory conflicts. To study this, we introduce the DYNAMICQA dataset, which includes facts with a temporal dynamic nature where a fact can change with a varying time frequency and disputable dynamic facts, which can change depending on the viewpoint. DYNAMICQA is the first to include real-world knowledge conflicts and provide context to study the link between the different types of knowledge conflicts. With the proposed dataset, we assess the use of uncertainty for measuring the intra-memory conflict and introduce a novel Coherent Persuasion (CP) score to evaluate the context's ability to sway LM's semantic output. Our extensive experiments reveal that static facts, which are unlikely to change, are more easily updated with additional context, relative to temporal and disputable facts."
+abstract = "The increased use of large language models (LLMs) across a variety of real-world applications calls for mechanisms to verify the factual accuracy of their outputs. In this work, we present a holistic end-to-end solution for annotating the factuality of LLM-generated responses, which encompasses a multi-stage annotation scheme designed to yield detailed labels concerning the verifiability and factual inconsistencies found in LLM outputs. We design and build an annotation tool to speed up the labelling procedure and ease the workload of raters. It allows flexible incorporation of automatic results in any stage, e.g. automatically-retrieved evidence. We further construct an open-domain document-level factuality benchmark in three-level granularity: claim, sentence and document. Preliminary experiments show that FacTool, FactScore and this http URL are struggling to identify false claims with the best F1=0.53."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["explainability", "fact-checking"]
+projects = ["limited-data", "fact-checking"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["explainability", "fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2407.17023"
+url_pdf = "https://arxiv.org/abs/2311.09000"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
