@@ -26,7 +26,7 @@ abstract = "The emergence of tools based on large language models (LLMs), like O
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

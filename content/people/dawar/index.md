@@ -1,19 +1,19 @@
 +++
 # Display name
-title = "Sara Vera Marjanovic"
+title = "Ahmad Dawar Hakimi"
 draft = false
 
 # Role/position
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Sara's research interests include explainable IR and NLP models, identifying biases in large text datasets, as well as working with social media data. She is a member of the DIKU ML section and IR group and co-advised by Isabelle."
+bio = "Dawar is an ELLIS PhD student at LMU Munich, supervised by Hinrich Schütze and co-supervised by Isabelle. His research interests include mechanistic interpretability, summarisation and factuality of LLMs."
 
 # External website link
-external_link = "https://scholar.google.com/citations?user=f026qd8AAAAJ&hl=en"
+external_link = "https://adhakimi.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2018-01-15T17:07:01
+date = 2018-01-11T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -40,27 +40,27 @@ tags = ["Affiliated"]
 [[social]]
 icon = "envelope"
 icon_pack = "fas"
-link = "mailto:savema@di.ku.dk"  # For a direct email link, use "mailto:test@example.org".
+link = "mailto:adhakimi@cis.lmu.de"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
 icon = "twitter"
 icon_pack = "fab"
-link = "https://twitter.com/saraveramarjano"
+link = "https://twitter.com/Ah_Dawar"
 
 [[social]]
 icon = "linkedin"
 icon_pack = "fab"
-link = "https://www.linkedin.com/in/sara-vera-marjanovic/"
+link = "https://www.linkedin.com/in/ahmad-dawar-hakimi/"
 
 [[social]]
 icon = "google-scholar"
 icon_pack = "ai"
-link = "https://scholar.google.com/citations?user=f026qd8AAAAJ&hl=en"
+link = "https://scholar.google.com/citations?user=6Q8I1okAAAAJ&hl=en&oi=ao"
 
 [[social]]
 icon = "github"
 icon_pack = "fab"
-link = "https://github.com/spaidataiga"
+link = "https://github.com/adhakimi"
 
 
 # Optional external URL for project (replaces project detail page).
