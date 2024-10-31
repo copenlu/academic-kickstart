@@ -12,11 +12,11 @@ bio = "Ercong’s research interests include multilingual NLP, efficient methods
 external_link = "https://ercong21.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2018-12-25T16:07:01
+date = 2019-01-01T16:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #
