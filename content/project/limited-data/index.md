@@ -46,7 +46,7 @@ url_code = ""
 
 Learning with limited labelled data is useful for small domains or languages with little resources. Methods we research to mitigate problems arising in these contexts include multi-task learning, weakly supervised and zero-shot learning. 
 
-This is a cross-cutting theme in most of our research. Two funded projects specifically addressing this are Multi3Generation and <a href="https://scholar.google.co.uk/citations?user=CLOC3rEAAAAJ">Andreas Nugaard Holm</a>'s industrial PhD project with <a href="https://www.baselifescience.com/">BASE Life Science</a>, supported by <a href="https://innovationsfonden.dk/en">Innovation Fund Denmark</a>.
+This is a cross-cutting theme in most of our research. Two previous projects specifically addressing this are Multi3Generation and <a href="https://scholar.google.co.uk/citations?user=CLOC3rEAAAAJ">Andreas Nugaard Holm</a>'s industrial PhD project with <a href="https://www.baselifescience.com/">BASE Life Science</a>, supported by <a href="https://innovationsfonden.dk/en">Innovation Fund Denmark</a>.
 
 <a href="https://www.cost.eu/actions/CA18231/#tabs%7CName:overview">Multi3Generation</a> is a COST Action that funds collaboration of researchers in Europe and abroad. The project is coordinated by Isabelle Augenstein, and its goals are to study language generation using multi-task, multilingual and multi-modal signals.
 
