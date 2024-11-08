@@ -1,5 +1,5 @@
 +++
-title = "Factcheck-GPT: End-to-End Fine-Grained Document-Level Fact-Checking and Correction of LLM Output"
+title = "Factcheck-Bench: Fine-Grained Evaluation Benchmark for Automatic Fact-Checkers"
 date = 2024-09-24T00:00:00
 draft = false
 
