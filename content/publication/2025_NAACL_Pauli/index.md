@@ -1,6 +1,6 @@
 +++
 title = "Measuring and Benchmarking Large Language Models' Capabilities to Generate Persuasive Language"
-date = 2024-06-21T00:00:00
+date = 2025-01-24T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,14 +15,14 @@ authors = ["Amalie Brogaard Pauli", "Isabelle Augenstein", "Ira Assent"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2406.17753"
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)"
+publication_short = "In *NAACL*"
 
 # Abstract and optional shortened version.
-abstract = "We are exposed to much information trying to influence us, such as teaser messages, debates, politically framed news, and propaganda - all of which use persuasive language. With the recent interest in Large Language Models (LLMs), we study the ability of LLMs to produce persuasive text. As opposed to prior work which focuses on particular domains or types of persuasion, we conduct a general study across various domains to measure and benchmark to what degree LLMs produce persuasive text - both when explicitly instructed to rewrite text to be more or less persuasive and when only instructed to paraphrase. To this end, we construct a new dataset, Persuasive-Pairs, of pairs each consisting of a short text and of a text rewritten by an LLM to amplify or diminish persuasive language. We multi-annotate the pairs on a relative scale for persuasive language. This data is not only a valuable resource in itself, but we also show that it can be used to train a regression model to predict a score of persuasive language between text pairs. This model can score and benchmark new LLMs across domains, thereby facilitating the comparison of different LLMs. Finally, we discuss effects observed for different system prompts. Notably, we find that different 'personas' in the system prompt of LLaMA3 change the persuasive language in the text substantially, even when only instructed to paraphrase. These findings underscore the importance of investigating persuasive language in LLM generated text."
+abstract = "We are exposed to much information trying to influence us, such as teaser messages, debates, politically framed news, and propaganda - all of which use persuasive language. With the recent interest in Large Language Models (LLMs), we study the ability of LLMs to produce persuasive text. As opposed to prior work which focuses on particular domains or types of persuasion, we conduct a general study across various domains to measure and benchmark to what degree LLMs produce persuasive language - both when explicitly instructed to rewrite text to be more or less persuasive and when only instructed to paraphrase. We construct the new dataset Persuasive-Pairs of pairs of a short text and its rewrite by an LLM to amplify or diminish persuasive language. We multi-annotate the pairs on a relative scale for persuasive language: a valuable resource in itself, and for training a regression model to score and benchmark persuasive language, including for new LLMs across domains. In our analysis, we find that different 'personas' in LLaMA3's system prompt change persuasive language substantially, even when only instructed to paraphrase."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)

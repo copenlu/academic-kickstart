@@ -1,10 +1,10 @@
 +++
-title = "A Unified Framework for Input Feature Attribution Analysis"
-date = 2024-06-21T00:00:00
+title = "Specializing Large Language Models to Simulate Survey Response Distributions for Global Populations"
+date = 2025-01-24T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jingyi Sun", "Pepa Atanasova", "Isabelle Augenstein"]
+authors = ["Yong Cao", "Haijiang Liu", "Arnav Arora", "Isabelle Augenstein", "Paul Röttger", "Daniel Hershcovich"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Jingyi Sun", "Pepa Atanasova", "Isabelle Augenstein"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2406.15085"
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)"
+publication_short = "In *NAACL*"
 
 # Abstract and optional shortened version.
-abstract = "Explaining the decision-making process of machine learning models is crucial for ensuring their reliability and fairness. One popular explanation form highlights key input features, such as i) tokens (e.g., Shapley Values and Integrated Gradients), ii) interactions between tokens (e.g., Bivariate Shapley and Attention-based methods), or iii) interactions between spans of the input (e.g., Louvain Span Interactions). However, these explanation types have only been studied in isolation, making it difficult to judge their respective applicability. To bridge this gap, we propose a unified framework that facilitates a direct comparison between highlight and interactive explanations comprised of four diagnostic properties. Through extensive analysis across these three types of input feature explanations--each utilizing three different explanation techniques--across two datasets and two models, we reveal that each explanation type excels in terms of different diagnostic properties. In our experiments, highlight explanations are the most faithful to a model's prediction, and interactive explanations provide better utility for learning to simulate a model's predictions. These insights further highlight the need for future research to develop combined methods that enhance all diagnostic properties."
+abstract = "Large-scale surveys are essential tools for informing social science research and policy, but running surveys is costly and time-intensive. If we could accurately simulate group-level survey results, this would therefore be very valuable to social science research. Prior work has explored the use of large language models (LLMs) for simulating human behaviors, mostly through prompting. In this paper, we are the first to specialize LLMs for the task of simulating survey response distributions. As a testbed, we use country-level results from two global cultural surveys. We devise a fine-tuning method based on first-token probabilities to minimize divergence between predicted and actual response distributions for a given question. Then, we show that this method substantially outperforms other methods and zero-shot classifiers, even on unseen questions, countries, and a completely unseen survey. While even our best models struggle with the task, especially on unseen questions, our results demonstrate the benefits of specialization for simulation, which may accelerate progress towards sufficiently accurate simulation in the future."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["explainability", "fact-checking"]
+projects = ["multilingual-learning"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["explainability", "fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2406.15085"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""

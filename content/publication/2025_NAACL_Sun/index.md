@@ -1,10 +1,10 @@
 +++
-title = "Investigating Human Values in Online Communities"
-date = 2024-02-21T00:00:00
+title = "A Unified Framework for Input Feature Attribution Analysis"
+date = 2025-01-24T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Nadav Borenstein", "Arnav Arora", "Lucie-Aimée Kaffee", "Isabelle Augenstein"]
+authors = ["Jingyi Sun", "Pepa Atanasova", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Nadav Borenstein", "Arnav Arora", "Lucie-Aimée Kaffee", "Isabelle A
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2402.14177"
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)"
+publication_short = "In *NAACL*"
 
 # Abstract and optional shortened version.
-abstract = "Human values play a vital role as an analytical tool in social sciences, enabling the study of diverse dimensions within society as a whole and among individual communities. This paper addresses the limitations of traditional survey-based studies of human values by proposing a computational application of Schwartz's values framework to Reddit, a platform organized into distinct online communities. After ensuring the reliability of automated value extraction tools for Reddit content, we automatically annotate six million posts across 10,000 subreddits with Schwartz values. Our analysis unveils both previously recorded and novel insights into the values prevalent within various online communities. For instance, when examining subreddits with differing opinions on controversial topics, we discover higher universalism values in the Vegan subreddit compared to Carnivores. Additionally, our study of geographically specific subreddits highlights the correlation between traditional values and conservative U.S. states."
+abstract = "Explaining the decision-making process of machine learning models is crucial for ensuring their reliability and fairness. One popular explanation form highlights key input features, such as i) tokens (e.g., Shapley Values and Integrated Gradients), ii) interactions between tokens (e.g., Bivariate Shapley and Attention-based methods), or iii) interactions between spans of the input (e.g., Louvain Span Interactions). However, these explanation types have only been studied in isolation, making it difficult to judge their respective applicability. To bridge this gap, we propose a unified framework that facilitates a direct comparison between highlight and interactive explanations comprised of four diagnostic properties. Through extensive analysis across these three types of input feature explanations--each utilizing three different explanation techniques--across two datasets and two models, we reveal that each explanation type excels in terms of different diagnostic properties. In our experiments, highlight explanations are the most faithful to a model's prediction, and interactive explanations provide better utility for learning to simulate a model's predictions. These insights further highlight the need for future research to develop combined methods that enhance all diagnostic properties."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -49,7 +49,7 @@ projects = ["explainability", "fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2402.14177"
+url_pdf = "https://arxiv.org/abs/2406.15085"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
