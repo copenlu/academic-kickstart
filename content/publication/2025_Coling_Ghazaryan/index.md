@@ -1,6 +1,6 @@
 +++
 title = "SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource Languages"
-date = 2024-12-02T00:00:00
+date = 2025-01-02T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
