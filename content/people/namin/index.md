@@ -1,6 +1,6 @@
 +++
 # Display name
-title = "Na Min Anh"
+title = "Na Min An"
 
 # Role/position
 role = "PhD Intern"
