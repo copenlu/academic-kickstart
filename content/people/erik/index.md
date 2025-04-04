@@ -6,7 +6,7 @@ title = "Erik Arakelyan"
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Erik's main research interests are question answering and explainability."
+bio = "Erik's main research interests are question answering and explainability. He successfully defended his PhD thesis in April 2025, and is now a Machine Learning Researcher at NVIDIA."
 
 # External website link
 external_link = "https://scholar.google.co.uk/citations?user=63BfrxMAAAAJ"
@@ -16,7 +16,7 @@ date = 2019-01-11T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

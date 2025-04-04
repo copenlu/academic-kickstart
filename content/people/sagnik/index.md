@@ -6,7 +6,7 @@ title = "Sagnik Ray Choudhury"
 role = "Postdoc"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Sagnik is a postdoctoral researcher at the University of Michigan. He was a postdoctoral researcher in CopeNLU from 2020 to 2022, working on question answering and interpretability of neural black-box models."
+bio = "Sagnik is an Assistant Professor at the University of North Texas. He was a postdoctoral researcher in CopeNLU from 2020 to 2022, working on question answering and interpretability of neural black-box models."
 
 # External website link
 external_link = "http://sagnikraychoudhury.com/"

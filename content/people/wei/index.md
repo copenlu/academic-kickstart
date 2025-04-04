@@ -6,7 +6,7 @@ title = "Wei Zhao"
 role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Wei Zhao is a postdoctoral researcher at Heidelberg University, and was visiting CopeNLU in Winter 2019 to work on low-resource natural language generation."
+bio = "Wei Zhao is a lecturer at the University of Aberdeen, and was visiting CopeNLU in Winter 2019 to work on low-resource natural language generation."
 
 # External website link
 external_link = "https://andyweizhao.github.io/"

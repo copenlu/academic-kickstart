@@ -6,7 +6,7 @@ title = "Klim Zaporojets"
 role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Klim is a PhD Student at Ghent University. He was visiting CopeNLU in Spring 2022 to work on entity linking."
+bio = "Klim is a Postdoctoral Researcher at Aarhus University. He was visiting CopeNLU in Spring 2022 to work on entity linking."
 
 # External website link
 external_link = "https://klimzaporojets.github.io/"

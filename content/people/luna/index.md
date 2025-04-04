@@ -6,7 +6,7 @@ title = "Luna De Bruyne"
 role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Luna is a PhD Student at Ghent University, and was visiting CopeNLU in Spring 2019 to work on emotion detection."
+bio = "Luna is a Tenure-Track Assistant Professor at the University of Antwerp. She was visiting CopeNLU in Spring 2019 to work on emotion detection."
 
 # External website link
 external_link = "https://research.flw.ugent.be/en/luna.debruyne"

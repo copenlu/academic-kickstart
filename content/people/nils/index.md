@@ -6,7 +6,7 @@ title = "Nils Rethmeier"
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Nils researches low-resource learning and unsupervised learning as well as explainability. He successfully defended his PhD thesis in August 2023."
+bio = "Nils is the Head of Artificial Intelligence at experial.ai. He was previously a PhD student in CopeNLU, researching low-resource learning and unsupervised learning as well as explainability. He successfully defended his PhD thesis in August 2023."
 
 # External website link
 external_link = "https://www.dfki.de/en/web/about-us/employee/person/nire02/"

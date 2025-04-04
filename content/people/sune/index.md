@@ -6,7 +6,7 @@ title = "Sune Debel"
 role = "Research Assistant"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Now a machine learning engineer at Omhu."
+bio = "Now a senior data scientist at ZeroNorth."
 
 # External website link
 external_link = "https://dk.linkedin.com/in/sune-debel-756893a8"

@@ -6,7 +6,7 @@ title = "Thea Rolskov Sloth"
 role = "Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Thea is a MSc Student in Cognitive Science at Aarhus University, visiting CopeNLU in Autumn 2022 to work on gender bias detection."
+bio = "Thea is a Data Scientist at Aarhus Municipality. She was MSc Student in Cognitive Science at Aarhus University, visiting CopeNLU in Autumn 2022 to work on gender bias detection."
 
 # External website link
 external_link = "https://www.linkedin.com/in/thea-rolskov-sloth-02803752/ "

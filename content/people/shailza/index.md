@@ -6,7 +6,7 @@ title = "Shailza Jolly"
 role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Shailza is a PhD Student at the Technical University of Kaiserslautern, and a research assistant at DFKI. She was visiting CopeNLU in Winter/Spring 2021 to work on interpretability."
+bio = "Shailza is a Senior Machine Learning Scientist at Flinn.ai. She was visiting CopeNLU in Winter/Spring 2021 to work on interpretability."
 
 # External website link
 external_link = "https://shailzajolly.github.io/"

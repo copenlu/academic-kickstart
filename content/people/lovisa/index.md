@@ -8,7 +8,7 @@ role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
 # bio = "Dustin's research interests include fact checking and knowledge base population, with a focus on scientific texts. He was PhD in CopeNLU from 2019 to 2023, and is now a postdoctoral researcher in the DIKU ML section."
-bio = "Lovisa is a visiting PhD student from Chalmers University of Technology. Her research interests include language model controllability, interpretability and retrieval-augmented methods."
+bio = "Lovisa was a visiting PhD student from Chalmers University of Technology. Her research interests include language model controllability, interpretability and retrieval-augmented methods."
 
 # External website link#
 external_link = "https://lovhag.github.io/"

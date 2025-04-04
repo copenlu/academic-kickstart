@@ -8,7 +8,7 @@ role = "Visiting Professor"
 
 # Short bio (displayed in user profile at end of posts)
 # bio = "Dustin's research interests include fact checking and knowledge base population, with a focus on scientific texts. He was PhD in CopeNLU from 2019 to 2023, and is now a postdoctoral researcher in the DIKU ML section."
-bio = "Steffen Eger is Heisenberg and BMBF group leader at University of Mannheim, Germany, working mainly on text generation and its evaluation. He was visiting CopeNLU in Winter/Spring 2024."
+bio = "Steffen Eger is full professor at the University of Technology Nuremberg, Germany, working mainly on text generation and its evaluation. He was visiting CopeNLU in Winter/Spring 2024."
 
 # External website link#
 external_link = "https://nl2g.github.io/"

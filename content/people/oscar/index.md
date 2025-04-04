@@ -6,7 +6,7 @@ title = "Oscar Kjell"
 role = "Postdoc"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Oscar researches automating the assessment of psychological constructs using representation learning. He is an international postdoc affiliated with Lund University as well the University of Copenhagen and Stony Brook University."
+bio = "Oscar researches automating the assessment of psychological constructs using representation learning. He was previously an international postdoc affiliated with Lund University as well the University of Copenhagen and Stony Brook University."
 
 # External website link
 external_link = "https://www.oscarkjell.se/"

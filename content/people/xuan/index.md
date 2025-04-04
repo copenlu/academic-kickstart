@@ -6,7 +6,7 @@ title = "Zhong Xuan"
 role = "Research Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Zhong Xuan is a data scientist at Grab, Singapore, and was visiting CopeNLU in Summer 2019 to work on relation extraction and knowledge base population."
+bio = "Zhong Xuan is a senior data scientist at Grab, Singapore, and was visiting CopeNLU in Summer 2019 to work on relation extraction and knowledge base population."
 
 # External website link
 external_link = "."

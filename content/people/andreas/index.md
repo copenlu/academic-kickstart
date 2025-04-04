@@ -7,7 +7,7 @@ draft = false
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Andreas' main research areas are representation learning and domain adaptation, with a focus on scientific texts."
+bio = "Andreas is an AI Specialist at Alexandra Institute. His was a PhD student in the group from 2019-2023, researching representation learning and domain adaptation with a focus on scientific texts."
 
 # External website link
 external_link = "https://scholar.google.dk/citations?user=eeL1rPAAAAAJ"

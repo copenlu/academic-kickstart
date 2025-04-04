@@ -6,7 +6,7 @@ title = "Liesbeth Allein"
 role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Liesbeth is a PhD Student at KU Leuven, and was visiting CopeNLU in Spring 2020 to work on fact checking."
+bio = "Liesbeth is a Postdoctoral Researcher at KU Leuven and Ghent University, and was visiting CopeNLU in Spring 2020 to work on fact checking."
 
 # External website link
 external_link = "https://scholar.google.ca/citations?user=KWe__fAAAAAJ&hl=nl&oi=ao"

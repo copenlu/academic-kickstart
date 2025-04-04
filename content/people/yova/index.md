@@ -6,7 +6,7 @@ title = "Yova Kementchedjhieva"
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Yova was a PhD student in the CoAStaL NLP group researching low-resource and cross-lingual learning, co-advised by Isabelle. She is now a postdoc in the same group."
+bio = "Yova was a PhD student at the University of Copenhagen co-advised by Isabelle, researching low-resource and cross-lingual learning. She is now an Assistant Professor at Mohamed bin Zayed University of Artificial Intelligence, UAE."
 
 # External website link
 external_link = "https://yovakem.github.io/"

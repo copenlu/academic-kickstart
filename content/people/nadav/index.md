@@ -3,7 +3,7 @@
 title = "Nadav Borenstein"
 
 # Role/position
-role = "PhD Student"
+role = "Postdoc"
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Nadav's research interests include improving the trustworthiness and usefulness of deep models in the NLP domain."

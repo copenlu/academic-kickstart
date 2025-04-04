@@ -6,7 +6,7 @@ title = "Lucie-Aimée Kaffee"
 role = "Postdoc"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Lucie's research interests include supporting lower-resourced language communities (including Wikipedia and Wikidata) with NLP, and multilingual knowledge graphs. She was a postdoctoral researcher in the CopeNLU group from 2021-2023 and is now a postdoctoral researcher at Hasso-Plattner-Institut."
+bio = "Lucie's research interests include supporting lower-resourced language communities (including Wikipedia and Wikidata) with NLP, and multilingual knowledge graphs. She was a postdoctoral researcher in the CopeNLU group from 2021-2023 and is now an Applied Policy Researcher at Hugging Face."
 
 # External website link
 external_link = "https://luciekaffee.github.io/"
