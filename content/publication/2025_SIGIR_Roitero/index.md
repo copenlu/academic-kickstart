@@ -1,6 +1,6 @@
 +++
 title = "Collecting Cost-Effective, High-Quality Truthfulness Assessments with LLM Summarized Evidence"
-date = 2025-01-07T00:00:00
+date = 2025-04-05T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,8 +18,8 @@ authors = ["Kevin Roitero", "Dustin Wright", "Michael Soprano", "Isabelle Augens
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2501.18265"
-publication_short = "In *CoRR*"
+publication = "48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)"
+publication_short = "In *SIGIR 2025*"
 
 # Abstract and optional shortened version.
 abstract = "With the degradation of guardrails against mis- and disinformation online, it is more critical than ever to be able to effectively combat it. In this paper, we explore the efficiency and effectiveness of using crowd-sourced truthfulness assessments based on condensed, large language model (LLM) generated summaries of online sources. We compare the use of generated summaries to the use of original web pages in an A/B testing setting, where we employ a large and diverse pool of crowd-workers to perform the truthfulness assessment. We evaluate the quality of assessments, the efficiency with which assessments are performed, and the behavior and engagement of participants. Our results demonstrate that the Summary modality, which relies on summarized evidence, offers no significant change in assessment accuracy over the Standard modality, while significantly increasing the speed with which assessments are performed. Workers using summarized evidence produce a significantly higher number of assessments in the same time frame, reducing the cost needed to acquire truthfulness assessments. Additionally, the Summary modality maximizes both the inter-annotator agreements as well as the reliance on and perceived usefulness of evidence, demonstrating the utility of summarized evidence without sacrificing the quality of assessments."

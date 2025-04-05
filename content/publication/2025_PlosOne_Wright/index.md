@@ -1,6 +1,6 @@
 +++
 title = "Multi-View Knowledge Distillation from Crowd Annotations for Out-of-Domain Generalization"
-date = 2022-12-19T00:00:00
+date = 2025-04-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,8 +18,8 @@ authors = ["Dustin Wright", "Isabelle Augenstein"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2212.09409"
-publication_short = "In *CoRR*"
+publication = "PLoS ONE, April 2025, to appear"
+publication_short = "In *PLoS ONE*"
 
 # Abstract and optional shortened version.
 abstract = "Selecting an effective training signal for tasks in natural language processing is difficult: expert annotations are expensive, and crowd-sourced annotations may not be reliable. At the same time, recent work in NLP has demonstrated that learning from a distribution over labels acquired from crowd annotations can be effective. However, there are many ways to acquire such a distribution, and the performance allotted by any one method can fluctuate based on the task and the amount of available crowd annotations, making it difficult to know a priori which distribution is best. This paper systematically analyzes this in the out-of-domain setting, adding to the NLP literature which has focused on in-domain evaluation, and proposes new methods for acquiring soft-labels from crowd-annotations by aggregating the distributions produced by existing methods. In particular, we propose to aggregate multiple-views of crowd annotations via temperature scaling and finding their Jensen-Shannon centroid. We demonstrate that these aggregation methods lead to the most consistent performance across four NLP tasks on out-of-domain test sets, mitigating fluctuations in performance from the individual distributions. Additionally, aggregation results in the most consistently well-calibrated uncertainty estimation. We argue that aggregating different views of crowd-annotations is an effective and minimal intervention to acquire soft-labels which induce robust classifiers despite the inconsistency of the individual soft-labeling methods."
