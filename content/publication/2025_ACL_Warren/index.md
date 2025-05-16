@@ -1,10 +1,10 @@
 +++
 title = "Can Community Notes Replace Professional Fact-Checkers?"
-date = 2025-02-18T00:00:00
+date = 2025-05-16T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Nadav Borenstein", "Greta Warren", "Desmond Elliott", "Isabelle Augenstein"]
+authors = ["Greta Warren", "Nadav Borenstein", "Desmond Elliott", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,11 +15,11 @@ authors = ["Nadav Borenstein", "Greta Warren", "Desmond Elliott", "Isabelle Auge
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2502.14132"
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)"
+publication_short = "In *ACL*"
 
 # Abstract and optional shortened version.
 abstract = "Two commonly-employed strategies to combat the rise of misinformation on social media are (i) fact-checking by professional organisations and (ii) community moderation by platform users. Policy changes by Twitter/X and, more recently, Meta, signal a shift away from partnerships with fact-checking organisations and towards an increased reliance on crowdsourced community notes. However, the extent and nature of dependencies between fact-checking and helpful community notes remain unclear. To address these questions, we use language models to annotate a large corpus of Twitter/X community notes with attributes such as topic, cited sources, and whether they refute claims tied to broader misinformation narratives. Our analysis reveals that community notes cite fact-checking sources up to five times more than previously reported. Fact-checking is especially crucial for notes on posts linked to broader narratives, which are twice as likely to reference fact-checking sources compared to other sources. In conclusion, our results show that successful community moderation heavily relies on professional fact-checking."

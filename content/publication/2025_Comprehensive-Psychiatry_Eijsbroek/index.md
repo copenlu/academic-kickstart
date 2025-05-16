@@ -1,6 +1,6 @@
 +++
 title = "The LEADING Guideline Reporting Standards for Expert Panel, Best-Estimate Diagnosis, and Longitudinal Expert All Data (LEAD) Studies"
-date = 2024-03-19T00:00:00
+date = 2025-05-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Veerle C Eijsbroek", "Katarina Kjell", "H Andrew Schwartz", "Jan R B
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "medRxiv, 2024.03.19.24304526"
-publication_short = "In *medRxiv*"
+publication = "Comprehensive Psychiatry, to appear"
+publication_short = "In *Comprehensive Psychiatry*"
 
 # Abstract and optional shortened version.
 abstract = "Accurate assessments of symptoms and diagnoses are essential for health research and clinical practice but face many challenges. The absence of a single error-free measure is currently addressed by assessment methods involving experts reviewing several sources of information to achieve a more accurate or best-estimate assessment. Three bodies of work spanning medicine, psychiatry, and psychology propose similar assessment methods: The Expert Panel, the Best-Estimate Diagnosis, and the Longitudinal Expert All Data (LEAD). However, the quality of such best-estimate assessments is typically very difficult to evaluate due to poor reporting of the assessment methods and when it is reported, the reporting quality varies substantially. Here we tackle this gap by developing reporting guidelines for such studies, using a four-stage approach: 1) drafting reporting standards accompanied by rationales and empirical evidence, which were further developed with a patient organization for depression, 2) incorporating expert feedback through a two-round Delphi procedure, 3) refining the guideline based on an expert consensus meeting, and 4) testing the guideline by i) having two researchers test it and ii) using it to examine the extent previously published articles report the standards. The last step also demonstrates the need for the guideline: 18 to 58% (Mean = 33%) of the standards were not reported across fifteen randomly selected studies. The LEADING guideline comprises 20 reporting standards related to four groups: The Longitudinal design; the Appropriate data; the Evaluation – experts, materials, and procedures; and the Validity group. We hope that the LEADING guideline will be useful in assisting researchers in planning, reporting, and evaluating research aiming to achieve best-estimate assessments."

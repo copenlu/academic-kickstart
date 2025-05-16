@@ -6,7 +6,7 @@ title = "Karolina Stanczak"
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Karolina's research interests include gender-biased language detection and statistical methods. She successfully defended her PhD thesis in January 2024, and is now a postdoctoral researcher at Mila, Montreal."
+bio = "Karolina's research interests include gender-biased language detection and statistical methods. She successfully defended her PhD thesis in January 2024, and is now a postdoctoral researcher at ETH, Zurich."
 
 # External website link
 external_link = "https://kstanczak.github.io/"
