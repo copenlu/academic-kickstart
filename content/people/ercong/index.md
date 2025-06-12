@@ -6,7 +6,7 @@ title = "Ercong Nie"
 role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Ercong’s research interests include multilingual NLP, efficient methods for NLP, human-inspired NLP, and interpretability."
+bio = "Ercong is a PhD student at LMU Munich whose research interests include multilingual NLP, efficient methods for NLP, human-inspired NLP, and interpretability."
 
 # External website link
 external_link = "https://ercong21.github.io/"

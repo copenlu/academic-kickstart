@@ -6,7 +6,7 @@ title = "Amelie Wührl"
 role = "PhD Intern"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Amelie is a PhD Student at the University of Stuttgart, interested in fact-checking, specifically for medical claims and content that people chose to share on social media. She was visiting CopeNLU in Spring 2023 to work on scientific fact checking."
+bio = "Amelie is a Postdoctoral Researcher at the IT University of Copenhagen, interested in fact-checking, specifically for medical claims and content that people chose to share on social media. She was visiting CopeNLU in Spring 2023 to work on scientific fact checking."
 
 # External website link
 external_link = "https://aclanthology.org/people/a/amelie-wuhrl/"

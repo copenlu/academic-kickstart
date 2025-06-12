@@ -57,7 +57,7 @@ Invited speakers include: 🎙️
 - Associate Professor David Jurgens (University of Michigan)
 - Associate Professor Tanu Mitra (UW)
 - Assistant Professor Nanyun Peng (UCLA)
-- Assistant Professor Danish Pruthi (IIT Bangalore)
+- Assistant Professor Danish Pruthi (IISc Bangalore)
 - Associate Professor Kai-Wei Chang (UCLA & Amazon Scholar)
 - Assistant Professor Anjalie Field (Johns Hopkins University)
 
