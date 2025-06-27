@@ -66,7 +66,7 @@ math = false
   focal_point = "Right"
 +++
 The Danish Advanced Research Academy (DARA) is <a href="https://daracademy.dk/fellowship/fellowships-summer-2025">calling for PhD fellowship applications on topics including AI</a>.
-As the fellowship application process requires a letter of support from the prospective main supervisor, we are collecting and screening expressions of interest who would like to apply with Isabelle Augenstein as a main supervisor <a href="https://forms.office.com/e/HZSmgR9nXB">here</a>. Selected interested candidates will be invited to submit full applications to the DARA fellowship programme with my support.
+As the fellowship application process requires a letter of support from the prospective main supervisor, we are collecting and screening expressions of interest of candidates who would like to apply with Isabelle Augenstein as a main supervisor <a href="https://forms.office.com/e/HZSmgR9nXB">here</a>. Selected interested candidates will be invited to submit full applications to the DARA fellowship programme with my support.
 Note that the PhD programme requires applicants to hold a Master's degree or be in the process of completing a Master's programme.
 
 The timeline for recruitment is as follows:
