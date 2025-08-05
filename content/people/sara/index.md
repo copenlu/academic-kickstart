@@ -53,6 +53,11 @@ icon_pack = "fab"
 link = "https://www.linkedin.com/in/sara-vera-marjanovic/"
 
 [[social]]
+  icon = "bluesky"
+  icon_pack = "fab"
+  link = "https://bsky.app/profile/saravera.bsky.social"
+
+[[social]]
 icon = "google-scholar"
 icon_pack = "ai"
 link = "https://scholar.google.com/citations?user=f026qd8AAAAJ&hl=en"

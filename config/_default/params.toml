@@ -176,3 +176,6 @@ custom_js  = []
     api_key = ""
     index_name = ""
     show_logo = false
+
+# Bluesky support
+plugins_css = ["custom"]

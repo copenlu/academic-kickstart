@@ -47,6 +47,11 @@ icon_pack = "fab"
 link = "https://www.linkedin.com/in/zainmujahid/"
 
 [[social]]
+  icon = "bluesky"
+  icon_pack = "fab"
+  link = "https://bsky.app/profile/zainmujahid.me"
+
+[[social]]
 icon = "google-scholar"
 icon_pack = "ai"
 link = "https://scholar.google.com/citations?user=5fYb6pYAAAAJ&hl=en"

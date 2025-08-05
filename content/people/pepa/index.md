@@ -52,6 +52,11 @@ icon_pack = "fab"
 link = "https://www.linkedin.com/in/pepa-atanasova-65a2b417b"
 
 [[social]]
+  icon = "bluesky"
+  icon_pack = "fab"
+  link = "https://bsky.app/profile/apepa.bsky.social"
+
+[[social]]
 icon = "google-scholar"
 icon_pack = "ai"
 link = "https://scholar.google.co.uk/citations?user=CLOC3rEAAAAJ"

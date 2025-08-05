@@ -52,6 +52,11 @@ icon_pack = "fab"
 link = "https://www.linkedin.com/in/ercong-nie-6375a5104/"
 
 [[social]]
+  icon = "bluesky"
+  icon_pack = "fab"
+  link = "https://bsky.app/profile/ercong-nie.bsky.social"
+
+[[social]]
 icon = "google-scholar"
 icon_pack = "ai"
 link = "https://scholar.google.com/citations?user=dx00mD4AAAAJ&hl=en"

@@ -49,6 +49,11 @@ icon_pack = "fab"
 link = "https://www.linkedin.com/in/lovisa-hagstrom/"
 
 [[social]]
+  icon = "bluesky"
+  icon_pack = "fab"
+  link = "https://bsky.app/profile/lovhag.bsky.social"
+
+[[social]]
 icon = "google-scholar"
 icon_pack = "ai"
 link = "https://scholar.google.com/citations?hl=en&user=iRYBEYsAAAAJ"

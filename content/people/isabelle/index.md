@@ -52,6 +52,11 @@ icon_pack = "fab"
 link = "https://dk.linkedin.com/in/isabelle-augenstein-82436b7a"
 
 [[social]]
+  icon = "bluesky"
+  icon_pack = "fab"
+  link = "https://bsky.app/profile/iaugenstein.bsky.social"
+
+[[social]]
 icon = "google-scholar"
 icon_pack = "ai"
 link = "https://scholar.google.co.uk/citations?user=DjJp0dcAAAAJ"

@@ -52,6 +52,11 @@ icon_pack = "fab"
 link = "https://www.linkedin.com/in/arnav-arora/"
 
 [[social]]
+  icon = "bluesky"
+  icon_pack = "fab"
+  link = "https://bsky.app/profile/rnv.bsky.social"
+
+[[social]]
 icon = "google-scholar"
 icon_pack = "ai"
 link = "https://scholar.google.com/citations?user=EQUUUUoAAAAJ&hl=en"

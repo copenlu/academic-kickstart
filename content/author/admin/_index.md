@@ -51,6 +51,11 @@ interests = ["Natural Language Understanding", "Learning with Limited Labelled D
   link = "https://twitter.com/CopeNLU"
 
 [[social]]
+  icon = "bluesky"
+  icon_pack = "fab"
+  link = "https://bsky.app/profile/copenlu.bsky.social"
+
+[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/copenlu"

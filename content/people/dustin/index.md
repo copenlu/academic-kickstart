@@ -54,6 +54,11 @@ icon_pack = "fab"
 link = "https://www.linkedin.com/in/dwright37/"
 
 [[social]]
+  icon = "bluesky"
+  icon_pack = "fab"
+  link = "https://bsky.app/profile/dustinbwright.com"
+
+[[social]]
 icon = "google-scholar"
 icon_pack = "ai"
 link = "https://scholar.google.com/citations?authuser=1&user=OGk5UnYAAAAJ"
