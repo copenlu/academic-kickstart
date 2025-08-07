@@ -39,7 +39,7 @@ tags = ["Members"]
 [[social]]
 icon = "envelope"
 icon_pack = "fas"
-link = "mailto:yoja@di.ku.dk"  # For a direct email link, use "mailto:test@example.org".
+link = "mailto:yoonna@di.ku.dk"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
 icon = "linkedin"
