@@ -49,7 +49,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.medrxiv.org/content/10.1101/2024.03.19.24304526v1"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0010440X25000318"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

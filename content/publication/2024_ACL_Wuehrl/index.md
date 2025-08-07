@@ -49,7 +49,7 @@ projects = ["fact-checking", "scholarly-data"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2402.12431"
+url_pdf = "https://aclanthology.org/2024.findings-acl.369/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

@@ -49,7 +49,7 @@ projects = ["question-answering", "knowledge-bases"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2406.14425"
+url_pdf = "https://aclanthology.org/2025.coling-main.430/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

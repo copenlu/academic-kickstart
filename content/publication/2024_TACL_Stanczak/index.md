@@ -1,5 +1,5 @@
 +++
-title = "Grammatical Gender's Influence on Distributional Semantics: A Causal Perspective"
+title = "The Causal Influence of Grammatical Gender on Distributional Semantics"
 date = 2024-07-10T00:00:00
 draft = false
 
@@ -18,7 +18,7 @@ authors = ["Karolina Stańczak", "Kevin Du", "Adina Williams", "Isabelle Augenst
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Transactions of the Association for Computational Linguistics (TACL), Vol 12 (2024), to appear"
+publication = "Transactions of the Association for Computational Linguistics (TACL), Vol 12 (2024)"
 publication_short = "In *TACL*"
 
 # Abstract and optional shortened version.
@@ -49,7 +49,7 @@ projects = ["bias-detection", "explainability"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2311.09090"
+url_pdf = "https://aclanthology.org/2024.tacl-1.90/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

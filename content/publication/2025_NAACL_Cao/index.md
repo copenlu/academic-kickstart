@@ -49,7 +49,7 @@ projects = ["multilingual-learning"]
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://aclanthology.org/2025.naacl-long.162/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

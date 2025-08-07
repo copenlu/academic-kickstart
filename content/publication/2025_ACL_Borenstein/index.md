@@ -4,7 +4,7 @@ date = 2025-05-16T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Greta Warren", "Nadav Borenstein", "Desmond Elliott", "Isabelle Augenstein"]
+authors = ["Nadav Borenstein", "Greta Warren", "Desmond Elliott", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -49,7 +49,7 @@ projects = ["fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2502.14132"
+url_pdf = "https://aclanthology.org/2025.acl-short.42/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

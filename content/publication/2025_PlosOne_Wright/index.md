@@ -49,7 +49,7 @@ projects = ["limited-data"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2212.09409"
+url_pdf = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323064&?utm_id=plos111&utm_source=internal&utm_medium=email&utm_campaign=author"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

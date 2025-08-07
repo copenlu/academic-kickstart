@@ -49,7 +49,7 @@ projects = ["multilingual-learning"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2411.00860"
+url_pdf = "https://direct.mit.edu/coli/article/doi/10.1162/COLI.a.14/130804/Survey-of-Cultural-Awareness-in-Language-Models"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

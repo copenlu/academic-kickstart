@@ -49,7 +49,7 @@ projects = ["limited-data", "fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2311.09000"
+url_pdf = "https://aclanthology.org/2024.findings-emnlp.830/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

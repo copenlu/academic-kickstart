@@ -49,7 +49,7 @@ projects = ["explainability", "fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2402.14177"
+url_pdf = "https://aclanthology.org/2025.naacl-long.77/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
