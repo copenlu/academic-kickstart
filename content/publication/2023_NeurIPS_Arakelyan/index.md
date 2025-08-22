@@ -49,7 +49,7 @@ projects = ["knowledge-bases", "question-answering", "explainability"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2301.12313"
+url_pdf = "https://dl.acm.org/doi/10.5555/3666122.3667300"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

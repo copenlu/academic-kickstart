@@ -49,7 +49,7 @@ projects = ["multilingual-learning", "bias-detection"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2104.07505"
+url_pdf = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277640"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

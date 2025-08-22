@@ -1,10 +1,10 @@
 +++
-title = "Unstructured Evidence Attribution for Long Context Query Focused Summarization"
-date = 2025-02-18T00:00:00
+title = "A Meta-Evaluation of Style and Attribute Transfer Metrics"
+date = 2025-08-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Dustin Wright", "Zain Muhammad Mujahid", "Lu Wang", "Isabelle Augenstein", "David Jurgens"]
+authors = ["Amalie Brogaard Pauli", "Isabelle Augenstein", "Ira Assent"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Dustin Wright", "Zain Muhammad Mujahid", "Lu Wang", "Isabelle Augens
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2502.14409"
-publication_short = "In *CoRR*"
+publication = "In Findings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)"
+publication_short = "In *EMNLP*"
 
 # Abstract and optional shortened version.
-abstract = "Large language models (LLMs) are capable of generating coherent summaries from very long contexts given a user query. Extracting and properly citing evidence spans could help improve the transparency and reliability of these summaries. At the same time, LLMs suffer from positional biases in terms of which information they understand and attend to, which could affect evidence citation. Whereas previous work has focused on evidence citation with predefined levels of granularity (e.g. sentence, paragraph, document, etc.), we propose the task of long-context query focused summarization with unstructured evidence citation. We show how existing systems struggle to generate and properly cite unstructured evidence from their context, and that evidence tends to be 'lost-in-the-middle'. To help mitigate this, we create the Summaries with Unstructured Evidence Text dataset (SUnsET), a synthetic dataset generated using a novel domain-agnostic pipeline which can be used as supervision to adapt LLMs to this task. We demonstrate across 5 LLMs of different sizes and 4 datasets with varying document types and lengths that LLMs adapted with SUnsET data generate more relevant and factually consistent evidence than their base models, extract evidence from more diverse locations in their context, and can generate more relevant and consistent summaries."
+abstract = "LLMs make it easy to rewrite text in any style, be it more polite, persuasive, or more positive. We present a large-scale study of evaluation metrics for style and attribute transfer with a focus on content preservation; meaning content not attributed to the style shift is preserved. The de facto evaluation approach uses lexical or semantic similarity metrics often between source sentences and rewrites. While these metrics are not designed to distinguish between style or content differences, empirical meta-evaluation shows a reasonable correlation to human judgment. In fact, recent works find that LLMs prompted as evaluators are only comparable to semantic similarity metrics, even though intuitively, the LLM approach should better fit the task. To investigate this discrepancy, we benchmark 8 metrics for evaluating content preservation on existing datasets and additionally construct a new test set that better aligns with the meta-evaluation aim. Indeed, we then find that the empirical conclusion aligns with the intuition: content preservation metrics for style/attribute transfer must be conditional on the style shift. To support this, we propose a new efficient zero-shot evaluation method using the likelihood of the next token. We hope our meta-evaluation can foster more research on evaluating content preservation metrics, and also to ensure fair evaluation of methods for conducting style transfer."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["limited-data", "explainability"]
+projects = ["limited-data"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["limited-data", "explainability"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2502.14409v1"
+url_pdf = "https://arxiv.org/abs/2502.15022"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

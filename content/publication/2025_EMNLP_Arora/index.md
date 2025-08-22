@@ -1,10 +1,10 @@
 +++
-title = "Explainability and Interpretability of Multilingual Large Language Models: A Survey"
-date = 2025-06-03T00:00:00
+title = "Multi-Modal Framing Analysis of News"
+date = 2025-08-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Lucas Resck", "Isabelle Augenstein", "Anna Korhonen"]
+authors = ["Arnav Arora", "Srishti Yadav", "Maria Antoniak", "Serge Belongie", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Lucas Resck", "Isabelle Augenstein", "Anna Korhonen"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "OpenReview preprint"
-publication_short = "In *OpenReview preprint*"
+publication = "In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)"
+publication_short = "In *EMNLP*"
 
 # Abstract and optional shortened version.
-abstract = "Multilingual large language models (MLLMs) demonstrate state-of-the-art capabilities across diverse cross-lingual and multilingual tasks. Their complex internal mechanisms, however, often lack transparency, posing significant challenges in elucidating their internal processing of multilingualism, cross-lingual transfer dynamics and handling of language-specific features. This paper addresses this critical gap by presenting a survey of current explainability and interpretability methods specifically for MLLMs. To our knowledge, it is the first comprehensive review of its kind. Existing literature is categorised according to the explainability techniques employed, the multilingual tasks addressed, the languages investigated and available resources. The survey further identifies key challenges, distils core findings and outlines promising avenues for future research within this rapidly evolving domain."
+abstract = "Automated frame analysis of political communication is a popular task in computational social science that is used to study how authors select aspects of a topic to frame its reception. So far, such studies have been narrow, in that they use a fixed set of pre-defined frames and focus only on the text, ignoring the visual contexts in which those texts appear. Especially for framing in the news, this leaves out valuable information about editorial choices, which include not just the written article but also accompanying photographs. To overcome such limitations, we present a method for conducting multi-modal and multi-label framing analysis at scale using large language and vision-language models. Grounding our work in framing theory, we extract latent meaning embedded in images used to convey a certain point and contrast that to the text by comparing the respective frames used. We also identify highly partisan framing of topics, with issue-specific frame analysis, found in prior qualitative work. We demonstrate a method for doing scalable integrative framing analysis of both text and image in news, providing a more complete picture for understanding media bias."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["limited-data", "explainability"]
+projects = ["limited-data", "explainability", "fact-checking"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["limited-data", "explainability"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://openreview.net/forum?id=KQjVhM2YhN"
+url_pdf = "https://arxiv.org/abs/2503.20960"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

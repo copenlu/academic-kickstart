@@ -49,7 +49,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2304.08315"
+url_pdf = "https://aclanthology.org/2023.findings-emnlp.932/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

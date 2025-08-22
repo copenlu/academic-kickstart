@@ -49,7 +49,7 @@ projects = ["limited-data", "multilinguality"]
 tags = []
 
 # Links (optional).
-url_pdf = " https://arxiv.org/abs/2305.12376"
+url_pdf = "https://aclanthology.org/2023.findings-acl.170/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

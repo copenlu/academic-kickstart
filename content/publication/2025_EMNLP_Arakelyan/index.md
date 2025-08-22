@@ -1,6 +1,6 @@
 +++
 title = "FLARE: Faithful Logic-Aided Reasoning and Exploration"
-date = 2024-10-15T00:00:00
+date = 2025-08-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Erik Arakelyan", "Pasquale Minervini", "Pat Verga", "Patrick Lewis",
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2410.11900"
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)"
+publication_short = "In *EMNLP*"
 
 # Abstract and optional shortened version.
 abstract = "Modern Question Answering (QA) and Reasoning approaches based on Large Language Models (LLMs) commonly use prompting techniques, such as Chain-of-Thought (CoT), assuming the resulting generation will have a more granular exploration and reasoning over the question space and scope. However, such methods struggle with generating outputs that are faithful to the intermediate chain of reasoning produced by the model. On the other end of the spectrum, neuro-symbolic methods such as Faithful CoT (F-CoT) propose to combine LLMs with external symbolic solvers. While such approaches boast a high degree of faithfulness, they usually require a model trained for code generation and struggle with tasks that are ambiguous or hard to formalise strictly. We introduce Faithful Logic-Aided Reasoning and Exploration (FLARE), a novel interpretable approach for traversing the problem space using task decompositions. We use the LLM to plan a solution, soft-formalise the query into facts and predicates using a logic programming code and simulate that code execution using an exhaustive multi-hop search over the defined space. Our method allows us to compute the faithfulness of the reasoning process w.r.t. the generated code and analyse the steps of the multi-hop search without relying on external solvers. Our methods achieve SOTA results on 7 out of 9 diverse reasoning benchmarks. We also show that model faithfulness positively correlates with overall performance and further demonstrate that (FLARE) allows pinpointing the decisive factors sufficient for and leading to the correct answer with optimal reasoning during the multi-hop search."

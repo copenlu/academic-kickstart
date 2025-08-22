@@ -49,7 +49,7 @@ projects = ["explainability", "bias-detection"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2311.01270"
+url_pdf = "https://aclanthology.org/2023.emnlp-main.649/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

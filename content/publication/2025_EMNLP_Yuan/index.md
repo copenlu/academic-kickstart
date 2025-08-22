@@ -1,10 +1,10 @@
 +++
-title = "PHD: Pixel-Based Language Modeling of Historical Documents"
-date = 2023-10-31T00:00:00
+title = "Graph-Guided Textual Explanation Generation Framework"
+date = 2025-08-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Nadav Borenstein", "Phillip Rust", "Desmond Elliott", "Isabelle Augenstein"]
+authors = ["Shuzhou Yuan", "Jingyi Sun", "Ran Zhang", "Michael Färber", "Steffen Eger", "Pepa Atanasova", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Nadav Borenstein", "Phillip Rust", "Desmond Elliott", "Isabelle Auge
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)"
+publication = "In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)"
 publication_short = "In *EMNLP*"
 
 # Abstract and optional shortened version.
-abstract = "The digitisation of historical documents has provided historians with unprecedented research opportunities. Yet, the conventional approach to analysing historical documents involves converting them from images to text using OCR, a process that overlooks the potential benefits of treating them as images and introduces high levels of noise. To bridge this gap, we take advantage of recent advancements in pixel-based language models trained to reconstruct masked patches of pixels instead of predicting token distributions. Due to the scarcity of real historical scans, we propose a novel method for generating synthetic scans to resemble real historical documents. We then pre-train our model, PHD, on a combination of synthetic scans and real historical newspapers from the 1700-1900 period. Through our experiments, we demonstrate that PHD exhibits high proficiency in reconstructing masked image patches and provide evidence of our model's noteworthy language understanding capabilities. Notably, we successfully apply our model to a historical QA task, highlighting its usefulness in this domain."
+abstract = "Natural language explanations (NLEs) are commonly used to provide plausible free-text explanations of a model's reasoning about its predictions. However, recent work has questioned their faithfulness, as they may not accurately reflect the model's internal reasoning process regarding its predicted answer. In contrast, highlight explanations--input fragments critical for the model's predicted answers--exhibit measurable faithfulness. Building on this foundation, we propose G-Tex, a Graph-Guided Textual Explanation Generation framework designed to enhance the faithfulness of NLEs. Specifically, highlight explanations are first extracted as faithful cues reflecting the model's reasoning logic toward answer prediction. They are subsequently encoded through a graph neural network layer to guide the NLE generation, which aligns the generated explanations with the model's underlying reasoning toward the predicted answer. Experiments on T5 and BART using three reasoning datasets show that G-Tex improves NLE faithfulness by up to 12.18% compared to baseline methods. Additionally, G-Tex generates NLEs with greater semantic and lexical similarity to human-written ones. Human evaluations show that G-Tex can decrease redundant content and enhance the overall quality of NLEs. Our work presents a novel method for explicitly guiding NLE generation to enhance faithfulness, serving as a foundation for addressing broader criteria in NLE and generated text."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["limited-data", "multilinguality"]
+projects = ["explainability", "fact-checking"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["limited-data", "multilinguality"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://aclanthology.org/2023.emnlp-main.7/"
+url_pdf = "https://arxiv.org/abs/2412.12318"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

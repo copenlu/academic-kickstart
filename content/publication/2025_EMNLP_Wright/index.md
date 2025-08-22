@@ -1,10 +1,10 @@
 +++
-title = "Multi-Modal Framing Analysis of News"
-date = 2025-03-13T00:00:00
+title = "Unstructured Evidence Attribution for Long Context Query Focused Summarization"
+date = 2025-08-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Arnav Arora", "Srishti Yadav", "Maria Antoniak", "Serge Belongie", "Isabelle Augenstein"]
+authors = ["Dustin Wright", "Zain Muhammad Mujahid", "Lu Wang", "Isabelle Augenstein", "David Jurgens"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Arnav Arora", "Srishti Yadav", "Maria Antoniak", "Serge Belongie", "
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2503.20960"
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)"
+publication_short = "In *EMNLP*"
 
 # Abstract and optional shortened version.
-abstract = "Automated frame analysis of political communication is a popular task in computational social science that is used to study how authors select aspects of a topic to frame its reception. So far, such studies have been narrow, in that they use a fixed set of pre-defined frames and focus only on the text, ignoring the visual contexts in which those texts appear. Especially for framing in the news, this leaves out valuable information about editorial choices, which include not just the written article but also accompanying photographs. To overcome such limitations, we present a method for conducting multi-modal and multi-label framing analysis at scale using large language and vision-language models. Grounding our work in framing theory, we extract latent meaning embedded in images used to convey a certain point and contrast that to the text by comparing the respective frames used. We also identify highly partisan framing of topics, with issue-specific frame analysis, found in prior qualitative work. We demonstrate a method for doing scalable integrative framing analysis of both text and image in news, providing a more complete picture for understanding media bias."
+abstract = "Large language models (LLMs) are capable of generating coherent summaries from very long contexts given a user query. Extracting and properly citing evidence spans could help improve the transparency and reliability of these summaries. At the same time, LLMs suffer from positional biases in terms of which information they understand and attend to, which could affect evidence citation. Whereas previous work has focused on evidence citation with predefined levels of granularity (e.g. sentence, paragraph, document, etc.), we propose the task of long-context query focused summarization with unstructured evidence citation. We show how existing systems struggle to generate and properly cite unstructured evidence from their context, and that evidence tends to be 'lost-in-the-middle'. To help mitigate this, we create the Summaries with Unstructured Evidence Text dataset (SUnsET), a synthetic dataset generated using a novel domain-agnostic pipeline which can be used as supervision to adapt LLMs to this task. We demonstrate across 5 LLMs of different sizes and 4 datasets with varying document types and lengths that LLMs adapted with SUnsET data generate more relevant and factually consistent evidence than their base models, extract evidence from more diverse locations in their context, and can generate more relevant and consistent summaries."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["limited-data", "explainability", "fact-checking"]
+projects = ["limited-data", "explainability"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["limited-data", "explainability", "fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2503.20960"
+url_pdf = "https://arxiv.org/abs/2502.14409v1"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
