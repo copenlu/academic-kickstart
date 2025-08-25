@@ -1,5 +1,5 @@
 +++
-title = "Oustanding paper award at EACL 2024"
+title = "Outstanding paper award at EACL 2024"
 date = 2024-03-20  # Schedule page publish date.
 draft = false
 

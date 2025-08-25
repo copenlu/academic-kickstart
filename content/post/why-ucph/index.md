@@ -3,7 +3,7 @@ title = "Interested in joining us at the University of Copenhagen?"
 subtitle = "Learn about life and research in the happy capital"
 
 date = 2019-02-02T00:00:00
-lastmod = 2023-11-07T00:00:00
+lastmod = 2025-08-25T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -110,16 +110,16 @@ Lastly, another reason to move to Copenhagen is that academic salaries compare v
 
 ## NLP Research at the University of Copenhagen
 
-The NLP Section at the University of Copenhagen is currently home to [four faculty members](https://di.ku.dk/english/research/nlp/) and many postdocs and PhD students, who work on topics including natural language understanding, multi-lingual learning, automatic fact checking, machine translation and multi-modal learning.
+The NLP Section at the University of Copenhagen is currently home to [five faculty members](https://di.ku.dk/english/research/nlp/) and many postdocs and PhD students, who work on topics including natural language understanding, multi-lingual learning, automatic fact checking, machine translation and multi-modal learning.
 
-NLP at the University of Copenhagen as a whole is highly productive and internationally well-regarded. For instance, we are ranked [2nd in Europe and 19th in the world on CSRankings for NLP](https://csrankings.org/#/fromyear/2023/toyear/2023/index?nlp&europe)), and were host to EMNLP 2017.
+NLP at the University of Copenhagen as a whole is highly productive and internationally well-regarded. For instance, we are ranked [2nd in Europe and 19th in the world on CSRankings for NLP](https://csrankings.org/#/fromyear/2023/toyear/2023/index?nlp&europe)), and were host of EMNLP 2017. The University of Copenhagen also consistently ranks in the [top 100 of universities worldwide](https://about.ku.dk/facts-figures/rankings/).
 
 
 ## Applying for a PhD
 
-PhD programs at the University of Copenhagen, and in Denmark in general, are fairly compact; students are expected to submit their thesis after three years, while an extension of one year can be granted. PhD students do not have to take courses during their studies, as they are expected to have completed a Master's degree already. There are benefits and downsides to such a program structure, of course, and a more opinionated take on this can be found in this [Quora post](https://www.quora.com/Which-is-a-better-option-a-PhD-in-NLP-at-the-University-of-Copenhagen-or-University-of-California-at-Berkeley).
+PhD programmes at the University of Copenhagen, and in Denmark in general, are fairly compact; students are expected to submit their thesis after three years. This means PhD students are typically expected to have completed a Master's degree already. Depending on the funding source for the PhD, an integrated MSc+PhD may be possible, though only through extension of the enrollment period by 1-2 years. There are benefits and downsides to such a programme structure, of course, and a more opinionated take on this can be found in this [Quora post](https://www.quora.com/Which-is-a-better-option-a-PhD-in-NLP-at-the-University-of-Copenhagen-or-University-of-California-at-Berkeley).
 
-There are [generally three routes to applying for a PhD](https://www.science.ku.dk/english/research/phd/student/studystructure/):
+There are [generally three routes to applying for a PhD](https://science.ku.dk/phd/studystructure/):
 
 - applying for a fully-funded position;
 - applying with external funding;
@@ -127,11 +127,11 @@ There are [generally three routes to applying for a PhD](https://www.science.ku.
 
 The first option is undoubtedly the most common one. Therein, a PhD fellowship is provided through a funded project, and the position is advertised on the [KU job portal](https://employment.ku.dk/phd/). The successful candidate becomes an employee at the University of Copenhagen, and in addition a PhD candidate registered with the [PhD School](https://www.science.ku.dk/phd/). Depending on the funding source, a broad research topic is either already provided, or the topic is completely open. The Pioneer Centre for AI has an annual call for PhD positions with a deadline in Spring, typically a combination of pre-defined and open topic positions, which are additionally advertised on the [Pioneer Centre's website](https://www.aicentre.dk/jobs). Available positions in our group are also always advertised on the [CopeNLU website](http://www.copenlu.com/#news).
 
-The second option requires the PhD candidate to scure external funding to cover living expenses in Denmark for a three-year period. Funding can, for instance, come from a governmental scholarship programme, or from a central PhD funding call, such as the one by the [Danish Data Science Academy (DDSA)](https://ddsa.dk/phdfellowshipprogramme/). For this, the candidate should contact the potential supervisor for their support to apply to the external funding programme, and, if funding is secured, apply for admission to the PhD School afterwards.
+The second option requires the PhD candidate to secure external funding to cover living expenses in Denmark for a three-year period. Funding can, for instance, come from a governmental scholarship programme, or from a central PhD funding call, such as the one by the [Danish Data Science Academy (DDSA)](https://ddsa.dk/phdfellowshipprogramme/) or the [Danish Advanced Research Academy (DARA)](https://www.daracademy.dk/fellowships). For this, the candidate should contact the potential supervisor for their support to apply to the external funding programme, and, if funding is secured, apply for admission to the PhD School afterwards.
 
-The third option is something fairly special to Denmark -- PhD students can study towards their PhD, while working at a company at the same time roughly one day a week. These PhD projects tend to be more applied and the topic for them is defined based on an agreement between the PhD advisor and the company. Funding for such projects is either obtained with or without a candidate for the position. As with the other two options, the PhD student is enrolled at the Doctoral School.
+The third option is something fairly special to Denmark -- PhD students can study towards their PhD, while working at a company at the same time roughly one day a week. These PhD projects tend to be more applied and the topic for them is defined based on an agreement between the PhD advisor and the company. Funding for such projects is either obtained with or without a candidate for the position, typically through an [Innovation Fund Denmark Industrial Researcher grant](https://innovationsfonden.dk/en/p/industrial-researcher). As with the other two options, the PhD student is enrolled at the Doctoral School.
 
-Additionally, candidates can express their interest for a PhD position by applying to the [ELLIS PhD Programme](https://ellis.eu/news/ellis-phd-program-call-for-applications-2023). ELLIS is a central recruitment vehicle for AI labs across Europe and thus not directly offer PhD funding, so a dual application for external funding is required.
+Additionally, candidates can express their interest for a PhD position by applying to the [ELLIS PhD Programme](https://ellis.eu/phd-postdoc). ELLIS is a central recruitment vehicle for AI labs across Europe and thus not directly offer PhD funding, so a dual application for external funding is required.
 
 More information on the enrollment process at the Science Faculty Doctoral School is listed [here](https://science.ku.dk/phd/).
 
@@ -146,11 +146,11 @@ The routes to getting a postdoc position are very similar to those for a PhD pos
 - applying with external funding;
 - applying for an industrial PhD.
 
-Funded postdoc positions are often advertised on the [KU job portal](https://employment.ku.dk/faculty/), though 1-year postdoc contracts can be offered without open calls. The postdoc topic varies widely based on the funding source. As for PhD positions, the Pioneer Centre for AI provides funding for postdocs, see the [Pioneer Centre's website](https://www.aicentre.dk/jobs), and positions are advertised Available positions in our group are also always advertised on [CopeNLU website](http://www.copenlu.com/#news).
+Funded postdoc positions are typically advertised on the [KU job portal](https://employment.ku.dk/faculty/), though 1-year postdoc contracts can be offered without open calls. The postdoc topic varies widely based on the funding source. As for PhD positions, the Pioneer Centre for AI provides funding for postdocs, see the [Pioneer Centre's website](https://www.aicentre.dk/jobs), and available positions in our group are also always advertised on [CopeNLU website](http://www.copenlu.com/#news).
 
 It is, furthermore, possible to start as a postdoc with already obtained funding, e.g. individual research fellowships. The topic for those is typically open and decided by the postdoc candidate. For some fellowship schemes, applications are made jointly with the host -- an example or this is the [Danish Data Science Academy (DDSA) postdoctoral fellowship programme](https://ddsa.dk/postdocfellowshipprogramme/). Get in touch if you are interested in this option.
 
-Lastly, industrial postdoc programs means a researcher works both at a university and at a company, roughly one day a week. The postdoc topic is typically more application-oriented and defined based on an agreement between the advisor and the company. Funding is either agreed upon with or without a candidate for the position.
+Lastly, industrial postdoc programs means a researcher works both at a university and at a company, roughly one day a week. The postdoc topic is typically more application-oriented and defined based on an agreement between the advisor and the company. Funding is either agreed upon with or without a candidate for the position, typically through an [Innovation Fund Denmark Industrial Researcher grant](https://innovationsfonden.dk/en/p/industrial-researcher).
 
 
 ## CopeNLU Group
@@ -163,5 +163,5 @@ CopeNLU is headed by [Isabelle Augenstein](http://isabelleaugenstein.github.io/)
 
 ## Visiting the Group
 
-We are always open to short or longer-term visitors to the group, but do **not** provide internships for Bachelor's or Master's students. Funding for visits can typically not be provided, with the exception of invited speakers who give a talk at the Pioneer Centre or the [SCIENCE AI Seminar Series](https://ai.ku.dk/ai-seminar-series/).
+We are always open to short or longer-term visitors to the group, but do **not** provide internships for Bachelor's or Master's students. Funding for visits can typically not be provided, with the exception of invited speakers who give a talk at the Pioneer Centre or the [SCIENCE AI Seminar Series](https://ai.ku.dk/ai-seminar-series/). For visits by PhD students, postdocs or faculty members, we are happy to support applications for travel grants.
 
