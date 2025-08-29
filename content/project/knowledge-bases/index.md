@@ -2,6 +2,9 @@
 # Project title.
 title = "Knowledge Base Population"
 
+# Short name for buttons
+short_name = "Knowledge Bases"
+
 # Date this page was created.
 date = 2016-03-27T00:00:00
 

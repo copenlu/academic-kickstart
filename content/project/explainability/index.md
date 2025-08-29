@@ -2,6 +2,9 @@
 # Project title.
 title = "Explainable Machine Learning"
 
+# Short name for buttons
+short_name = "Explainability"
+
 # Date this page was created.
 date = 2019-10-01T00:00:00
 

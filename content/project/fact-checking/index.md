@@ -2,6 +2,9 @@
 # Project title.
 title = "Stance Detection and Fact Checking"
 
+# Short name for buttons
+short_name = "Fact Checking"
+
 # Date this page was created.
 date = 2020-08-30T00:00:00
 

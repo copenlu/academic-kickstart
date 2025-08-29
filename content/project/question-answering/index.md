@@ -2,6 +2,9 @@
 # Project title.
 title = "Question Answering"
 
+# Short name for buttons
+short_name = "Question Answering"
+
 # Date this page was created.
 date = 2016-04-27T00:00:00
 

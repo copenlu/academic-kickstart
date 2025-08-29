@@ -2,6 +2,9 @@
 # Project title.
 title = "Learning with Limited Labelled Data"
 
+# Short name for buttons
+short_name = "Limited Data"
+
 # Date this page was created.
 date = 2020-08-31T00:00:00
 

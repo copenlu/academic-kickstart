@@ -2,6 +2,9 @@
 # Project title.
 title = "Social Bias Detection"
 
+# Short name for buttons
+short_name = "Bias Detection"
+
 # Date this page was created.
 date = 2018-04-26T00:00:00
 

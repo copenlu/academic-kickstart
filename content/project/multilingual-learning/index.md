@@ -2,6 +2,9 @@
 # Project title.
 title = "Multilingual Learning and Multicultural Learning"
 
+# Short name for buttons
+short_name = "Multilingual"
+
 # Date this page was created.
 date = 2017-04-27T00:00:00
 

@@ -2,6 +2,9 @@
 # Project title.
 title = "Scholarly Data Processing"
 
+# Short name for buttons
+short_name = "Scholarly Data"
+
 # Date this page was created.
 date = 2017-04-26T00:00:00
 
