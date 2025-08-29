@@ -1,6 +1,6 @@
 {{ $ := .root }}
 {{ $page := .page }}
-{{ $talks_len := len (where $.Site.RegularPages "Type" "talk") }}
+{{ $talks_len := len (where $.Site.RegularPages "Type" "news") }}
 
 <!-- Talks widget -->
 <div class="row">
@@ -9,7 +9,7 @@
     {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
     {{ if gt $talks_len $page.Params.count }}
     <p class="view-all">
-      <a href="{{ ($.Site.GetPage "section" "talk").RelPermalink }}">
+      <a href="{{ ($.Site.GetPage "section" "news").RelPermalink }}">
         {{ if eq $page.Title "News" }}
           More News
         {{ else }}
@@ -23,7 +23,7 @@
   <div class="col-12 col-lg-8">
     {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
 
-    {{ $.Scratch.Set "talks" (where $.Site.RegularPages "Type" "talk") }}
+    {{ $.Scratch.Set "talks" (where $.Site.RegularPages "Type" "news") }}
 
     {{/* Exclude talks shown in Featured Talks widget? */}}
     {{ if $page.Params.exclude_featured }}
