@@ -1,6 +1,6 @@
 +++
 title = "5 Papers Accepted to EMNLP 2024"
-date = 2023-11-07  # Schedule page publish date.
+date = 2024-11-07  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -65,7 +65,7 @@ math = false
   focal_point = "Right"
 +++
 
-5 papers by CopeNLU authors are accepted to appear at EMNLP 2023, on topics including factuality and probing for bias.
+5 papers by CopeNLU authors are accepted to appear at EMNLP 2024, on topics including factuality and probing for bias.
 
 <a href="/publication/2024_emnlp_manerba/">Social Bias Probing: Fairness Benchmarking for Language Models</a>.
 <a href="/marta-marchiori-manerba/">Marta Marchiori Manerba</a>, <a href="/authors/karolina-sta%C5%84czak/">Karolina Stańczak</a>, <a href="/authors/riccardo-guidotti/">Riccardo Guidotti</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>.
