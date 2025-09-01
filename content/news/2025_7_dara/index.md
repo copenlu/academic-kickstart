@@ -1,7 +1,7 @@
 +++
 title = "Open-topic PhD fellowships available as part of DARA"
 date = 2025-06-26  # Schedule page publish date.
-draft = false
+draft = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -18,7 +18,7 @@ abstract_short = "The Danish Advanced Research Academy (DARA) is calling for PhD
 # abstract_short = "25 Marie Skłodowska-Curie PhD fellowships available at the University of Copenhagen Faculty of Science"
 
 # Name of event and optional event URL.
-event = "Carlsberg PhD Fellowship Call"
+event = "DARA PhD Fellowship Call"
 # event_url = "https://daracademy.dk/fellowship/fellowships-summer-2025"
 
 # Location of event.
