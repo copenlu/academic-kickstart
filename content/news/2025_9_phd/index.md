@@ -69,7 +69,7 @@ Would you like to join our lab as a PhD student in 2026? We have several opening
 
 ## Start in Spring 2026 
 
-A fully funded 3-year PhD fellowship on **explainable natural language understanding** for a start in **Spring 2026** is available as part of the '<a href="https://erc.europa.eu/news/erc-2021-starting-grants-results">ExplainYourself project</a> on Explainable and Robust Automatic Fact Checking. The position requires a Master's degree. The successful candidate will be supervised by <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and co-supervised by <a href="https://apepa.github.io/">Pepa Atanasova</a>.
+A fully funded 3-year PhD fellowship on **explainable natural language understanding** for a start in **Spring 2026** is available as part of the <a href="https://erc.europa.eu/news/erc-2021-starting-grants-results">ExplainYourself project</a> on Explainable and Robust Automatic Fact Checking. The position requires a Master's degree. The successful candidate will be supervised by <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and co-supervised by <a href="https://apepa.github.io/">Pepa Atanasova</a>.
 Read more about the position and apply <a href="https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&departmentId=18970&ProjectId=164789&MediaId=5&SkipAdvertisement=false">here</a> by **31 October 2025**.
 
 The project is funded by an ERC Starting Grant, a highly competitive funding program by the <a href="https://erc.europa.eu/homepage">European Research Council</a> which supports the most talented early-career scientists in Europe with funding for a period of 5 years for blue-skies research to build up or expand their research groups.
