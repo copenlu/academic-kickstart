@@ -14,7 +14,7 @@ authors = []
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = "We are recruiting PhD students interested in explainable NLU for a start in Spring 2026 as part of the ExplainYourself project, as well PhD students on any topic within the focus areas of our lab for a start in Autumn 2026 via ELLIS."
+abstract_short = "We are recruiting 1) PhD students interested in explainable NLU for a start in Spring 2026 as part of the ExplainYourself project, 2) a PhD student interested in Trustworthy NLP for a start in Spring 2026, and 3) PhD students on any topic within the focus areas of our lab for a start in Autumn 2026 via ELLIS."
 # abstract_short = "25 Marie Skłodowska-Curie PhD fellowships available at the University of Copenhagen Faculty of Science"
 
 # Name of event and optional event URL.
@@ -68,6 +68,9 @@ math = false
 Would you like to join our lab as a PhD student in 2026? We have several openings. Read more about reasons to join CopeNLU <a href="/post/why-ucph/">here</a>.
 
 ## Start in Spring 2026 
+We have **two fully funded 3-year PhD fellowships** available for a start in Spring 2026:
+
+**Position 1: Explainable Natural Language Understanding**
 
 A fully funded 3-year PhD fellowship on **explainable natural language understanding** for a start in **Spring 2026** is available as part of the <a href="https://erc.europa.eu/news/erc-2021-starting-grants-results">ExplainYourself project</a> on Explainable and Robust Automatic Fact Checking. The position requires candidates to have completed a Master's degree by the start date. The successful candidate will be supervised by <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and co-supervised by <a href="https://apepa.github.io/">Pepa Atanasova</a>.
 Read more about the position and apply <a href="https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&departmentId=18970&ProjectId=164789&MediaId=5&SkipAdvertisement=false">here</a> by **31 October 2025**.
@@ -78,6 +81,11 @@ ExplainYourself proposes to study explainable automatic fact checking, the task 
 
 In addition to the principal investigator, PhD students and postdocs, the project team includes collaborators from CopeNLU as well as external collaborators. Three PhD students as well as two postdocs have already been recruited as a result of earlier calls, and the project officially <a href="/news/2023_09_explainyourself/">kicked off in September 2023</a>.
 
+**Position 2: Trustworthy Natural Language Processing**
+
+A PhD fellowship in **Trustworthy Natural Language Processing** with expected **start date of 1st March 2026** (or as soon as possible thereafter). The successful candidate will engage in developing innovative methods for trustworthy NLP models, including but not limited to mechanistic interpretability, explainability, reasoning, factuality, safety mechanisms, and practical applications of trustworthy AI. This independent fellowship offers flexibility in developing your research direction within trustworthy NLP, tailored in collaboration with the candidate to align their interests and the group's research goals. The fellowship is offered with <a href="https://apepa.github.io/">Pepa Atanasova</a> as the main project supervisor and will be co-supervised by <a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a>. 
+
+Read more about the position and apply <a href="https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1307&ProjectId=164924&DepartmentId=18970&MediaId=5&IsAdPreviewRequest=true&AdvertisementId=118926">here</a> by **31 October 2025**.
 
 ## Start in Autumn 2026 
 
