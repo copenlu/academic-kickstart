@@ -1,22 +1,22 @@
 +++
 # Display name
-title = "Qianli Wang"
+title = "Yijun Bian"
 
 # Role/position
-role = "PhD Intern"
+role = "Postdoc"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Qianli is a PhD student at TU Berlin & DFKI and was visiting CopeNLU in Summer/Autumn 2025. His research interests are explainability, faithfulness, and multilinguality."
+bio = "Yijun is a Marie-Curie postdoctoral fellow working on fair and interpretable ML."
 
 # External website link
-external_link = "https://qiaw99.github.io/"
+external_link = "https://eustomadew.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-13T16:07:01
+date = 2018-12-22T16:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Alumni"]
+tags = ["Members"]
 
 # Social/Academic Networking
 #
@@ -39,42 +39,35 @@ tags = ["Alumni"]
 [[social]]
 icon = "envelope"
 icon_pack = "fas"
-link = "mailto:qianli.wang@tu-berlin.de"  # For a direct email link, use "mailto:test@example.org".
-
-[[social]]
-icon = "twitter"
-icon_pack = "fab"
-link = "https://x.com/qiaw991"
+link = "mailto:yibi@di.ku.dk"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
 icon = "linkedin"
 icon_pack = "fab"
-link = "https://www.linkedin.com/in/qianliwang/"
+link = "https://www.linkedin.com/in/yijunbian/"
 
 [[social]]
-  icon = "bluesky"
-  icon_pack = "fab"
-  link = "https://bsky.app/profile/qiaw99.bsky.social"
+icon = "linkedin"
+icon_pack = "fab"
+link = "https://eustomadew.github.io/"
 
 [[social]]
 icon = "google-scholar"
 icon_pack = "ai"
-link = "https://scholar.google.com/citations?user=dKmUzp4AAAAJ"
+link = "https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en"
 
 [[social]]
 icon = "github"
 icon_pack = "fab"
-link = "https://github.com/qiaw99"
+link = "https://github.com/eustomaqua"
 
 
 # Optional external URL for project (replaces project detail page).
-# external_link = "http://example.org"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  # caption = "Photo by Toa Heftiba on Unsplash"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
