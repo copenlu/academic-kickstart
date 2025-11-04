@@ -36,7 +36,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ['explainability', 'limited-data', 'fact-checking', 'gender-bias']
+tags = ['explainability', 'limited-data', 'fact-checking', 'bias-detection']
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -68,7 +68,7 @@ math = false
 5 papers by CopeNLU authors are accepted to appear at EMNLP 2024, on topics including factuality and probing for bias.
 
 <a href="/publication/2024_emnlp_manerba/">Social Bias Probing: Fairness Benchmarking for Language Models</a>.
-<a href="/marta-marchiori-manerba/">Marta Marchiori Manerba</a>, <a href="/authors/karolina-sta%C5%84czak/">Karolina Stańczak</a>, <a href="/authors/riccardo-guidotti/">Riccardo Guidotti</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>.
+<a href="/authors/marta-marchiori-manerba/">Marta Marchiori Manerba</a>, <a href="/authors/karolina-sta%C5%84czak/">Karolina Stańczak</a>, <a href="/authors/riccardo-guidotti/">Riccardo Guidotti</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>.
 
 <a href="/publication/2024_emnlp_svete/">Can Transformers Learn n-gram Language Models?</a>.
 <a href="/authors/anej-svete/">Anej Svete</a>, <a href="/authors/nadav-borenstein/">Nadav Borenstein</a>, <a href="/authors/mike-zhou/">Mike Zhou</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>, <a href="/authors/ryan-cotterell/">Ryan Cotterell</a>.
