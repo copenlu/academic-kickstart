@@ -65,7 +65,7 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
 +++
-Would you like to join our lab as a PhD student or postdoc in autumn 2026? We have openings on a new interdisciplinary project on <a href="https://dff.dk/en/our-funded-projects/see-an-overview-of-supported-research/?Bevilling.PolitiskTemaDK=Research%20on%20artificial%20intelligence&Bevilling.Finanslovsaar=2025&page=1">"Human-Centered Explainable Retrieval-Augmented LLMs"</a> funded by the <a href="https://dff.dk/en/">Independent Research Foundation Denmark</a>, led by <a href="https://isabelleaugenstein.github.io/">Isabelle Augenstein and <a href="https://scholar.google.com/citations?user=ufIlFCIAAAAJ&hl=en">Irina Shklovski</a>. Read more about reasons to join CopeNLU <a href="/post/why-ucph/">here</a>.
+Would you like to join our lab as a PhD student or postdoc in autumn 2026? We have openings on a new interdisciplinary project on <a href="https://dff.dk/en/our-funded-projects/see-an-overview-of-supported-research/?Bevilling.PolitiskTemaDK=Research%20on%20artificial%20intelligence&Bevilling.Finanslovsaar=2025&page=1">"Human-Centered Explainable Retrieval-Augmented LLMs"</a> funded by the <a href="https://dff.dk/en/">Independent Research Foundation Denmark</a>, led by <a href="https://isabelleaugenstein.github.io/">Isabelle Augenstein</a> and <a href="https://scholar.google.com/citations?user=ufIlFCIAAAAJ&hl=en">Irina Shklovski</a>. Read more about reasons to join CopeNLU <a href="/post/why-ucph/">here</a>.
 
 
 ## PhD position
