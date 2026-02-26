@@ -47,6 +47,11 @@ icon_pack = "fab"
 link = "https://www.linkedin.com/in/sarahmasud/"
 
 [[social]]
+icon = "bluesky"
+icon_pack = "fab"
+link = "https://bsky.app/profile/themessier.bsky.social"
+
+[[social]]
 icon = "google-scholar"
 icon_pack = "ai"
 link = "https://scholar.google.com/citations?user=jxe2vbQAAAAJ"
