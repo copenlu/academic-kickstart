@@ -6,7 +6,7 @@ title = "Francesco Pierri"
 role = "Visiting Researcher"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Francesco Pierri is an Assistant Professor at Politecnico di Milano, Italy. His research examines misinformation, AI search engines, and human–AI interactions to develop data-driven approaches for trustworthy and accountable AI-mediated platforms."
+bio = "Francesco Pierri is an Assistant Professor at Politecnico di Milano, Italy, working mainly on misinformation, AI search engines, and human–AI interactions. He was visiting CopeNLU in Spring 2026."
 
 # External website link
 external_link = "https://pierri.faculty.polimi.it/"
@@ -16,7 +16,7 @@ date = 2018-12-25T16:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

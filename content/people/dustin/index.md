@@ -8,7 +8,7 @@ role = "Postdoc"
 
 # Short bio (displayed in user profile at end of posts)
 # bio = "Dustin's research interests include fact checking and knowledge base population, with a focus on scientific texts. He was PhD in CopeNLU from 2019 to 2023, and is now a postdoctoral researcher in the DIKU ML section."
-bio = "Dustin is a DDSA postdoctoral fellow, working on scientific natural language understanding and faithful text generation."
+bio = "Dustin did his PhD in CopeNLU from 2019 to 2023 and later joined our group as a DDSA postdoctoral fellow, working on scientific natural language understanding and faithful text generation. He is now a Tenure Track Assistant Professor at Aalborg University Copenhagen."
 
 # External website link#
 external_link = "https://dustinbwright.com/"
@@ -18,7 +18,7 @@ date = 2019-01-01T16:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #
