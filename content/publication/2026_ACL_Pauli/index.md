@@ -1,10 +1,10 @@
 +++
-title = "CUB: Benchmarking Context Utilisation Techniques for Language Models"
-date = 2025-05-26T00:00:00
+title = "Analysing Differences in Persuasive Language in LLM-Generated Text: Uncovering Stereotypical Gender Patterns"
+date = 2026-04-09T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Lovisa Hagström", "Youna Kim", "Haeun Yu", "Sang-goo Lee", "Richard Johansson", "Hyunsoo Cho", "Isabelle Augenstein"]
+authors = ["Amalie Brogaard Pauli", "Maria Barrett", "Max Müller-Eberstein", "Isabelle Augenstein", "Ira Assent"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Lovisa Hagström", "Youna Kim", "Haeun Yu", "Sang-goo Lee", "Richard
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2505.16518"
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)"
+publication_short = "In *ACL*"
 
 # Abstract and optional shortened version.
-abstract = "Incorporating external knowledge is crucial for knowledge-intensive tasks, such as question answering and fact checking. However, language models (LMs) may ignore relevant information that contradicts outdated parametric memory or be distracted by irrelevant contexts. While many context utilisation manipulation techniques (CMTs) that encourage or suppress context utilisation have recently been proposed to alleviate these issues, few have seen systematic comparison. In this paper, we develop CUB (Context Utilisation Benchmark) to help practitioners within retrieval-augmented generation (RAG) identify the best CMT for their needs. CUB allows for rigorous testing on three distinct context types, observed to capture key challenges in realistic context utilisation scenarios. With this benchmark, we evaluate seven state-of-the-art methods, representative of the main categories of CMTs, across three diverse datasets and tasks, applied to nine LMs. Our results show that most of the existing CMTs struggle to handle the full set of types of contexts that may be encountered in real-world retrieval-augmented scenarios. Moreover, we find that many CMTs display an inflated performance on simple synthesised datasets, compared to more realistic datasets with naturally occurring samples. Altogether, our results show the need for holistic tests of CMTs and the development of CMTs that can handle multiple context types."
+abstract = "Large language models (LLMs) are increasingly used for everyday communication tasks, including drafting interpersonal messages intended to influence and persuade. Prior work has shown that LLMs can successfully persuade humans and amplify persuasive language. It is therefore essential to understand how user instructions affect the generation of persuasive language, and to understand whether the generated persuasive language differs, for example, when targeting different groups. In this work, we propose a framework for evaluating how persuasive language generation is affected by recipient gender, sender intent, or output language. We evaluate 13 LLMs and 16 languages using pairwise prompt instructions. We evaluate model responses on 19 categories of persuasive language using an LLM-as-judge setup grounded in social psychology and communication science. Our results reveal significant gender differences in the persuasive language generated across all models. These patterns reflect biases consistent with gender-stereotypical linguistic tendencies documented in social psychology and sociolinguistics."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["explanability", "fact-checking"]
+projects = ["bias-detection", "fact-checking"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["explanability", "fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2505.16518"
+url_pdf = "https://arxiv.org/abs/2601.05751"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

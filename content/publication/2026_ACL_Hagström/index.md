@@ -1,10 +1,10 @@
 +++
-title = "Explaining Sources of Uncertainty in Automated Fact-Checking"
-date = 2025-05-26T00:00:00
+title = "CUB: Benchmarking Context Utilisation Techniques for Language Models"
+date = 2026-04-09T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jingyi Sun", "Greta Warren", "Irina Shklovski", "Isabelle Augenstein"]
+authors = ["Lovisa Hagström", "Youna Kim", "Haeun Yu", "Sang-goo Lee", "Richard Johansson", "Hyunsoo Cho", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Jingyi Sun", "Greta Warren", "Irina Shklovski", "Isabelle Augenstein
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2505.17855"
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)"
+publication_short = "In *ACL*"
 
 # Abstract and optional shortened version.
-abstract = "Understanding sources of a model's uncertainty regarding its predictions is crucial for effective human-AI collaboration. Prior work proposes using numerical uncertainty or hedges ('I'm not sure, but ...'), which do not explain uncertainty that arises from conflicting evidence, leaving users unable to resolve disagreements or rely on the output. We introduce CLUE (Conflict-and-Agreement-aware Language-model Uncertainty Explanations), the first framework to generate natural language explanations of model uncertainty by (i) identifying relationships between spans of text that expose claim-evidence or inter-evidence conflicts and agreements that drive the model's predictive uncertainty in an unsupervised way, and (ii) generating explanations via prompting and attention steering that verbalize these critical interactions. Across three language models and two fact-checking datasets, we show that CLUE produces explanations that are more faithful to the model's uncertainty and more consistent with fact-checking decisions than prompting for uncertainty explanations without span-interaction guidance. Human evaluators judge our explanations to be more helpful, more informative, less redundant, and more logically consistent with the input than this baseline. CLUE requires no fine-tuning or architectural changes, making it plug-and-play for any white-box language model. By explicitly linking uncertainty to evidence conflicts, it offers practical support for fact-checking and generalises readily to other tasks that require reasoning over complex information."
+abstract = "Incorporating external knowledge is crucial for knowledge-intensive tasks, such as question answering and fact checking. However, language models (LMs) may ignore relevant information that contradicts outdated parametric memory or be distracted by irrelevant contexts. While many context utilisation manipulation techniques (CMTs) that encourage or suppress context utilisation have recently been proposed to alleviate these issues, few have seen systematic comparison. In this paper, we develop CUB (Context Utilisation Benchmark) to help practitioners within retrieval-augmented generation (RAG) identify the best CMT for their needs. CUB allows for rigorous testing on three distinct context types, observed to capture key challenges in realistic context utilisation scenarios. With this benchmark, we evaluate seven state-of-the-art methods, representative of the main categories of CMTs, across three diverse datasets and tasks, applied to nine LMs. Our results show that most of the existing CMTs struggle to handle the full set of types of contexts that may be encountered in real-world retrieval-augmented scenarios. Moreover, we find that many CMTs display an inflated performance on simple synthesised datasets, compared to more realistic datasets with naturally occurring samples. Altogether, our results show the need for holistic tests of CMTs and the development of CMTs that can handle multiple context types."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -49,7 +49,7 @@ projects = ["explanability", "fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2505.17855"
+url_pdf = "https://arxiv.org/abs/2505.16518"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

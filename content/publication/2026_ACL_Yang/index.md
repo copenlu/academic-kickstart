@@ -1,10 +1,10 @@
 +++
-title = "Analysing Differences in Persuasive Language in LLM-Generated Text: Uncovering Stereotypical Gender Patterns"
-date = 2026-01-14T00:00:00
+title = "Reliable Evaluation Protocol for Low-Precision Retrieval"
+date = 2026-04-09T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Amalie Brogaard Pauli", "Maria Barrett", "Max Müller-Eberstein", "Isabelle Augenstein", "Ira Assent"]
+authors = ["Kisu Yang", "Yoonna Jang", "Hwanseok Jang", "Kenneth Choi", "Isabelle Augenstein", "Heuiseok Lim"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Amalie Brogaard Pauli", "Maria Barrett", "Max Müller-Eberstein", "I
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2601.05751"
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)"
+publication_short = "In *ACL*"
 
 # Abstract and optional shortened version.
-abstract = "Large language models (LLMs) are increasingly used for everyday communication tasks, including drafting interpersonal messages intended to influence and persuade. Prior work has shown that LLMs can successfully persuade humans and amplify persuasive language. It is therefore essential to understand how user instructions affect the generation of persuasive language, and to understand whether the generated persuasive language differs, for example, when targeting different groups. In this work, we propose a framework for evaluating how persuasive language generation is affected by recipient gender, sender intent, or output language. We evaluate 13 LLMs and 16 languages using pairwise prompt instructions. We evaluate model responses on 19 categories of persuasive language using an LLM-as-judge setup grounded in social psychology and communication science. Our results reveal significant gender differences in the persuasive language generated across all models. These patterns reflect biases consistent with gender-stereotypical linguistic tendencies documented in social psychology and sociolinguistics."
+abstract = "Lowering the numerical precision of model parameters and computations is widely adopted to improve the efficiency of retrieval systems. However, when computing relevance scores between the query and documents in low-precision, we observe spurious ties due to the reduced granularity. This introduces high variability in the results based on tie resolution, making the evaluation less reliable. To address this, we propose a more robust retrieval evaluation protocol designed to reduce score variation. It consists of: (1) High-Precision Scoring (HPS), which upcasts the final scoring step to higher precision to resolve tied candidates with minimal computational cost; and (2) Tie-aware Retrieval Metrics (TRM), which report expected scores, range, and bias to quantify order uncertainty of tied candidates. Our experiments test multiple models with three scoring functions on two retrieval datasets to demonstrate that HPS dramatically reduces tie-induced instability, and TRM accurately recovers expected metric values. This combination enables a more consistent and reliable evaluation system for lower-precision retrievals."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["bias-detection", "fact-checking"]
+projects = ["limited-data"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["bias-detection", "fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2601.05751"
+url_pdf = "https://arxiv.org/abs/2508.03306"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
