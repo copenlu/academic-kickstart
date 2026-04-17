@@ -12,7 +12,7 @@ bio = "Francesco Pierri is an Assistant Professor at Politecnico di Milano, Ital
 external_link = "https://pierri.faculty.polimi.it/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2018-12-25T16:07:01
+date = 2026-03-31T00:00:00
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

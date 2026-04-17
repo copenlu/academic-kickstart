@@ -6,7 +6,7 @@ title = "Nadya Yuki Wangsajaya"
 role = "Visiting Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Yuki is a visiting bachelor student from Nanyang Technological University, Singapore. Her research focuses on trustworthy and explainable LMs."
+bio = "Yuki is a visiting bachelor's student from Nanyang Technological University, Singapore. Her research focuses on trustworthy and explainable LMs."
 
 # External website link
 external_link = "https://yukiwukii.github.io"

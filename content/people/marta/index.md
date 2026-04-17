@@ -13,7 +13,7 @@ bio = "Marta's research interests are explainability and fairness, with a focus 
 external_link = "https://martamarchiori.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-02-05T17:07:01
+date = 2023-07-31T00:00:00
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

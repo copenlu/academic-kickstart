@@ -12,7 +12,8 @@ bio = "Klim is a Postdoctoral Researcher at Aarhus University. He was visiting C
 external_link = "https://klimzaporojets.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-01-27T17:07:01
+date = 2022-04-30T00:00:00
+
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

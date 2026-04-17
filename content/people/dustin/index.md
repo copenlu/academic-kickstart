@@ -14,7 +14,7 @@ bio = "Dustin did his PhD in CopeNLU from 2019 to 2023 and later joined our grou
 external_link = "https://dustinbwright.com/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-01T16:07:01
+date = 2026-01-14T00:00:00
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

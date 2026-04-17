@@ -12,7 +12,7 @@ bio = "Nodens is interested in interpretability and bio-inspired models. He is n
 external_link = "https://scholar.google.co.uk/citations?user=4Lv9jRIAAAAJ"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-01-28T17:07:01
+date = 2024-08-31T00:00:00
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

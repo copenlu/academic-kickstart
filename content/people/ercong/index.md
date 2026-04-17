@@ -12,7 +12,7 @@ bio = "Ercong is a PhD student at LMU Munich whose research interests include mu
 external_link = "https://ercong21.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-01T16:07:01
+date = 2024-10-16T00:00:00
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

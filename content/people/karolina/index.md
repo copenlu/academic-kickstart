@@ -12,7 +12,7 @@ bio = "Karolina's research interests include gender-biased language detection an
 external_link = "https://kstanczak.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-02-06T17:07:01
+date = 2023-11-30T00:00:00
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

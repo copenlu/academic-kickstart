@@ -67,7 +67,7 @@ math = false
 
 3 papers by CopeNLU authors are accepted to be presented ACL 2025, on topics including fact checking, retrieval-augmented generation and cultural NLP.
 
-<a href="/publication/2025_acl_warren/">Can Community Notes Replace Professional Fact-Checkers?</a>.
+<a href="/publication/2025_acl_borenstein/">Can Community Notes Replace Professional Fact-Checkers?</a>.
 <a href="/greta-warren">Greta Warren</a>, <a href="/authors/nadav-borenstein/">Nadav Borenstein</a>, <a href="/authors/desmond-elliott/">Desmond Elliott</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>.
 
 <a href="/publication/2025_acl_hagström/">A Reality Check on Context Utilisation for Retrieval-Augmented Generation</a>.

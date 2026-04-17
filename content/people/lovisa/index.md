@@ -14,7 +14,7 @@ bio = "Lovisa was a visiting PhD student from Chalmers University of Technology.
 external_link = "https://lovhag.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-02T16:07:01
+date = 2024-10-01T00:00:00
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

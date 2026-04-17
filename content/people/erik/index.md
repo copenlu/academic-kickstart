@@ -12,7 +12,7 @@ bio = "Erik's main research interests are question answering and explainability.
 external_link = "https://scholar.google.co.uk/citations?user=63BfrxMAAAAJ"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-11T17:07:01
+date = 2024-11-30T00:00:00
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

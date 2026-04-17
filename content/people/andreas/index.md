@@ -13,7 +13,7 @@ bio = "Andreas is an AI Specialist at Alexandra Institute. His was a PhD student
 external_link = "https://scholar.google.dk/citations?user=eeL1rPAAAAAJ"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-02-01T17:07:01
+date = 2023-03-31T00:00:00
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

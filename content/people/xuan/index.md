@@ -12,7 +12,7 @@ bio = "Zhong Xuan is a senior data scientist at Grab, Singapore, and was visitin
 external_link = "."
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-01-19T17:07:01
+date = 2019-07-22T00:00:00
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

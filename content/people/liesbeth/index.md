@@ -12,7 +12,8 @@ bio = "Liesbeth is a Postdoctoral Researcher at KU Leuven and Ghent University, 
 external_link = "https://scholar.google.ca/citations?user=KWe__fAAAAAJ&hl=nl&oi=ao"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-01-22T17:07:01
+date = 2020-03-31T00:00:00
+
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

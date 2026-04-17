@@ -6,7 +6,7 @@ title = "Alejandra Zambrano"
 role = "Visiting Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Alejandra is a visiting master student from Concordia University, Canada. She is working on understanding the reasoning of web agents but with a growing interest in explainability and interpretability of LLMs."
+bio = "Alejandra is a visiting master's student from Concordia University, Canada. She is working on understanding the reasoning of web agents but with a growing interest in explainability and interpretability of LLMs."
 
 # External website link
 external_link = "https://www.linkedin.com/in/alejandra-zambrano-a71092196/"

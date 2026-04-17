@@ -12,7 +12,7 @@ bio = "Now a senior data scientist at ZeroNorth."
 external_link = "https://dk.linkedin.com/in/sune-debel-756893a8"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-01-16T17:09:01
+date = 2018-07-31T00:00:00
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
