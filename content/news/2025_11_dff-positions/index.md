@@ -1,7 +1,7 @@
 +++
 title = "Funded PhD and postdoc positions for start Autumn 2026"
 date = 2025-11-25  # Schedule page publish date.
-draft = false
+draft = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

@@ -1,7 +1,7 @@
 +++
 title = "PhD fellowships for start in Spring or Autumn 2026"
 date = 2025-06-26  # Schedule page publish date.
-draft = false
+draft = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
