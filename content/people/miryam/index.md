@@ -13,7 +13,8 @@ bio = "Miryam's main research interests are syntactic parsing, multilingual NLP 
 external_link = "https://cl.lingfil.uu.se/~miryam/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-01-29T17:07:01
+date = 2024-12-31T00:00:00
+
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -13,11 +13,11 @@ bio = "Amalie's research focuses on detecting persuasive and misleading text. Sh
 external_link = "https://ddsa.dk/phdfellows2022/amaliebrogaardpauli/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2018-01-14T17:07:01
+date = 2026-02-01T00:00:00
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Affiliated"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

@@ -12,7 +12,7 @@ bio = "Na Min An's research interests are explainability, multimodal systems, an
 external_link = "https://namin-an.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-12T16:07:01
+date = 2025-06-02T00:00:00
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

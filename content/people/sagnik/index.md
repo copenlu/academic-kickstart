@@ -12,7 +12,7 @@ bio = "Sagnik is an Assistant Professor at the University of North Texas. He was
 external_link = "http://sagnikraychoudhury.com/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-01-26T17:09:01
+date = 2022-03-30T00:00:00
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

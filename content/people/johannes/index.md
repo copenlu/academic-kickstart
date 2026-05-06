@@ -12,7 +12,7 @@ bio = "Johannes is a full professor at Aalborg University Copenhagen. He was a p
 external_link = "http://bjerva.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-01-23T17:09:01
+date = 2019-08-31T00:00:00
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -12,7 +12,8 @@ bio = "Lucie's research interests include supporting lower-resourced language co
 external_link = "https://luciekaffee.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-02-02T17:07:01
+date = 2023-03-31T00:00:00
+
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

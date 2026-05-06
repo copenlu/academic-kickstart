@@ -12,7 +12,8 @@ bio = "Nils is the Head of Artificial Intelligence at experial.ai. He was previo
 external_link = "https://www.dfki.de/en/web/about-us/employee/person/nire02/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-02-04T17:07:01
+date = 2023-04-30T00:00:00
+
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

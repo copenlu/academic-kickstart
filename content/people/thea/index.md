@@ -12,7 +12,8 @@ bio = "Thea is a Data Scientist at Aarhus Municipality. She was MSc Student in C
 external_link = "https://www.linkedin.com/in/thea-rolskov-sloth-02803752/ "
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-01-30T17:07:01
+date = 2022-12-31T00:00:00
+
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

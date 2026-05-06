@@ -12,7 +12,8 @@ bio = "Amelie is a Postdoctoral Researcher at the IT University of Copenhagen, i
 external_link = "https://aclanthology.org/people/a/amelie-wuhrl/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-02-03T17:07:01
+date = 2023-04-30T00:00:00
+
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

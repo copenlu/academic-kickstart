@@ -13,7 +13,8 @@ bio = "Kevin Roitero is an Assistant Professor (RTD/a) at the University of Udin
 external_link = "https://kevinroitero.com/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-02-04T17:07:01
+date = 2023-06-18T00:00:00
+
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

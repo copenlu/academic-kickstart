@@ -12,7 +12,7 @@ bio = "Qianli is a PhD student at TU Berlin & DFKI and was visiting CopeNLU in S
 external_link = "https://qiaw99.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-13T16:07:01
+date = 2025-09-30T00:00:00
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

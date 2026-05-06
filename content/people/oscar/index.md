@@ -12,7 +12,7 @@ bio = "Oscar researches automating the assessment of psychological constructs us
 external_link = "https://www.oscarkjell.se/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-02-01T17:09:01
+date = 2022-12-31T00:00:00
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
