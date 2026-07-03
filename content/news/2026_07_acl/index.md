@@ -1,5 +1,5 @@
 +++
-title = "6 Papers to be Presented at ACL 2026"
+title = "7 Papers to be Presented at ACL 2026"
 date = 2026-04-06  # Schedule page publish date.
 draft = false
 
@@ -65,25 +65,27 @@ math = false
   focal_point = "Right"
 +++
 
-Six papers by CopeNLU authors have been accepted for presentation at ACL 2026, on topics including fact-checking and uncertainty, evaluation protocols for retrieval, factual consistency in long-document summarization, context utilisation in language models, and gender bias in LLM-generated persuasive text.
+Seven papers by CopeNLU authors have been accepted for presentation at ACL 2026, on topics including fact-checking and uncertainty, evaluation protocols for retrieval, factual consistency in long-document summarization, context utilisation in language models, and gender bias in LLM-generated persuasive text.
 
 
-
-
-<a href="/publication/2026_acl_hagström/">CUB: Benchmarking Context Utilisation Techniques for Language Models</a>.
-<a href="/authors/lovisa-hagström/">Lovisa Hagström</a>, <a href="/authors/youna-kim/">Youna Kim</a>, <a href="/authors/haeun-yu/">Haeun Yu</a>, <a href="/authors/sang-goo-lee/">Sang-goo Lee</a>, <a href="/authors/richard-johansson/">Richard Johansson</a>, <a href="/authors/hyunsoo-cho/">Hyunsoo Cho</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>.
-
-<a href="/publication/2026_acl_sun/">Explaining Sources of Uncertainty in Automated Fact-Checking</a>.
-<a href="/authors/jingyi-sun/">Jingyi Sun</a>, <a href="/authors/greta-warren/">Greta Warren</a>, <a href="/authors/irina-shklovski/">Irina Shklovski</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>.
-
-<a href="/publication/2026_acl_yang/">Reliable Evaluation Protocol for Low-Precision Retrieval</a>.
-<a href="/authors/kisu-yang/">Kisu Yang</a>, <a href="/authors/yoonna-jang/">Yoonna Jang</a>, <a href="/authors/hwanseok-jang/">Hwanseok Jang</a>, <a href="/authors/kenneth-choi/">Kenneth Choi</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>, <a href="/authors/heuiseok-lim/">Heuiseok Lim</a>.
-
-<a href="/publication/2026_acl_mujahid/">Stress Testing Factual Consistency Metrics for Long-Document Summarization</a>.
-<a href="/authors/zain-muhammad-mujahid/">Zain Muhammad Mujahid</a>, <a href="/authors/dustin-wright/">Dustin Wright</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>.
-
-<a href="/publication/2026_acl_pauli/">Analysing Differences in Persuasive Language in LLM-Generated Text: Uncovering Stereotypical Gender Patterns</a>.
-<a href="/authors/amalie-brogaard-pauli/">Amalie Brogaard Pauli</a>, <a href="/authors/maria-barrett/">Maria Barrett</a>, <a href="/authors/max-müller-eberstein/">Max Müller-Eberstein</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>, <a href="/authors/ira-assent/">Ira Assent</a>.
 
 <a href="/publication/2026_cl_sun_evaluation/">Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models</a>.
-<a href="/authors/jingyi-sun/">Jingyi Sun</a>, <a href="/authors/pepa-atanasova/">Pepa Atanasova</a>, <a href="/authors/sagnik-ray-choudhury/">Sagnik Ray Choudhury</a>, <a href="/authors/sekh-mainul-islam/">Sekh Mainul Islam</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>.
+<a href="/authors/jingyi-sun/">Jingyi Sun</a>, <a href="/authors/pepa-atanasova/">Pepa Atanasova</a>, <a href="/authors/sagnik-ray-choudhury/">Sagnik Ray Choudhury</a>, <a href="/authors/sekh-mainul-islam/">Sekh Mainul Islam</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>. Computational Linguistics.
+
+<a href="/publication/2026_acl_hagström/">CUB: Benchmarking Context Utilisation Techniques for Language Models</a>.
+<a href="/authors/lovisa-hagström/">Lovisa Hagström</a>, <a href="/authors/youna-kim/">Youna Kim</a>, <a href="/authors/haeun-yu/">Haeun Yu</a>, <a href="/authors/sang-goo-lee/">Sang-goo Lee</a>, <a href="/authors/richard-johansson/">Richard Johansson</a>, <a href="/authors/hyunsoo-cho/">Hyunsoo Cho</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>. ACL main.
+
+<a href="/publication/2026_acl_sun/">Explaining Sources of Uncertainty in Automated Fact-Checking</a>.
+<a href="/authors/jingyi-sun/">Jingyi Sun</a>, <a href="/authors/greta-warren/">Greta Warren</a>, <a href="/authors/irina-shklovski/">Irina Shklovski</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>. ACL main.
+
+<a href="/publication/2026_acl_yang/">Reliable Evaluation Protocol for Low-Precision Retrieval</a>.
+<a href="/authors/kisu-yang/">Kisu Yang</a>, <a href="/authors/yoonna-jang/">Yoonna Jang</a>, <a href="/authors/hwanseok-jang/">Hwanseok Jang</a>, <a href="/authors/kenneth-choi/">Kenneth Choi</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>, <a href="/authors/heuiseok-lim/">Heuiseok Lim</a>. ACL main.
+
+<a href="/publication/2026_acl_mujahid/">Stress Testing Factual Consistency Metrics for Long-Document Summarization</a>.
+<a href="/authors/zain-muhammad-mujahid/">Zain Muhammad Mujahid</a>, <a href="/authors/dustin-wright/">Dustin Wright</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>. ACL main.
+
+<a href="/publication/2026_acl_pauli/">Analysing Differences in Persuasive Language in LLM-Generated Text: Uncovering Stereotypical Gender Patterns</a>.
+<a href="/authors/amalie-brogaard-pauli/">Amalie Brogaard Pauli</a>, <a href="/authors/maria-barrett/">Maria Barrett</a>, <a href="/authors/max-müller-eberstein/">Max Müller-Eberstein</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>, <a href="/authors/ira-assent/">Ira Assent</a>. ACL Findings.
+
+<a href="/publication/2026_acl-srw_dmonte/">Claim Verification in the Age of Large Language Models: A Survey</a>.
+<a href="/authors/alphaeus-dmonte/">Alphaeus Dmonte</a>, <a href="/authors/roland-oruche/">Roland Oruche</a>, <a href="/authors/marcos-zampieri/">Marcos Zampieri</a>, <a href="/authors/prasad-calyam">Prasad Calyam</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>. ACL SRW.
