@@ -1,6 +1,6 @@
 +++
 title = "Claim Verification in the Age of Large Language Models: A Survey"
-date = 2024-08-26T00:00:00
+date = 2026-04-08T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Alphaeus Dmonte", "Roland Oruche", "Marcos Zampieri", "Prasad Calyam
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2408.14317"
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop (ACL SRW 2026)"
+publication_short = "In *ACL SRW*"
 
 # Abstract and optional shortened version.
 abstract = "The large and ever-increasing amount of data available on the Internet coupled with the laborious task of manual claim and fact verification has sparked the interest in the development of automated claim verification systems. Several deep learning and transformer-based models have been proposed for this task over the years. With the introduction of Large Language Models (LLMs) and their superior performance in several NLP tasks, we have seen a surge of LLM-based approaches to claim verification along with the use of novel methods such as Retrieval Augmented Generation (RAG). In this survey, we present a comprehensive account of recent claim verification frameworks using LLMs. We describe the different components of the claim verification pipeline used in these frameworks in detail including common approaches to retrieval, prompting, and fine-tuning. Finally, we describe publicly available English datasets created for this task."
@@ -49,7 +49,7 @@ projects = ["explainability", "fact-checking"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2408.14317"
+url_pdf = "https://aclanthology.org/2026.acl-srw.2/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
