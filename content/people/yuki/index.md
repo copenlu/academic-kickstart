@@ -6,18 +6,18 @@ title = "Nadya Yuki Wangsajaya"
 role = "Visiting Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Yuki is a visiting bachelor's student from Nanyang Technological University, Singapore. Her research focuses on trustworthy and explainable LMs."
+bio = "Yuki was a visiting bachelor's student from Nanyang Technological University, Singapore. Her research focuses on trustworthy and explainable LMs."
 
 # External website link
 external_link = "https://yukiwukii.github.io"
 
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-12-24T16:07:01
+date = 2026-05-31T16:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

@@ -6,18 +6,18 @@ title = "Anna Sacchet"
 role = "Visiting Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Anna is a visiting master's student from the University of Udine, Italy. Her research focuses on factuality and iterative refinement in LLMs, with a particular interest in fact-checking tasks."
+bio = "Anna was a visiting master's student from the University of Udine, Italy. Her research focuses on factuality and iterative refinement in LLMs, with a particular interest in fact-checking tasks."
 
 # External website link
 external_link = "https://www.linkedin.com/in/anna-sacchet-a0657518a/"
 
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-12-24T16:07:01
+date = 2026-06-30T16:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

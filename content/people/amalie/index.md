@@ -7,7 +7,7 @@ draft = false
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Amalie's research focuses on detecting persuasive and misleading text. She is a PhD student at Aarhus University and co-advised by Isabelle."
+bio = "Amalie's research focuses on detecting persuasive and misleading text. She was a PhD student at Aarhus University and co-advised by Isabelle."
 
 # External website link
 external_link = "https://ddsa.dk/phdfellows2022/amaliebrogaardpauli/"
