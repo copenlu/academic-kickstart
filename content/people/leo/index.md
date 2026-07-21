@@ -6,18 +6,18 @@ title = "Leo Raphael Rodrigues"
 role = "Visiting Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Leo is a visiting master's student from MBZUAI, UAE. His research focuses on language model interpretability, generative recommendation systems, and machine translation for low-resource languages."
+bio = "Leo was a visiting master's student from MBZUAI, UAE. His research focuses on language model interpretability, generative recommendation systems, and machine translation."
 
 # External website link
 external_link = "https://leorodrigues05.github.io/"
 
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-12-24T16:07:01
+date = 2026-07-11T16:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

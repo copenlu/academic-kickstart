@@ -6,17 +6,17 @@ title = "Yoonna Jang"
 role = "Postdoc"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Yoonna's research interests include language generation, factuality and interpretability."
+bio = "Yoonna's research interests include language generation, factuality and interpretability. She is now a Research Scientist at Hanwha Aerospace."
 
 # External website link
 external_link = "https://yoonnajang.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2018-12-23T16:07:01
+date = 2026-07-10T16:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #
