@@ -6,17 +6,17 @@ title = "Nadav Borenstein"
 role = "Postdoc"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Nadav's research interests include improving the trustworthiness and usefulness of deep models in the NLP domain."
+bio = "Nadav did his PhD in CopeNLU and later joined our group as a P1 postdoctoral fellow, working on improving the trustworthiness and usefulness of deep models in NLP. He was with the group until 2026 and is now a Research Scientist at Apple."
 
 # External website link
 external_link = "https://nadav.dk/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-08T17:07:01
+date = 2026-07-31T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

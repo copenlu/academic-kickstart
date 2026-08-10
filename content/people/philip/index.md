@@ -1,22 +1,22 @@
 +++
 # Display name
-title = "Yijun Bian"
+title = "Philip Müller"
 
 # Role/position
-role = "Postdoc"
+role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Yijun was a Marie-Curie postdoctoral fellow working on fair and interpretable ML."
+bio = "Philip's main research interests include explainability, retrieval-augmented generation, and uncertainty quantification for LLMs."
 
 # External website link
-external_link = "https://eustomadew.github.io/"
+external_link = "https://philipmueller.dev/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2026-07-31T16:07:01
+date = 2017-12-24T16:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Alumni"]
+tags = ["Members"]
 
 # Social/Academic Networking
 #
@@ -39,27 +39,17 @@ tags = ["Alumni"]
 [[social]]
 icon = "envelope"
 icon_pack = "fas"
-link = "mailto:yibi@di.ku.dk"  # For a direct email link, use "mailto:test@example.org".
+link = "mailto:philipmuller@di.ku.dk"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
 icon = "linkedin"
 icon_pack = "fab"
-link = "https://www.linkedin.com/in/yijunbian/"
-
-[[social]]
-icon = "linkedin"
-icon_pack = "fab"
-link = "https://eustomadew.github.io/"
-
-[[social]]
-icon = "google-scholar"
-icon_pack = "ai"
-link = "https://scholar.google.com/citations?user=SmvfHHgAAAAJ&hl=en"
+link = "https://www.linkedin.com/in/philip-m%C3%BCller-662477282/"
 
 [[social]]
 icon = "github"
 icon_pack = "fab"
-link = "https://github.com/eustomaqua"
+link = "https://github.com/muelphil"
 
 
 # Optional external URL for project (replaces project detail page).
