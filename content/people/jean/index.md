@@ -13,7 +13,7 @@ external_link = "https://github.com/seemdog"
 
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-12-24T16:08:01
+date = 2017-12-26T16:08:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

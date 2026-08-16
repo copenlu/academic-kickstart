@@ -1,19 +1,19 @@
 +++
 # Display name
-title = "Lucas Resck"
+title = "Lenka Tětková"
 draft = false
 
 # Role/position
-role = "PhD Student"
+role = "Postdoc"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Lucas is an ELLIS PhD student at the University of Cambridge, supervised by Anna Korhonen and co-supervised by Isabelle. His research interests include machine learning, explainability, interpretability, and multilingual NLP."
+bio = "Lenka is a DDSA Postdoctoral Fellow at the Technical University of Denmark, working on concept-based explainability and human-machine alignment, and collaborates with Pepa on her project on the geometry of trust in latent representations."
 
 # External website link
-external_link = "http://lucasresck.github.io/"
+external_link = "https://lenkatetkova.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2018-01-12T17:07:01
+date = 2018-01-16T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -40,27 +40,27 @@ tags = ["Affiliated"]
 [[social]]
 icon = "envelope"
 icon_pack = "fas"
-link = "mailto:ler44@cam.ac.uk"  # For a direct email link, use "mailto:test@example.org".
-
-[[social]]
-icon = "twitter"
-icon_pack = "fab"
-link = "https://twitter.com/lucasresck2"
+link = "mailto:lenhy@dtu.dk"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
 icon = "linkedin"
 icon_pack = "fab"
-link = "https://www.linkedin.com/in/lucasresck/"
+link = "https://www.linkedin.com/in/lenka-tetkova/"
+
+[[social]]
+icon = "bluesky"
+icon_pack = "fab"
+link = "https://bsky.app/profile/lenkatetkova.bsky.social"
 
 [[social]]
 icon = "google-scholar"
 icon_pack = "ai"
-link = "https://scholar.google.com/citations?user=ROLstoAAAAAJ"
+link = "https://scholar.google.com/citations?user=GSJaf6kAAAAJ"
 
 [[social]]
 icon = "github"
 icon_pack = "fab"
-link = "https://github.com/lucasresck"
+link = "https://github.com/lenkatetkova"
 
 
 # Optional external URL for project (replaces project detail page).
