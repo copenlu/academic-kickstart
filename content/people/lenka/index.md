@@ -13,7 +13,7 @@ bio = "Lenka is a DDSA Postdoctoral Fellow at the Technical University of Denmar
 external_link = "https://lenkatetkova.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2018-01-16T17:07:01
+date = 2018-01-10T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
