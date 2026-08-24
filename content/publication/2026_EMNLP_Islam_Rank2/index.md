@@ -1,10 +1,10 @@
 +++
-title = "Whose Norms? Disentangling Cultural and Personal Alignment in Large Language Models"
-date = 2026-06-05T00:00:00
+title = "Multi-Step Knowledge Interaction Analysis via Rank-2 Subspace Disentanglement"
+date = 2026-08-24T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Angana Borah", "Isabelle Augenstein", "Rada Mihalcea"]
+authors = ["Sekh Mainul Islam", "Pepa Atanasova", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Angana Borah", "Isabelle Augenstein", "Rada Mihalcea"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2606.07877"
-publication_short = "In *CoRR*"
+publication = "In Findings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)"
+publication_short = "In *EMNLP*"
 
 # Abstract and optional shortened version.
-abstract = "Large language models are increasingly used for social decision-making situations that require balancing cultural norms with personal preferences. For example, a user preferring honesty might ask whether to correct a coworker publicly when local norms favor indirect feedback. Yet existing research studies cultural alignment and personalization largely separately. We introduce PACT, the Personal-Preference and Cultural-Norm Trade-off framework, which evaluates whether models choose to follow a cultural norm or allow personal preferences. We find that LLMs vary in how rigidly they enforce cultural norms, with behavior shifted more by country context (7.8%) than age (1%) and gender (0.7%) and shifting non-uniformly after instruction tuning. Furthermore, our five-country human study on PACT shows that culture-following in humans is mainly driven by scenario country, with the lowest agreement when participants judge their own cultural contexts, showing within-culture pluralism. Finally, human-LLM alignment experiments show that models can match majority choices, but fail to capture response distributions and uncertainty (with best correlations reaching only 0.24). Together, these findings motivate alignment evaluations that go beyond majority to capture cultural pluralism and disagreement in social judgment."
+abstract = "Natural Language Explanations (NLEs) describe how Large Language Models (LLMs) make decisions, drawing on both external Context Knowledge (CK) and Parametric Knowledge (PK) stored in model weights. Understanding their interaction is key to assessing the grounding of NLEs, yet it remains underexplored. Prior work has largely examined only single-step generation, typically the final answer, and has modelled PK and CK interaction only as a binary choice in a rank-1 subspace. This overlooks richer forms of interaction, such as complementary or supportive knowledge. We propose a novel rank-2 projection subspace that disentangles PK and CK contributions more accurately and use it for the first multi-step analysis of knowledge interactions across longer NLE sequences. Experiments on four QA datasets and three open-weight instruction-tuned LLMs show that diverse knowledge interactions are poorly represented in a rank-1 subspace but are effectively captured in our rank-2 formulation. Our multi-step analysis reveals that hallucinated NLEs align strongly with the PK direction, context-faithful ones balance PK and CK, and Chain-of-Thought prompting for NLEs shifts generated NLEs toward CK by reducing PK reliance. This work provides the first framework for systematic studies of multi-step knowledge interactions in LLMs through a richer rank-2 subspace disentanglement."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = [""]
+projects = ["explainability"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = [""]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2606.07877"
+url_pdf = "https://arxiv.org/abs/2511.01706"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

@@ -1,10 +1,10 @@
 +++
-title = "Multi-Step Knowledge Interaction Analysis via Rank-2 Subspace Disentanglement"
-date = 2025-09-05T00:00:00
+title = "Do We Still Need Humans in the Loop? Comparing Human and LLM Annotation in Active Learning for Hostility Detection"
+date = 2026-08-24T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Sekh Mainul Islam", "Pepa Atanasova", "Isabelle Augenstein"]
+authors = ["Ahmad Dawar Hakimi", "Lea Hirlimann", "Isabelle Augenstein", "Hinrich Schütze"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Sekh Mainul Islam", "Pepa Atanasova", "Isabelle Augenstein"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2511.01706"
-publication_short = "In *CoRR*"
+publication = "In Findings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)"
+publication_short = "In *EMNLP*"
 
 # Abstract and optional shortened version.
-abstract = "Natural Language Explanations (NLEs) describe how Large Language Models (LLMs) make decisions, drawing on both external Context Knowledge (CK) and Parametric Knowledge (PK) stored in model weights. Understanding their interaction is key to assessing the grounding of NLEs, yet it remains underexplored. Prior work has largely examined only single-step generation, typically the final answer, and has modelled PK and CK interaction only as a binary choice in a rank-1 subspace. This overlooks richer forms of interaction, such as complementary or supportive knowledge. We propose a novel rank-2 projection subspace that disentangles PK and CK contributions more accurately and use it for the first multi-step analysis of knowledge interactions across longer NLE sequences. Experiments on four QA datasets and three open-weight instruction-tuned LLMs show that diverse knowledge interactions are poorly represented in a rank-1 subspace but are effectively captured in our rank-2 formulation. Our multi-step analysis reveals that hallucinated NLEs align strongly with the PK direction, context-faithful ones balance PK and CK, and Chain-of-Thought prompting for NLEs shifts generated NLEs toward CK by reducing PK reliance. This work provides the first framework for systematic studies of multi-step knowledge interactions in LLMs through a richer rank-2 subspace disentanglement."
+abstract = "Instruction-tuned LLMs can annotate thousands of instances at low cost. This raises two questions for active learning (AL): can LLM labels replace human labels within the AL loop, and does AL remain necessary when entire corpora can be cheaply labeled? We investigate both on a new dataset of 277,902 German political TikTok comments (25,974 LLM-labeled, 5,000 human-annotated), comparing LLM and human annotation across seven conditions, four encoders, and 10 random seeds. Under a two-question interface that mirrors the human annotation task, LLM annotation at scale outperforms human-supervised classifiers at roughly one-tenth the cost ($28 for GPT-5.2 Batch API vs. $316 for Prolific). The advantage holds for both a closed-source (GPT-5.2) and an open-weight (Qwen3.5-122B-10B) LLM, is robust under soft-label evaluation, and is unlocked specifically by the two-question decomposition; a holistic single-prompt baseline only ties with human supervision. AL provides no reliable advantage over random sampling under either LLM annotator. However, error structure varies sharply: only GPT-5.2 under the two-question interface produces classifiers with near-human FP/FN balance, while other LLM variants over-flag border-control and economic competition discourse. We release the dataset and code."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["explainability"]
+projects = [""]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["explainability"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2511.01706"
+url_pdf = "https://arxiv.org/abs/2604.13899"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

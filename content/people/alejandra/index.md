@@ -6,18 +6,18 @@ title = "Alejandra Zambrano"
 role = "Visiting Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Alejandra is a visiting master's student from Concordia University, Canada. She is working on understanding the reasoning of web agents but with a growing interest in explainability and interpretability of LLMs."
+bio = "Alejandra was a visiting master's student from Concordia University, Canada. Her research focuses on understanding the reasoning of web agents but with a growing interest in explainability and interpretability of LLMs."
 
 # External website link
 external_link = "https://www.linkedin.com/in/alejandra-zambrano-a71092196/"
 
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-12-24T16:07:01
+date = 2026-08-24T16:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

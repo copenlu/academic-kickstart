@@ -1,19 +1,18 @@
 +++
 # Display name
-title = "Bao Dinh"
+title = "Jeremy Herbst"
 
 # Role/position
-role = "Visiting Student"
+role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Bao Dinh is a visiting master's student from MBZUAI, UAE. His research focuses on adversarial attacks on aligned LLMs, with broader interests in AI safety and representation alignment."
+bio = "Jeremy's main research interests include mechanistic interpretability, AI safety, and understanding the representations and mechanisms underlying AI models."
 
 # External website link
-external_link = "https://www.linkedin.com/in/dinhhogiabao/"
-
+external_link = "https://herbst.ai"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-11-24T16:07:01
+date = 2017-12-23T16:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -40,22 +39,23 @@ tags = ["Members"]
 [[social]]
 icon = "envelope"
 icon_pack = "fas"
-link = "mailto:dinhhogiabao@gmail.com "  # For a direct email link, use "mailto:test@example.org".
+link = "mailto:jeremy.herbst@di.ku.dk"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
 icon = "linkedin"
 icon_pack = "fab"
-link = "https://www.linkedin.com/in/dinhhogiabao/"
+link = "https://www.linkedin.com/in/jeremy-herbst-9396282b2"
 
 [[social]]
 icon = "google-scholar"
 icon_pack = "ai"
-link = "https://scholar.google.com/citations?user=wdyU2XMAAAAJ&hl=en"
+link = "https://scholar.google.com/citations?hl=en&user=h1fkPYgAAAAJ"
 
 [[social]]
 icon = "github"
 icon_pack = "fab"
-link = "https://github.com/giaabaoo"
+link = "https://github.com/jerryy33"
+
 
 # Optional external URL for project (replaces project detail page).
 

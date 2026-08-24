@@ -1,10 +1,10 @@
 +++
-title = "BiasGym: Fantastic Biases and How to Find (and Remove) Them"
-date = 2025-08-13T00:00:00
+title = "Whose Norms? Disentangling Cultural and Personal Alignment in Large Language Models"
+date = 2026-08-24T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Sekh Mainul Islam", "Nadav Borenstein", "Siddhesh Milind Pawar", "Haeun Yu", "Arnav Arora", "Isabelle Augenstein"]
+authors = ["Angana Borah", "Isabelle Augenstein", "Rada Mihalcea"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Sekh Mainul Islam", "Nadav Borenstein", "Siddhesh Milind Pawar", "Ha
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2508.08855"
-publication_short = "In *CoRR*"
+publication = "In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)"
+publication_short = "In *EMNLP*"
 
 # Abstract and optional shortened version.
-abstract = "Understanding biases and stereotypes encoded in the weights of Large Language Models (LLMs) is crucial for developing effective mitigation strategies. Biased behaviour is often subtle and non-trivial to isolate, even when deliberately elicited, making systematic analysis and debiasing particularly challenging. To address this, we introduce BiasGym, a simple, cost-effective, and generalizable framework for reliably injecting, analyzing, and mitigating conceptual associations within LLMs. BiasGym consists of two components: BiasInject, which injects specific biases into the model via token-based fine-tuning while keeping the model frozen, and BiasScope, which leverages these injected signals to identify and steer the components responsible for biased behavior. Our method enables consistent bias elicitation for mechanistic analysis, supports targeted debiasing without degrading performance on downstream tasks, and generalizes to biases unseen during training. We demonstrate the effectiveness of BiasGym in reducing real-world stereotypes (e.g., people from a country being `reckless drivers') and in probing fictional associations (e.g., people from a country having `blue skin'), showing its utility for both safety interventions and interpretability research."
+abstract = "Large language models are increasingly used for social decision-making situations that require balancing cultural norms with personal preferences. For example, a user preferring honesty might ask whether to correct a coworker publicly when local norms favor indirect feedback. Yet existing research studies cultural alignment and personalization largely separately. We introduce PACT, the Personal-Preference and Cultural-Norm Trade-off framework, which evaluates whether models choose to follow a cultural norm or allow personal preferences. We find that LLMs vary in how rigidly they enforce cultural norms, with behavior shifted more by country context (7.8%) than age (1%) and gender (0.7%) and shifting non-uniformly after instruction tuning. Furthermore, our five-country human study on PACT shows that culture-following in humans is mainly driven by scenario country, with the lowest agreement when participants judge their own cultural contexts, showing within-culture pluralism. Finally, human-LLM alignment experiments show that models can match majority choices, but fail to capture response distributions and uncertainty (with best correlations reaching only 0.24). Together, these findings motivate alignment evaluations that go beyond majority to capture cultural pluralism and disagreement in social judgment."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["bias-detection", "explainability"]
+projects = [""]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -49,7 +49,7 @@ projects = ["bias-detection", "explainability"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2508.08855"
+url_pdf = "https://arxiv.org/abs/2606.07877"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
