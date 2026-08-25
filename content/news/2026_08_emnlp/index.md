@@ -66,6 +66,8 @@ math = false
 +++
 
 Seven papers accepted to EMNLP 2026, on measuring knowledge diversity and entanglement, cross-cultural probing, and bias removal.
+
+
 <a href="/publication/2026_emnlp_wright/">What and Whose Knowledge? Measuring Epistemic Diversity in Large Language Models</a>.
 <a href="/authors/dustin-wright/">Dustin Wright</a>, <a href="/authors/sarah-masud/">Sarah Masud</a>, <a href="/authors/jared-moore/">Jared Moore</a>, <a href="/authors/srishti-yadav/">Srishti Yadav</a>, <a href="/authors/maria-antoniak/">Maria Antoniak</a>, <a href="/authors/chan-young-park/">Chan Young Park</a>, <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>. EMNLP main.
 
