@@ -26,7 +26,7 @@ abstract = "Large language models (LLMs) tend to generate lexically, semanticall
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -34,7 +34,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["limited-data"]
+projects = ["bias-detection"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
