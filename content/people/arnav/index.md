@@ -6,17 +6,17 @@ title = "Arnav Arora"
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Arnav’s research interests include equitable ML, mitigating online harms, and the intersection of NLP and Computational Social Science."
+bio = "Arnav finished his PhD in our group in 2026, where his research focused on equitable ML, mitigating online harms, and the intersection of NLP and Computational Social Science. He is now a Model Behaviour Architect at Mistral."
 
 # External website link
 external_link = "https://scholar.google.com/citations?user=EQUUUUoAAAAJ&hl=en"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-07T17:07:01
+date = 2026-08-31T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

@@ -1,22 +1,23 @@
 +++
 # Display name
-title = "Jingyi Sun"
+title = "Cristiana Lazăr"
+draft = false
 
 # Role/position
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Jingyi finished her PhD in our group in 2026, where her research focused on explainability, fact-checking, and question answering. She is now a Postdoctoral Research Associate at King’s College London."
+bio = "Cristiana’s research interests include natural language understanding, large language models, and human-centered AI, with a focus on developing reliable NLP methods for real-world applications."
 
 # External website link
-external_link = "https://scholar.google.com.hk/citations?hl=zh-CN&user=KD_0W9sAAAAJ"
+external_link = "https://www.linkedin.com/in/cristiana-laz%C4%83r-384699150/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2026-07-31T17:07:01
+date = 2018-01-09T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Alumni"]
+tags = ["Affiliated"]
 
 # Social/Academic Networking
 #
@@ -39,25 +40,21 @@ tags = ["Alumni"]
 [[social]]
 icon = "envelope"
 icon_pack = "fas"
-link = "mailto:jisu@di.ku.dk"  # For a direct email link, use "mailto:test@example.org".
+link = "mailto:qzt201@di.ku.dk"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
 icon = "linkedin"
 icon_pack = "fab"
-link = "https://www.linkedin.com/in/jingyi-sun-281823284/"
-
-[[social]]
-icon = "google-scholar"
-icon_pack = "ai"
-link = "https://scholar.google.com.hk/citations?hl=zh-CN&user=KD_0W9sAAAAJ"
+link = "https://www.linkedin.com/in/cristiana-laz%C4%83r-384699150/"
 
 [[social]]
 icon = "github"
 icon_pack = "fab"
-link = "https://github.com/lianyiyi"
+link = "https://github.com/CristianaLazar"
 
 
 # Optional external URL for project (replaces project detail page).
+external_link = "http://example.org"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

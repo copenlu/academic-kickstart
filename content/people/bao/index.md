@@ -13,7 +13,7 @@ external_link = "https://www.linkedin.com/in/dinhhogiabao/"
 
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-11-24T16:07:01
+date = 2017-10-24T16:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -1,22 +1,22 @@
 +++
 # Display name
-title = "Jingyi Sun"
+title = "Alex Laitenberger"
 
 # Role/position
 role = "PhD Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Jingyi finished her PhD in our group in 2026, where her research focused on explainability, fact-checking, and question answering. She is now a Postdoctoral Research Associate at King’s College London."
+bio = "Alex's research interests include truthfulness, interpretability, and the design and understanding of language model systems."
 
 # External website link
-external_link = "https://scholar.google.com.hk/citations?hl=zh-CN&user=KD_0W9sAAAAJ"
+external_link = "https://alex-laitenberger.github.io/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2026-07-31T17:07:01
+date = 2017-12-22T16:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Alumni"]
+tags = ["Members"]
 
 # Social/Academic Networking
 #
@@ -39,22 +39,27 @@ tags = ["Alumni"]
 [[social]]
 icon = "envelope"
 icon_pack = "fas"
-link = "mailto:jisu@di.ku.dk"  # For a direct email link, use "mailto:test@example.org".
+link = "mailto:jeremy.herbst@di.ku.dk"  # For a direct email link, use "mailto:alex.laitenberger@di.ku.dk".
+
+[[social]]
+icon = "twitter"
+icon_pack = "fab"
+link = "https://x.com/AlexLaitenb"
 
 [[social]]
 icon = "linkedin"
 icon_pack = "fab"
-link = "https://www.linkedin.com/in/jingyi-sun-281823284/"
+link = "www.linkedin.com/in/laitenberger/"
 
 [[social]]
 icon = "google-scholar"
 icon_pack = "ai"
-link = "https://scholar.google.com.hk/citations?hl=zh-CN&user=KD_0W9sAAAAJ"
+link = "https://scholar.google.com/citations?user=t82LsQgAAAAJ&hl=en"
 
 [[social]]
 icon = "github"
 icon_pack = "fab"
-link = "https://github.com/lianyiyi"
+link = "https://github.com/alex-laitenberger"
 
 
 # Optional external URL for project (replaces project detail page).
