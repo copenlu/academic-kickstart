@@ -49,7 +49,7 @@ link = "https://x.com/AlexLaitenb"
 [[social]]
 icon = "linkedin"
 icon_pack = "fab"
-link = "www.linkedin.com/in/laitenberger/"
+link = "https://www.linkedin.com/in/laitenberger/"
 
 [[social]]
 icon = "google-scholar"
