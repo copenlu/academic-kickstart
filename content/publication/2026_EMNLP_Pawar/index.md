@@ -1,5 +1,5 @@
 +++
-title = "Not What, But How: A Framework for Auditing LLM Responses across Positioning, Generalization, Anthropomorphism, and Maxims"
+title = "Not What, But How: A Communicative Audit of LLM Response Framing"
 date = 2026-08-24T00:00:00
 draft = false
 

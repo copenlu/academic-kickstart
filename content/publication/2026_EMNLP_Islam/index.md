@@ -1,5 +1,5 @@
 +++
-title = "Bias to Debias: A Simple and Generalizable Framework for Analyzing and Removing Biases through Elicitation"
+title = "BiasGym: A Simple and Generalizable Framework for Analyzing and Removing Biases through Injection"
 date = 2026-08-24T00:00:00
 draft = false
 

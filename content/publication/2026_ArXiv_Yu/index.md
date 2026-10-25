@@ -1,10 +1,10 @@
 +++
-title = "Emergence of Context Characteristics Sensitivity in Large Language Models"
-date = 2026-06-08T00:00:00
+title = "A Reality Check of Inference-Time Context Augmentation Methods"
+date = 2026-10-22T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Nadya Yuki Wangsajaya", "Haeun Yu", "Isabelle Augenstein"]
+authors = ["Haeun Yu", "Geert Heyman", "Pepa Atanasova", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Nadya Yuki Wangsajaya", "Haeun Yu", "Isabelle Augenstein"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "CoRR, abs/2606.09525"
+publication = "CoRR, abs/2610.30983"
 publication_short = "In *CoRR*"
 
 # Abstract and optional shortened version.
-abstract = "During instruction fine-tuning (IFT), large language models (LLMs) learn to follow instructions by using the provided context to answer a query. While prior work has studied how context characteristics correlate with context usage by the LLM, this analysis has been limited to inference time, leaving open how these relationships are acquired in the first place. Here, we measure how models' sensitivity to such characteristics shifts across successive IFT stages: supervised fine-tuning (SFT), direct preference optimization (DPO), and reinforcement learning with verifiable rewards (RLVR). Experiments across four models and three datasets show that SFT makes models more likely to use contexts that are easy to understand, such as containing high length, context-query similarity, and fluency. Post-SFT dynamics may either reinforce or resolve these preferences depending on the training dataset. Our findings reveal that context usage is actively reshaped at each IFT stage, and designing a balanced IFT dataset is important in ensuring robust context utilization of instruction-tuned models."
+abstract = "Large language models (LLMs) often fail to utilise the context given in the input, resulting in hallucinations or a fallback to parametric knowledge. Context augmentation methods aim to improve model performance by modifying the input, from inserting filler tokens that add computational time to adding relevant content such as elaboration of a context during inference. However, these methods have been evaluated in isolation and only by their performance gains, leaving it unclear how they compare and whether they reliably improve performance. In this paper, we present an evaluation framework spanning five methods that differ in how informative the inserted content is and apply them at the sentence level across seven models spanning multiple sizes on three datasets. We find that accuracy gains are not always genuine improvements but undirected perturbations: the methods correct some predictions while breaking others, particularly when the inserted text allows only for more computational time. Our analysis reveals that methods that bring no additional content primarily change model predictions near the decision boundary. Our findings highlight the need to evaluate the reliability of the accuracy gains before adopting them in practice."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -49,7 +49,7 @@ projects = ["explainability"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2606.09525"
+url_pdf = "https://arxiv.org/abs/2610.30983"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

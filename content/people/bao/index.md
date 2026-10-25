@@ -6,18 +6,18 @@ title = "Bao Dinh"
 role = "Visiting Student"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Bao Dinh is a visiting master's student from MBZUAI, UAE. His research focuses on adversarial attacks on aligned LLMs, with broader interests in AI safety and representation alignment."
+bio = "Bao was a visiting master's student from MBZUAI, UAE. His research focuses on adversarial attacks on aligned LLMs, with broader interests in AI safety and representation alignment."
 
 # External website link
 external_link = "https://www.linkedin.com/in/dinhhogiabao/"
 
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2017-10-24T16:07:01
+date = 2026-10-24T16:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["Alumni"]
 
 # Social/Academic Networking
 #

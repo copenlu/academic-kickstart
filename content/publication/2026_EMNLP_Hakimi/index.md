@@ -1,5 +1,5 @@
 +++
-title = "Do We Still Need Humans in the Loop? Comparing Human and LLM Annotation in Active Learning for Hostility Detection"
+title = "Do We Still Need Humans in the Loop? Human vs. LLM Annotation in Active Learning for TikTok Hate Speech Detection"
 date = 2026-08-24T00:00:00
 draft = false
 

@@ -4,7 +4,7 @@ date = 2026-08-24T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Dustin Wright", "Sarah Masud", "Jared Moore", "Srishti Yadav", "Maria Antoniak", "Chan Young Park", "Isabelle Augenstein"]
+authors = ["Dustin Wright", "Sarah Masud", "Jared Moore", "Srishti Yadav", "Maria Antoniak", "Peter Ebert Christensen", "Chan Young Park", "Isabelle Augenstein"]
 
 # Publication type.
 # Legend:
